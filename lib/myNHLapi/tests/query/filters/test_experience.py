@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.experience import ExperienceQuery
+from myNHLapi.nhlpy.api.query.filters.experience import ExperienceQuery
 
 
 def test_is_rookie():

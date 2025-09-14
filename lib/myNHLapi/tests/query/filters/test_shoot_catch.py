@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.shoot_catch import ShootCatchesQuery
+from myNHLapi.nhlpy.api.query.filters.shoot_catch import ShootCatchesQuery
 
 
 def test_shoot_catch_l():

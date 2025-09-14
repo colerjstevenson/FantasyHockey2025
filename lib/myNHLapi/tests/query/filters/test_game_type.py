@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.game_type import GameTypeQuery
+from myNHLapi.nhlpy.api.query.filters.game_type import GameTypeQuery
 
 
 def test_game_type_preseason():

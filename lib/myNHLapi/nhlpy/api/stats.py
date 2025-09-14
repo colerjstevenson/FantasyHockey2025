@@ -1,10 +1,10 @@
 import json
 from typing import List
 
-from myNHLpy.nhlpy.api.query.builder import QueryContext
-from myNHLpy.nhlpy.api.query.filters import _goalie_stats_sorts
-from myNHLpy.nhlpy.api.query.sorting.sorting_options import SortingOptions
-from myNHLpy.nhlpy.http_client import HttpClient, Endpoint
+from myNHLapi.nhlpy.api.query.builder import QueryContext
+from myNHLapi.nhlpy.api.query.filters import _goalie_stats_sorts
+from myNHLapi.nhlpy.api.query.sorting.sorting_options import SortingOptions
+from myNHLapi.nhlpy.http_client import HttpClient, Endpoint
 
 
 class Stats:

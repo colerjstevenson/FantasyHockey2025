@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.home_road import HomeRoadQuery
+from myNHLapi.nhlpy.api.query.filters.home_road import HomeRoadQuery
 
 
 def test_home_game():

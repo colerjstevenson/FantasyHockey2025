@@ -2,12 +2,12 @@ import logging
 import time
 from typing import List, Any
 
-from myNHLpy.nhlpy.api.query.builder import QueryBuilder
-from myNHLpy.nhlpy.api.query.filters.franchise import FranchiseQuery
-from myNHLpy.nhlpy.api.query.filters.season import SeasonQuery
-from myNHLpy.nhlpy.api.stats import Stats
-from myNHLpy.nhlpy.api.teams import Teams
-from myNHLpy.nhlpy.http_client import HttpClient
+from myNHLapi.nhlpy.api.query.builder import QueryBuilder
+from myNHLapi.nhlpy.api.query.filters.franchise import FranchiseQuery
+from myNHLapi.nhlpy.api.query.filters.season import SeasonQuery
+from myNHLapi.nhlpy.api.stats import Stats
+from myNHLapi.nhlpy.api.teams import Teams
+from myNHLapi.nhlpy.http_client import HttpClient
 
 
 class Helpers:
@@ -34,8 +34,8 @@ class Helpers:
         Returns:
            List of game IDs for the specified season and game types.
         """
-        from myNHLpy.nhlpy.api.teams import Teams
-        from myNHLpy.nhlpy.api.schedule import Schedule
+        from myNHLapi.nhlpy.api.teams import Teams
+        from myNHLapi.nhlpy.api.schedule import Schedule
 
         teams = Teams(self.client).teams()
 
@@ -68,7 +68,7 @@ class Helpers:
         Returns:
             List of player base stats.
         """
-        from myNHLpy.nhlpy.api.teams import Teams
+        from myNHLapi.nhlpy.api.teams import Teams
 
         teams_client = Teams(self.client)
         teams = teams_client.teams()

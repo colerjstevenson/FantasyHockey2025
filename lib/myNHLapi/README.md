@@ -45,7 +45,7 @@ pip install nhl-api-py
 ```
 
 ```python
-from myNHLpy.nhlpy import NHLClient
+from myNHLapi.nhlpy import NHLClient
 
 # Basic usage
 client = NHLClient()
@@ -63,7 +63,7 @@ games = client.schedule.daily_schedule()
 ## Configuration
 
 ```python
-from myNHLpy.nhlpy import NHLClient
+from myNHLapi.nhlpy import NHLClient
 
 # Default configuration
 client = NHLClient()
@@ -133,7 +133,7 @@ franchises = client.teams.franchises()
 
 ### Example: Finding Team Information
 ```python
-from myNHLpy.nhlpy import NHLClient
+from myNHLapi.nhlpy import NHLClient
 
 client = NHLClient()
 
@@ -240,7 +240,7 @@ bracket = client.schedule.playoff_bracket(year="2024")
 
 ### Example: Finding Tonight's Games
 ```python
-from myNHLpy.nhlpy import NHLClient
+from myNHLapi.nhlpy import NHLClient
 
 client = NHLClient()
 
@@ -334,7 +334,7 @@ goalie_stats = client.stats.goalie_stats_summary(
 
 ### Example: Finding Top Scorers
 ```python
-from myNHLpy.nhlpy import NHLClient
+from myNHLapi.nhlpy import NHLClient
 
 client = NHLClient()
 
@@ -390,7 +390,7 @@ season_info = client.standings.season_standing_manifest()
 
 ### Example: Finding Division Leaders
 ```python
-from myNHLpy.nhlpy import NHLClient
+from myNHLapi.nhlpy import NHLClient
 
 client = NHLClient()
 
@@ -465,7 +465,7 @@ story = client.game_center.game_story(game_id="2023020280")
 
 ### Example: Game Analysis
 ```python
-from myNHLpy.nhlpy import NHLClient
+from myNHLapi.nhlpy import NHLClient
 
 client = NHLClient()
 
@@ -545,7 +545,7 @@ draft_info = client.misc.draft_year_and_rounds()
 
 ### Example: Understanding NHL Terms
 ```python
-from myNHLpy.nhlpy import NHLClient
+from myNHLapi.nhlpy import NHLClient
 
 client = NHLClient()
 
@@ -642,17 +642,17 @@ timeonice
 ### Available Filters
 
 ```python
-from myNHLpy.nhlpy.api.query.filters.franchise import FranchiseQuery
-from myNHLpy.nhlpy.api.query.filters.shoot_catch import ShootCatchesQuery
-from myNHLpy.nhlpy.api.query.filters.draft import DraftQuery
-from myNHLpy.nhlpy.api.query.filters.season import SeasonQuery
-from myNHLpy.nhlpy.api.query.filters.game_type import GameTypeQuery
-from myNHLpy.nhlpy.api.query.filters.position import PositionQuery, PositionTypes
-from myNHLpy.nhlpy.api.query.filters.status import StatusQuery
-from myNHLpy.nhlpy.api.query.filters.opponent import OpponentQuery
-from myNHLpy.nhlpy.api.query.filters.home_road import HomeRoadQuery
-from myNHLpy.nhlpy.api.query.filters.experience import ExperienceQuery
-from myNHLpy.nhlpy.api.query.filters.decision import DecisionQuery
+from myNHLapi.nhlpy.api.query.filters.franchise import FranchiseQuery
+from myNHLapi.nhlpy.api.query.filters.shoot_catch import ShootCatchesQuery
+from myNHLapi.nhlpy.api.query.filters.draft import DraftQuery
+from myNHLapi.nhlpy.api.query.filters.season import SeasonQuery
+from myNHLapi.nhlpy.api.query.filters.game_type import GameTypeQuery
+from myNHLapi.nhlpy.api.query.filters.position import PositionQuery, PositionTypes
+from myNHLapi.nhlpy.api.query.filters.status import StatusQuery
+from myNHLapi.nhlpy.api.query.filters.opponent import OpponentQuery
+from myNHLapi.nhlpy.api.query.filters.home_road import HomeRoadQuery
+from myNHLapi.nhlpy.api.query.filters.experience import ExperienceQuery
+from myNHLapi.nhlpy.api.query.filters.decision import DecisionQuery
 
 filters = [
     GameTypeQuery(game_type="2"),
@@ -678,12 +678,12 @@ Show me all players, during the regular season (`game_type=2`), that were drafte
 `summary` statistics and aggregate (`aggregate=True`) all the years together.
 
 ```python
-from myNHLpy.nhlpy.api.query.builder import QueryBuilder, QueryContext
-from myNHLpy.nhlpy.nhl_client import NHLClient
-from myNHLpy.nhlpy.api.query.filters.draft import DraftQuery
-from myNHLpy.nhlpy.api.query.filters.season import SeasonQuery
-from myNHLpy.nhlpy.api.query.filters.game_type import GameTypeQuery
-from myNHLpy.nhlpy.api.query.filters.position import PositionQuery, PositionTypes
+from myNHLapi.nhlpy.api.query.builder import QueryBuilder, QueryContext
+from myNHLapi.nhlpy.nhl_client import NHLClient
+from myNHLapi.nhlpy.api.query.filters.draft import DraftQuery
+from myNHLapi.nhlpy.api.query.filters.season import SeasonQuery
+from myNHLapi.nhlpy.api.query.filters.game_type import GameTypeQuery
+from myNHLapi.nhlpy.api.query.filters.position import PositionQuery, PositionTypes
 
 client = NHLClient(debug=True)
 

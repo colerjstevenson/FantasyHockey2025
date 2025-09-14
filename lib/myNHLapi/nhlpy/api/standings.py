@@ -1,6 +1,6 @@
 from typing import List, Optional
 
-from myNHLpy.nhlpy.http_client import Endpoint
+from myNHLapi.nhlpy.http_client import Endpoint
 
 
 class Standings:

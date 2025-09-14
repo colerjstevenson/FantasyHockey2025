@@ -1,7 +1,7 @@
 from typing import Union
 from enum import Enum
 
-from myNHLpy.nhlpy.api.query.builder import QueryBase
+from myNHLapi.nhlpy.api.query.builder import QueryBase
 
 
 class PositionTypes(str, Enum):

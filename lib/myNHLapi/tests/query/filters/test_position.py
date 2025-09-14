@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.position import PositionQuery, PositionTypes
+from myNHLapi.nhlpy.api.query.filters.position import PositionQuery, PositionTypes
 
 
 def test_centers():

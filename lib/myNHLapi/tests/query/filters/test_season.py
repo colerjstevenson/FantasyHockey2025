@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.season import SeasonQuery
+from myNHLapi.nhlpy.api.query.filters.season import SeasonQuery
 
 
 def test_season_query_range():

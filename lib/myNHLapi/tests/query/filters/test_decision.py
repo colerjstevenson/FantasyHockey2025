@@ -1,7 +1,7 @@
 from pytest import raises
 
-from myNHLpy.nhlpy.api.query import InvalidQueryValueException
-from myNHLpy.nhlpy.api.query.filters.decision import DecisionQuery
+from myNHLapi.nhlpy.api.query import InvalidQueryValueException
+from myNHLapi.nhlpy.api.query.filters.decision import DecisionQuery
 
 
 def test_win_outcome():

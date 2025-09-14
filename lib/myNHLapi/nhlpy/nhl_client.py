@@ -1,6 +1,6 @@
-from myNHLpy.nhlpy.api import teams, standings, schedule, game_center, stats, misc, helpers, players
-from myNHLpy.nhlpy.http_client import HttpClient
-from myNHLpy.nhlpy.config import ClientConfig
+from myNHLapi.nhlpy.api import teams, standings, schedule, game_center, stats, misc, helpers, players
+from myNHLapi.nhlpy.http_client import HttpClient
+from myNHLapi.nhlpy.config import ClientConfig
 
 
 class NHLClient:

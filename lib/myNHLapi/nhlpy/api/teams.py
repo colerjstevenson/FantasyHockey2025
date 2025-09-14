@@ -1,5 +1,5 @@
 from typing import List, Dict, Optional, Any
-from myNHLpy.nhlpy.http_client import Endpoint, HttpClient
+from myNHLapi.nhlpy.http_client import Endpoint, HttpClient
 
 
 # @dataclass

@@ -1,6 +1,6 @@
 from typing import Union
 
-from myNHLpy.nhlpy.api.query.filters import QueryBase
+from myNHLapi.nhlpy.api.query.filters import QueryBase
 
 
 class SeasonQuery(QueryBase):

@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.draft import DraftQuery
+from myNHLapi.nhlpy.api.query.filters.draft import DraftQuery
 
 
 def test_draft_year_with_round():

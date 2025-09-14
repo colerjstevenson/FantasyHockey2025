@@ -1,6 +1,6 @@
 from typing import Union
 
-from myNHLpy.nhlpy.api.query.filters import QueryBase
+from myNHLapi.nhlpy.api.query.filters import QueryBase
 
 # Not thrilled with this implementation, having 2 bools with the later overridding the first.
 # Ill think of a better design pattern for this.

@@ -1,5 +1,5 @@
 from typing import Optional, List
-from myNHLpy.nhlpy.http_client import HttpClient, Endpoint
+from myNHLapi.nhlpy.http_client import HttpClient, Endpoint
 
 
 class GameCenter:

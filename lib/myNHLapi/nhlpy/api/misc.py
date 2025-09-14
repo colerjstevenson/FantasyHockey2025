@@ -1,6 +1,6 @@
 from typing import List
 
-from myNHLpy.nhlpy.http_client import HttpClient, Endpoint
+from myNHLapi.nhlpy.http_client import HttpClient, Endpoint
 
 
 class Misc:

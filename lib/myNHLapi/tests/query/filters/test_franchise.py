@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.franchise import FranchiseQuery
+from myNHLapi.nhlpy.api.query.filters.franchise import FranchiseQuery
 
 
 def test_franchise_query():

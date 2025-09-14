@@ -1,6 +1,6 @@
 from typing import Union
 
-from myNHLpy.nhlpy.api.query.builder import QueryBase
+from myNHLapi.nhlpy.api.query.builder import QueryBase
 
 
 class GameTypeQuery(QueryBase):

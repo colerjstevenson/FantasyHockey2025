@@ -1,8 +1,8 @@
 import pytest
 from unittest.mock import Mock, patch
-from myNHLpy.nhlpy.nhl_client import NHLClient
-from myNHLpy.nhlpy.api import teams, standings, schedule
-from myNHLpy.nhlpy.http_client import (
+from myNHLapi.nhlpy.nhl_client import NHLClient
+from myNHLapi.nhlpy.api import teams, standings, schedule
+from myNHLapi.nhlpy.http_client import (
     NHLApiException,
     ResourceNotFoundException,
     RateLimitExceededException,

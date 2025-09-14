@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.status import StatusQuery
+from myNHLapi.nhlpy.api.query.filters.status import StatusQuery
 
 
 def test_active_player():

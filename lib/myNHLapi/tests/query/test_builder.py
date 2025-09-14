@@ -1,9 +1,9 @@
-from myNHLpy.nhlpy.api.query.builder import QueryBuilder, QueryContext
-from myNHLpy.nhlpy.api.query.filters.decision import DecisionQuery
-from myNHLpy.nhlpy.api.query.filters.draft import DraftQuery
-from myNHLpy.nhlpy.api.query.filters.game_type import GameTypeQuery
-from myNHLpy.nhlpy.api.query.filters.position import PositionQuery, PositionTypes
-from myNHLpy.nhlpy.api.query.filters.season import SeasonQuery
+from myNHLapi.nhlpy.api.query.builder import QueryBuilder, QueryContext
+from myNHLapi.nhlpy.api.query.filters.decision import DecisionQuery
+from myNHLapi.nhlpy.api.query.filters.draft import DraftQuery
+from myNHLapi.nhlpy.api.query.filters.game_type import GameTypeQuery
+from myNHLapi.nhlpy.api.query.filters.position import PositionQuery, PositionTypes
+from myNHLapi.nhlpy.api.query.filters.season import SeasonQuery
 
 
 def test_query_builder_empty_filters():

@@ -1,8 +1,8 @@
 from typing import List
 import logging
 
-from myNHLpy.nhlpy.api.query import InvalidQueryValueException
-from myNHLpy.nhlpy.api.query.filters import QueryBase
+from myNHLapi.nhlpy.api.query import InvalidQueryValueException
+from myNHLapi.nhlpy.api.query.filters import QueryBase
 
 
 class QueryContext:

@@ -1,4 +1,4 @@
-from myNHLpy.nhlpy.api.query.filters.nationality import NationalityQuery
+from myNHLapi.nhlpy.api.query.filters.nationality import NationalityQuery
 
 
 def test_nation_usa():

@@ -1,8 +1,8 @@
 import logging
 from typing import Union
 
-from myNHLpy.nhlpy.api.query import InvalidQueryValueException
-from myNHLpy.nhlpy.api.query.filters import QueryBase
+from myNHLapi.nhlpy.api.query import InvalidQueryValueException
+from myNHLapi.nhlpy.api.query.filters import QueryBase
 
 
 logger = logging.getLogger(__name__)

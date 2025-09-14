@@ -1,6 +1,6 @@
 import pytest
 
-from myNHLpy.nhlpy.nhl_client import NHLClient
+from myNHLapi.nhlpy.nhl_client import NHLClient
 
 
 @pytest.fixture(scope="function")

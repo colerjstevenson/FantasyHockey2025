@@ -11,7 +11,7 @@ import concurrent.futures
 
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "lib"))
-from myNHLpy.nhlpy import NHLClient
+from myNHLapi.nhlpy import NHLClient
 client = NHLClient()
 
 def load_player_list(filename):

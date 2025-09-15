@@ -56,7 +56,7 @@ def get_player_gamelog(player_id, season_id, game_type, summary):
     if faceoff_win_pct is None:
         faceoff_win_pct = 0
     average['faceoffPctg_avg'] = faceoff_win_pct/summary.get('gamesPlayed', 1)
-    
+
     for game in gamelog:
         try:
             boxscore = get_player_boxscore(player_id, game['gameId'])
@@ -108,12 +108,12 @@ def main():
     
     raw_data = []
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        results = list(executor.map(get_player_stats, player_list[:3]))
+        results = list(executor.map(get_player_stats, player_list))
     raw_data.extend(results)
     end_time = time.time()
-    json.dump(raw_data, open("player_data.json", "w"), indent=4)
+    json.dump(raw_data, open("player_data.json", "w"), indent=2)
 
-    print(f"Estimated Run time: {(len(player_list)*(end_time - start_time))/3600:.2f} hours")
+    print(f"Estimated Run time: {((end_time - start_time))/3600:.2f} hours")
 
 
 

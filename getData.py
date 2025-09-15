@@ -3,6 +3,7 @@ getRanking.py
 calculate player rankings based on performance metrics.
 """
 
+import csv
 import math
 import sys
 import os
@@ -100,10 +101,75 @@ def get_player_stats(player_id):
                output[season] = {**summary, **gamelog}
 
     print(f"Fetched stats for player {summarys[0].get('skaterFullName','Unknown')} ({player_id})")
-    return output
+    return parse_player_data(output)
 
 
 def main():
+    parse_player_data()
+
+
+def parse_player_data(data=None):
+    if data is None:
+        with open("player_data_full.json", "r") as f:
+            raw_data = json.load(f)
+    else:
+        raw_data = data
+
+    flipped_data = convert_season_data(raw_data)
+
+    for season, data in flipped_data.items():
+        with open(f"data/json/{season}_main_raw.json", "w") as f:
+            json.dump(data, f, indent=2)
+
+        with open(f'data/csv/{season}_main_raw.csv', 'w', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=data[0].keys())
+            writer.writeheader()
+            writer.writerows(data)
+
+        with open(f"data/json/{season}_ratios.json", "w") as f:
+            json.dump(get_ratios(data), f, indent=2)
+
+        with open(f'data/csv/{season}_ratios.csv', 'w', newline='') as f:
+            ratios = list(get_ratios(data).values())
+            writer = csv.DictWriter(f, fieldnames=ratios[0].keys())
+            writer.writeheader()
+            writer.writerows(ratios)
+
+    return flipped_data
+
+
+def get_ratios(data):
+    output = {}
+    for player in data:
+        player_output = {
+            'playerId': player['playerId'],
+            'playerName': player['skaterFullName'],
+            'position': player['position'],
+            'team': player['teamAbbrevs'],
+            'gp': player['gamesPlayed'],
+            'points': player['points_avg'] / (player['points_sd'] + 1),
+            'plusMinus': player['plusMinus_avg'] / (player['plusMinus_sd'] + 1),
+            'shg': player['shg_avg'] / (player['shg_sd'] + 1),
+            'faceoffPctg': player['faceoffPctg_avg'] / (player['faceoffPctg_sd'] + 1) if player['position'] == 'F' else 0,
+            'blocks': player['blocks_avg'] / (player['blocks_sd'] + 1),
+            'hits': player['hits_avg'] / (player['hits_sd'] + 1),
+            'pim': player['pim_avg'] / (player['pim_sd'] + 1)    
+        }
+        output[player['playerId']] = player_output
+
+    return output
+
+
+def convert_season_data(data_list):
+    result = {}
+
+    for entry in data_list:
+        for season_id, value in entry.items():
+            result.setdefault(season_id, []).append(value)
+
+    return result   
+
+def request_player_data():
     player_list = load_player_list("player_list.txt")
     print(f"Loaded {len(player_list)} players.")
     start_time = time.time()

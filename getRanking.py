@@ -9,6 +9,7 @@ import os
 import json
 import time
 import concurrent.futures
+from functools import lru_cache
 
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "lib"))
@@ -20,6 +21,7 @@ def load_player_list(filename):
     with open(filename, 'r') as f:
         return [line.strip() for line in f if line.strip()]
 
+@lru_cache(maxsize=1024)
 def get_player_boxscore(player_id, game_id):
     boxscore = client.game_center.boxscore(game_id=game_id)
     for team in ['homeTeam', 'awayTeam']:
@@ -45,21 +47,22 @@ def get_player_gamelog(player_id, season_id, game_type, summary):
     output['hits_sd'] = 0
     output['pim_sd'] = 0
 
-    average = {}
-    average['points_avg'] = summary.get('points', 0)/summary.get('gamesPlayed', 1)
-    average['plusMinus_avg'] = summary.get('plusMinus', 0)/summary.get('gamesPlayed', 1)
-    average['shg_avg'] = summary.get('shGoals', 0)/summary.get('gamesPlayed', 1)
-    average['blocks_avg'] = summary.get('blockedShots', 0)/summary.get('gamesPlayed', 1)
-    average['hits_avg'] = summary.get('hits', 0)/summary.get('gamesPlayed', 1)
-    average['pim_avg'] = summary.get('penaltyMinutes', 0)/summary.get('gamesPlayed', 1)
-    faceoff_win_pct = summary.get('faceoffWinPct', 0)
-    if faceoff_win_pct is None:
-        faceoff_win_pct = 0
-    average['faceoffPctg_avg'] = faceoff_win_pct/summary.get('gamesPlayed', 1)
-
+    games_played = summary.get('gamesPlayed', 1)
+    summary['faceoffWinPct'] = summary.get('faceoffWinPct', 0) or 0
+    average = {
+        'points_avg': summary.get('points', 0) / games_played,
+        'plusMinus_avg': summary.get('plusMinus', 0) / games_played,
+        'shg_avg': summary.get('shGoals', 0) / games_played,
+        'blocks_avg': summary.get('blockedShots', 0) / games_played,
+        'hits_avg': summary.get('hits', 0) / games_played,
+        'pim_avg': summary.get('penaltyMinutes', 0) / games_played,
+        'faceoffPctg_avg': (summary.get('faceoffWinPct', 0) or 0) / games_played
+    }
+    
     for game in gamelog:
         try:
             boxscore = get_player_boxscore(player_id, game['gameId'])
+            output['position'] = 'F' if boxscore['position'] != 'D' else 'D'
             output['points_sd'] += (game['points'] - average['points_avg'])**2
             output['plusMinus_sd'] += (game['plusMinus'] - average['plusMinus_avg'])**2
             output['shg_sd'] += (game['shorthandedGoals'] - average['shg_avg'])**2
@@ -69,15 +72,14 @@ def get_player_gamelog(player_id, season_id, game_type, summary):
             output['pim_sd'] += (game['pim'] - average['pim_avg'])**2
         except Exception as e:
             print(f"Error fetching boxscore for player {player_id}, game {game.get('gameId')}: {e}")
-            full_game = game
 
-    output['points_sd'] = math.sqrt(output['points_sd']/summary.get('gamesPlayed', 1))
-    output['plusMinus_sd'] = math.sqrt(output['plusMinus_sd']/summary.get('gamesPlayed', 1))
-    output['shg_sd'] = math.sqrt(output['shg_sd']/summary.get('gamesPlayed', 1))
-    output['faceoffPctg_sd'] = math.sqrt(output['faceoffPctg_sd']/summary.get('gamesPlayed', 1))
-    output['blocks_sd'] = math.sqrt(output['blocks_sd']/summary.get('gamesPlayed', 1))
-    output['hits_sd'] = math.sqrt(output['hits_sd']/summary.get('gamesPlayed', 1))
-    output['pim_sd'] = math.sqrt(output['pim_sd']/summary.get('gamesPlayed', 1))
+    output['points_sd'] = math.sqrt(output['points_sd']/games_played)
+    output['plusMinus_sd'] = math.sqrt(output['plusMinus_sd']/games_played)
+    output['shg_sd'] = math.sqrt(output['shg_sd']/games_played)
+    output['faceoffPctg_sd'] = math.sqrt(output['faceoffPctg_sd']/games_played)
+    output['blocks_sd'] = math.sqrt(output['blocks_sd']/games_played)
+    output['hits_sd'] = math.sqrt(output['hits_sd']/games_played)
+    output['pim_sd'] = math.sqrt(output['pim_sd']/games_played)
 
     return {**output, **average}
 
@@ -120,4 +122,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-    

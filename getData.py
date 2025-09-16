@@ -107,6 +107,10 @@ def get_player_stats(player_id):
 def main():
     parse_player_data()
 
+def get_full_data_set(season):
+    
+
+
 
 def parse_player_data(data=None):
     if data is None:
@@ -116,6 +120,7 @@ def parse_player_data(data=None):
         raw_data = data
 
     flipped_data = convert_season_data(raw_data)
+
 
     for season, data in flipped_data.items():
         with open(f"data/json/{season}_main_raw.json", "w") as f:
@@ -142,18 +147,18 @@ def get_ratios(data):
     output = {}
     for player in data:
         player_output = {
-            'playerId': player['playerId'],
-            'playerName': player['skaterFullName'],
-            'position': player['position'],
-            'team': player['teamAbbrevs'],
-            'gp': player['gamesPlayed'],
-            'points': player['points_avg'] / (player['points_sd'] + 1),
-            'plusMinus': player['plusMinus_avg'] / (player['plusMinus_sd'] + 1),
-            'shg': player['shg_avg'] / (player['shg_sd'] + 1),
-            'faceoffPctg': player['faceoffPctg_avg'] / (player['faceoffPctg_sd'] + 1) if player['position'] == 'F' else 0,
-            'blocks': player['blocks_avg'] / (player['blocks_sd'] + 1),
-            'hits': player['hits_avg'] / (player['hits_sd'] + 1),
-            'pim': player['pim_avg'] / (player['pim_sd'] + 1)    
+            'playerId': float(player['playerId']),
+            'playerName': float(player['skaterFullName']),
+            'position':float(player['position']),
+            'team':float(player['teamAbbrevs']),
+            'gp':float(player['gamesPlayed']),
+            'points_ratio':float(player['points_avg'] / (player['points_sd']) + 1),
+            'plusMinus_ratio':float(player['plusMinus_avg'] / (player['plusMinus_sd']) + 1),
+            'shg_ratio':float(player['shg_avg'] / (player['shg_sd']) + 1),
+            'faceoffPctg_ratio':float(player['faceoffPctg_avg'] / (player['faceoffPctg_sd'] + 1)) if player['position'] == 'F' else 0,
+            'blocks_ratio':float(player['blocks_avg'] / (player['blocks_sd']) + 1),
+            'hits_ratio':float(player['hits_avg'] / (player['hits_sd']) + 1),
+            'pim_ratio':float(player['pim_avg'] / (player['pim_sd']) + 1)    
         }
         output[player['playerId']] = player_output
 

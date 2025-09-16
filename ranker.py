@@ -42,7 +42,7 @@ def load_player_list(filename):
 def get_ratings():
     seasons = ['20222023', '20232024', '20242025']
     
-    players = {}
+    players = []
     ratios = {}
     player_list = load_player_list('player_list.txt')
 
@@ -67,7 +67,12 @@ def get_ratings():
             season_rating += ((ratios[season][player_id]['gp'] / 82) * stats_weights['gp'])
             rating += (season_rating * year_weights[season])
 
-        players[player_id] = rating 
+        player = {
+             'playerId': player_id,
+             'rating': rating
+        }
+        players.append(player)
+        
     return players
 
 

@@ -1,0 +1,4514 @@
+{
+    "8474641": {
+        "faceoffWins": 770,
+        "faceoff_avg": 7.196261682242991,
+        "faceoff_sd": 3.1249351465014694,
+        "fights": 2
+    },
+    "8480789": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.15217391304347827,
+        "faceoff_sd": 0.50936410929826,
+        "fights": 4
+    },
+    "8480796": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8480797": {
+        "faceoffWins": 22,
+        "faceoff_avg": 0.26190476190476186,
+        "faceoff_sd": 0.5999811032549597,
+        "fights": 6
+    },
+    "8480798": {
+        "faceoffWins": 111,
+        "faceoff_avg": 2.0181818181818185,
+        "faceoff_sd": 2.8379948689229617,
+        "fights": 0
+    },
+    "8480800": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480801": {
+        "faceoffWins": 189,
+        "faceoff_avg": 2.3333333333333326,
+        "faceoff_sd": 2.2771001702132443,
+        "fights": 19
+    },
+    "8480802": {
+        "faceoffWins": 638,
+        "faceoff_avg": 7.876543209876543,
+        "faceoff_sd": 3.4079888571710497,
+        "fights": 0
+    },
+    "8480803": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480806": {
+        "faceoffWins": 454,
+        "faceoff_avg": 5.536585365853656,
+        "faceoff_sd": 2.4103188836254525,
+        "fights": 0
+    },
+    "8480807": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482858": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482859": {
+        "faceoffWins": 157,
+        "faceoff_avg": 2.5737704918032778,
+        "faceoff_sd": 1.9540543509182084,
+        "fights": 3
+    },
+    "8480813": {
+        "faceoffWins": 227,
+        "faceoff_avg": 2.9102564102564106,
+        "faceoff_sd": 2.44522505616138,
+        "fights": 2
+    },
+    "8484911": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.1111111111111111,
+        "faceoff_sd": 0.3928371006591931,
+        "fights": 0
+    },
+    "8480817": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8474673": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480821": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8474679": {
+        "faceoffWins": 12,
+        "faceoff_avg": 0.13793103448275867,
+        "faceoff_sd": 0.37668895650974576,
+        "fights": 0
+    },
+    "8480823": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480829": {
+        "faceoffWins": 460,
+        "faceoff_avg": 4.842105263157897,
+        "faceoff_sd": 2.4636976466650338,
+        "fights": 2
+    },
+    "8480830": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.03370786516853934,
+        "faceoff_sd": 0.18047616184504506,
+        "fights": 1
+    },
+    "8480834": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8480835": {
+        "faceoffWins": 497,
+        "faceoff_avg": 6.060975609756096,
+        "faceoff_sd": 2.7468277089798967,
+        "fights": 3
+    },
+    "8480839": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480840": {
+        "faceoffWins": 113,
+        "faceoff_avg": 1.269662921348314,
+        "faceoff_sd": 1.6541676677093033,
+        "fights": 0
+    },
+    "8470600": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8470604": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8480845": {
+        "faceoffWins": 280,
+        "faceoff_avg": 4.444444444444445,
+        "faceoff_sd": 2.659381583309123,
+        "fights": 0
+    },
+    "8480848": {
+        "faceoffWins": 242,
+        "faceoff_avg": 3.3611111111111125,
+        "faceoff_sd": 2.65259597980898,
+        "fights": 6
+    },
+    "8480849": {
+        "faceoffWins": 577,
+        "faceoff_avg": 6.709302325581397,
+        "faceoff_sd": 3.3579696214180808,
+        "fights": 1
+    },
+    "8470610": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8470613": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8474709": {
+        "faceoffWins": 9,
+        "faceoff_avg": 0.2647058823529412,
+        "faceoff_sd": 0.44117647058823534,
+        "fights": 14
+    },
+    "8480855": {
+        "faceoffWins": 248,
+        "faceoff_avg": 2.8837209302325575,
+        "faceoff_sd": 2.6122190720266167,
+        "fights": 16
+    },
+    "8474715": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.07142857142857144,
+        "faceoff_sd": 0.25753937681885636,
+        "fights": 2
+    },
+    "8474716": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8470621": {
+        "faceoffWins": 17,
+        "faceoff_avg": 0.15887850467289721,
+        "faceoff_sd": 0.41354480167920715,
+        "fights": 20
+    },
+    "8480860": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 5
+    },
+    "8484958": {
+        "faceoffWins": 10,
+        "faceoff_avg": 0.1219512195121952,
+        "faceoff_sd": 0.3625870426175245,
+        "fights": 1
+    },
+    "8480865": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480870": {
+        "faceoffWins": 8,
+        "faceoff_avg": 2.666666666666667,
+        "faceoff_sd": 1.699673171197595,
+        "fights": 1
+    },
+    "8480871": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480873": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8480878": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478831": {
+        "faceoffWins": 646,
+        "faceoff_avg": 7.511627906976742,
+        "faceoff_sd": 2.806736854164196,
+        "fights": 0
+    },
+    "8480880": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.0819672131147541,
+        "faceoff_sd": 0.32868750255349877,
+        "fights": 9
+    },
+    "8482929": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 6
+    },
+    "8480879": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8480884": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480887": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478840": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 8
+    },
+    "8476792": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 1
+    },
+    "8480891": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 7
+    },
+    "8480893": {
+        "faceoffWins": 16,
+        "faceoff_avg": 0.19277108433734944,
+        "faceoff_sd": 0.5254448792134102,
+        "fights": 0
+    },
+    "8478851": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8479546": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8478854": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478856": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.07228915662650602,
+        "faceoff_sd": 0.2589660874723455,
+        "fights": 4
+    },
+    "8478859": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8478864": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482964": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 24
+    },
+    "8476822": {
+        "faceoffWins": 533,
+        "faceoff_avg": 6.5,
+        "faceoff_sd": 2.719621566213695,
+        "fights": 3
+    },
+    "8478873": {
+        "faceoffWins": 12,
+        "faceoff_avg": 0.15189873417721517,
+        "faceoff_sd": 0.35892270579133734,
+        "fights": 0
+    },
+    "8478874": {
+        "faceoffWins": 215,
+        "faceoff_avg": 2.336956521739129,
+        "faceoff_sd": 2.2663760284775045,
+        "fights": 1
+    },
+    "8476826": {
+        "faceoffWins": 286,
+        "faceoff_avg": 4.399999999999998,
+        "faceoff_sd": 3.0117717760098004,
+        "fights": 9
+    },
+    "8478882": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478891": {
+        "faceoffWins": 11,
+        "faceoff_avg": 0.1264367816091954,
+        "faceoff_sd": 0.3652930708522001,
+        "fights": 0
+    },
+    "8476853": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8480950": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8476854": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8478904": {
+        "faceoffWins": 34,
+        "faceoff_avg": 0.35051546391752575,
+        "faceoff_sd": 1.0939499707119433,
+        "fights": 1
+    },
+    "8476856": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 7
+    },
+    "8476858": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.04347826086956521,
+        "faceoff_sd": 0.20393111999232302,
+        "fights": 2
+    },
+    "8478911": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8476869": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476871": {
+        "faceoffWins": 9,
+        "faceoff_avg": 0.09890109890109891,
+        "faceoff_sd": 0.36479544335599623,
+        "fights": 2
+    },
+    "8476872": {
+        "faceoffWins": 336,
+        "faceoff_avg": 3.4999999999999996,
+        "faceoff_sd": 2.9439202887759492,
+        "fights": 3
+    },
+    "8476873": {
+        "faceoffWins": 275,
+        "faceoff_avg": 3.928571428571428,
+        "faceoff_sd": 2.748097672268315,
+        "fights": 1
+    },
+    "8476874": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476875": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8476878": {
+        "faceoffWins": 85,
+        "faceoff_avg": 0.934065934065934,
+        "faceoff_sd": 1.9488074561503514,
+        "fights": 6
+    },
+    "8476879": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476880": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.08510638297872342,
+        "faceoff_sd": 0.3148648635521009,
+        "fights": 13
+    },
+    "8476881": {
+        "faceoffWins": 650,
+        "faceoff_avg": 7.471264367816094,
+        "faceoff_sd": 3.389771905864437,
+        "fights": 0
+    },
+    "8476882": {
+        "faceoffWins": 71,
+        "faceoff_avg": 0.8452380952380953,
+        "faceoff_sd": 1.5078686283803089,
+        "fights": 0
+    },
+    "8480980": {
+        "faceoffWins": 53,
+        "faceoff_avg": 1.1041666666666665,
+        "faceoff_sd": 1.8956043817796537,
+        "fights": 7
+    },
+    "8476885": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 12
+    },
+    "8476887": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.047619047619047616,
+        "faceoff_sd": 0.21295885499997996,
+        "fights": 1
+    },
+    "8476889": {
+        "faceoffWins": 501,
+        "faceoff_avg": 6.262499999999998,
+        "faceoff_sd": 2.6350699706079914,
+        "fights": 2
+    },
+    "8476891": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476892": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8480990": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476897": {
+        "faceoffWins": 284,
+        "faceoff_avg": 3.837837837837839,
+        "faceoff_sd": 1.7007711051407863,
+        "fights": 0
+    },
+    "8480995": {
+        "faceoffWins": 181,
+        "faceoff_avg": 2.1547619047619038,
+        "faceoff_sd": 3.053078257770764,
+        "fights": 2
+    },
+    "8476902": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476905": {
+        "faceoffWins": 799,
+        "faceoff_avg": 9.8641975308642,
+        "faceoff_sd": 3.347204790806628,
+        "fights": 0
+    },
+    "8476906": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481006": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 16
+    },
+    "8476913": {
+        "faceoffWins": 51,
+        "faceoff_avg": 0.8793103448275862,
+        "faceoff_sd": 1.5544994338670521,
+        "fights": 0
+    },
+    "8481013": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.0632911392405063,
+        "faceoff_sd": 0.24348587419837145,
+        "fights": 0
+    },
+    "8476918": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.06666666666666668,
+        "faceoff_sd": 0.24944382578492943,
+        "fights": 4
+    },
+    "8476917": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8481014": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8476921": {
+        "faceoffWins": 39,
+        "faceoff_avg": 0.40625000000000017,
+        "faceoff_sd": 0.6386529606653889,
+        "fights": 1
+    },
+    "8478970": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8481019": {
+        "faceoffWins": 116,
+        "faceoff_avg": 2.6976744186046506,
+        "faceoff_sd": 2.129907561275407,
+        "fights": 1
+    },
+    "8476923": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8476925": {
+        "faceoffWins": 355,
+        "faceoff_avg": 4.7972972972972965,
+        "faceoff_sd": 3.393076136542042,
+        "fights": 0
+    },
+    "8476919": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 1
+    },
+    "8478975": {
+        "faceoffWins": 15,
+        "faceoff_avg": 0.1807228915662651,
+        "faceoff_sd": 0.7783915809741251,
+        "fights": 6
+    },
+    "8476927": {
+        "faceoffWins": 517,
+        "faceoff_avg": 6.2289156626506035,
+        "faceoff_sd": 2.533273995734674,
+        "fights": 2
+    },
+    "8476931": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 6
+    },
+    "8481028": {
+        "faceoffWins": 83,
+        "faceoff_avg": 0.9880952380952381,
+        "faceoff_sd": 1.577324796844083,
+        "fights": 4
+    },
+    "8474884": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481032": {
+        "faceoffWins": 45,
+        "faceoff_avg": 0.517241379310345,
+        "faceoff_sd": 0.7560038460876022,
+        "fights": 2
+    },
+    "8470794": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8481043": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8476958": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481058": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481059": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476967": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8481068": {
+        "faceoffWins": 161,
+        "faceoff_avg": 2.090909090909091,
+        "faceoff_sd": 2.6539938939526846,
+        "fights": 0
+    },
+    "8479026": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8476979": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8476981": {
+        "faceoffWins": 30,
+        "faceoff_avg": 0.33707865168539314,
+        "faceoff_sd": 0.6170575378762239,
+        "fights": 8
+    },
+    "8481093": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8477015": {
+        "faceoffWins": 24,
+        "faceoff_avg": 0.2264150943396227,
+        "faceoff_sd": 0.5006226098649659,
+        "fights": 0
+    },
+    "8479066": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.08333333333333334,
+        "faceoff_sd": 0.2763853991962833,
+        "fights": 12
+    },
+    "8477018": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8477021": {
+        "faceoffWins": 269,
+        "faceoff_avg": 3.2409638554216853,
+        "faceoff_sd": 2.051096453447319,
+        "fights": 0
+    },
+    "8481122": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 10
+    },
+    "8477034": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8481147": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 7
+    },
+    "8481161": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8481167": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 5
+    },
+    "8481178": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481186": {
+        "faceoffWins": 29,
+        "faceoff_avg": 0.3222222222222221,
+        "faceoff_sd": 0.6964637308539919,
+        "fights": 5
+    },
+    "8470966": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 3
+    },
+    "8481206": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 5
+    },
+    "8481237": {
+        "faceoffWins": 300,
+        "faceoff_avg": 3.488372093023256,
+        "faceoff_sd": 2.356308632835412,
+        "fights": 2
+    },
+    "8475149": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.08750000000000002,
+        "faceoff_sd": 0.28256636388643286,
+        "fights": 0
+    },
+    "8475151": {
+        "faceoffWins": 13,
+        "faceoff_avg": 0.15294117647058827,
+        "faceoff_sd": 0.39125386231331505,
+        "fights": 0
+    },
+    "8475158": {
+        "faceoffWins": 774,
+        "faceoff_avg": 9.4390243902439,
+        "faceoff_sd": 3.2800117525652395,
+        "fights": 3
+    },
+    "8475164": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8475166": {
+        "faceoffWins": 890,
+        "faceoff_avg": 9.780219780219785,
+        "faceoff_sd": 3.4824590206946486,
+        "fights": 0
+    },
+    "8475167": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475168": {
+        "faceoffWins": 539,
+        "faceoff_avg": 5.233009708737865,
+        "faceoff_sd": 2.8598454826042183,
+        "fights": 0
+    },
+    "8475169": {
+        "faceoffWins": 12,
+        "faceoff_avg": 0.5714285714285714,
+        "faceoff_sd": 0.659828879073858,
+        "fights": 5
+    },
+    "8475170": {
+        "faceoffWins": 683,
+        "faceoff_avg": 7.423913043478262,
+        "faceoff_sd": 2.979034333077743,
+        "fights": 12
+    },
+    "8475171": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477220": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8475172": {
+        "faceoffWins": 704,
+        "faceoff_avg": 8.282352941176471,
+        "faceoff_sd": 3.208854531580434,
+        "fights": 3
+    },
+    "8475177": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475179": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8475181": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475184": {
+        "faceoffWins": 28,
+        "faceoff_avg": 0.39436619718309857,
+        "faceoff_sd": 0.7595193669133952,
+        "fights": 0
+    },
+    "8475188": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8475191": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.05376344086021506,
+        "faceoff_sd": 0.22555028992906484,
+        "fights": 0
+    },
+    "8475193": {
+        "faceoffWins": 10,
+        "faceoff_avg": 0.12345679012345678,
+        "faceoff_sd": 0.36456353235144195,
+        "fights": 0
+    },
+    "8479291": {
+        "faceoffWins": 228,
+        "faceoff_avg": 3.04,
+        "faceoff_sd": 1.9352174727060172,
+        "fights": 1
+    },
+    "8477244": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479293": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.07368421052631578,
+        "faceoff_sd": 0.261256287284018,
+        "fights": 8
+    },
+    "8475197": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475200": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475208": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475218": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8479314": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.012820512820512822,
+        "faceoff_sd": 0.11249954342810414,
+        "fights": 6
+    },
+    "8475220": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.09411764705882353,
+        "faceoff_sd": 0.32983166515002793,
+        "fights": 23
+    },
+    "8479316": {
+        "faceoffWins": 194,
+        "faceoff_avg": 2.487179487179487,
+        "faceoff_sd": 2.3245820674472157,
+        "fights": 13
+    },
+    "8479318": {
+        "faceoffWins": 862,
+        "faceoff_avg": 10.51219512195122,
+        "faceoff_sd": 3.108775550814509,
+        "fights": 1
+    },
+    "8479315": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.13636363636363638,
+        "faceoff_sd": 0.4568125282327677,
+        "fights": 0
+    },
+    "8475225": {
+        "faceoffWins": 9,
+        "faceoff_avg": 0.1428571428571429,
+        "faceoff_sd": 0.39267672624930106,
+        "fights": 1
+    },
+    "8479323": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479324": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8479325": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8475231": {
+        "faceoffWins": 351,
+        "faceoff_avg": 4.081395348837209,
+        "faceoff_sd": 2.9891863880166367,
+        "fights": 3
+    },
+    "8483425": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8475233": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475235": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.029411764705882353,
+        "faceoff_sd": 0.16895772489817729,
+        "fights": 28
+    },
+    "8474618": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 1
+    },
+    "8483431": {
+        "faceoffWins": 355,
+        "faceoff_avg": 4.4936708860759484,
+        "faceoff_sd": 2.6331548086116023,
+        "fights": 0
+    },
+    "8479336": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.050000000000000024,
+        "faceoff_sd": 0.21794494717703364,
+        "fights": 0
+    },
+    "8479337": {
+        "faceoffWins": 27,
+        "faceoff_avg": 0.31395348837209297,
+        "faceoff_sd": 0.5957529515092791,
+        "fights": 4
+    },
+    "8479339": {
+        "faceoffWins": 11,
+        "faceoff_avg": 0.19642857142857142,
+        "faceoff_sd": 0.4399530355269614,
+        "fights": 0
+    },
+    "8479343": {
+        "faceoffWins": 10,
+        "faceoff_avg": 0.11904761904761912,
+        "faceoff_sd": 0.32384453592227247,
+        "fights": 0
+    },
+    "8479345": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479346": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 1
+    },
+    "8483445": {
+        "faceoffWins": 23,
+        "faceoff_avg": 0.27058823529411763,
+        "faceoff_sd": 0.6017276165903258,
+        "fights": 0
+    },
+    "8479351": {
+        "faceoffWins": 294,
+        "faceoff_avg": 2.9399999999999995,
+        "faceoff_sd": 2.297041575592397,
+        "fights": 2
+    },
+    "8483447": {
+        "faceoffWins": 84,
+        "faceoff_avg": 1.4000000000000004,
+        "faceoff_sd": 1.6852299546352714,
+        "fights": 1
+    },
+    "8479353": {
+        "faceoffWins": 318,
+        "faceoff_avg": 3.3473684210526318,
+        "faceoff_sd": 2.9478571023448326,
+        "fights": 4
+    },
+    "8483448": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479359": {
+        "faceoffWins": 21,
+        "faceoff_avg": 0.26582278481012667,
+        "faceoff_sd": 0.46955030356940275,
+        "fights": 2
+    },
+    "8483457": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8483460": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479365": {
+        "faceoffWins": 115,
+        "faceoff_avg": 1.3690476190476193,
+        "faceoff_sd": 1.453892655898393,
+        "fights": 19
+    },
+    "8483464": {
+        "faceoffWins": 305,
+        "faceoff_avg": 3.765432098765431,
+        "faceoff_sd": 2.890049360671512,
+        "fights": 1
+    },
+    "8479369": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8479370": {
+        "faceoffWins": 68,
+        "faceoff_avg": 1.5813953488372088,
+        "faceoff_sd": 1.781462139740052,
+        "fights": 3
+    },
+    "8479371": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8483468": {
+        "faceoffWins": 255,
+        "faceoff_avg": 4.047619047619048,
+        "faceoff_sd": 3.1993480061411095,
+        "fights": 0
+    },
+    "8479372": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479368": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8475279": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8483466": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8481422": {
+        "faceoffWins": 5,
+        "faceoff_avg": 1.25,
+        "faceoff_sd": 1.6393596310755,
+        "fights": 1
+    },
+    "8479378": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 10
+    },
+    "8477330": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 1
+    },
+    "8479379": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 13
+    },
+    "8477335": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 15
+    },
+    "8475287": {
+        "faceoffWins": 417,
+        "faceoff_avg": 5.56,
+        "faceoff_sd": 2.467063031217484,
+        "fights": 3
+    },
+    "8479385": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.06521739130434781,
+        "faceoff_sd": 0.2469090585130554,
+        "fights": 0
+    },
+    "8479383": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8479387": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8483485": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479390": {
+        "faceoffWins": 10,
+        "faceoff_avg": 0.10989010989010989,
+        "faceoff_sd": 0.31275273562104855,
+        "fights": 0
+    },
+    "8479393": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.07017543859649124,
+        "faceoff_sd": 0.25544245225545675,
+        "fights": 5
+    },
+    "8477346": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8479395": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8483490": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8483493": {
+        "faceoffWins": 182,
+        "faceoff_avg": 3.19298245614035,
+        "faceoff_sd": 2.543920144471245,
+        "fights": 0
+    },
+    "8479398": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8483495": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8479400": {
+        "faceoffWins": 679,
+        "faceoff_avg": 7.1473684210526285,
+        "faceoff_sd": 2.824585376382957,
+        "fights": 1
+    },
+    "8477353": {
+        "faceoffWins": 60,
+        "faceoff_avg": 1.0169491525423728,
+        "faceoff_sd": 1.4785646432247044,
+        "fights": 0
+    },
+    "8479402": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478021": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8471214": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479407": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8471215": {
+        "faceoffWins": 299,
+        "faceoff_avg": 4.211267605633802,
+        "faceoff_sd": 2.742033238401734,
+        "fights": 0
+    },
+    "8483505": {
+        "faceoffWins": 75,
+        "faceoff_avg": 2.083333333333333,
+        "faceoff_sd": 1.8008485654145259,
+        "fights": 0
+    },
+    "8479410": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8475314": {
+        "faceoffWins": 14,
+        "faceoff_avg": 0.16279069767441862,
+        "faceoff_sd": 0.3994317217980854,
+        "fights": 7
+    },
+    "8471218": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 2
+    },
+    "8477365": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 9
+    },
+    "8479414": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.11940298507462688,
+        "faceoff_sd": 0.32426210421493185,
+        "fights": 6
+    },
+    "8479415": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 4
+    },
+    "8477369": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8483515": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.058139534883720916,
+        "faceoff_sd": 0.23400711392439655,
+        "fights": 3
+    },
+    "8475324": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479421": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479420": {
+        "faceoffWins": 317,
+        "faceoff_avg": 4.0126582278481004,
+        "faceoff_sd": 3.2704804388519606,
+        "fights": 4
+    },
+    "8479425": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.015625,
+        "faceoff_sd": 0.12401959270615269,
+        "fights": 0
+    },
+    "8477380": {
+        "faceoffWins": 97,
+        "faceoff_avg": 1.7636363636363632,
+        "faceoff_sd": 2.017772276218921,
+        "fights": 0
+    },
+    "8483524": {
+        "faceoffWins": 389,
+        "faceoff_avg": 4.686746987951808,
+        "faceoff_sd": 2.517063267024047,
+        "fights": 0
+    },
+    "8481477": {
+        "faceoffWins": 305,
+        "faceoff_avg": 4.121621621621621,
+        "faceoff_sd": 2.650612895481848,
+        "fights": 3
+    },
+    "8481481": {
+        "faceoffWins": 179,
+        "faceoff_avg": 2.9344262295081958,
+        "faceoff_sd": 1.949096911174013,
+        "fights": 1
+    },
+    "8475343": {
+        "faceoffWins": 693,
+        "faceoff_avg": 7.294736842105261,
+        "faceoff_sd": 2.6709891099524845,
+        "fights": 1
+    },
+    "8477392": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.04545454545454546,
+        "faceoff_sd": 0.20829889522526543,
+        "fights": 0
+    },
+    "8479439": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8479442": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8477402": {
+        "faceoffWins": 106,
+        "faceoff_avg": 1.2325581395348837,
+        "faceoff_sd": 2.229164086757536,
+        "fights": 1
+    },
+    "8477404": {
+        "faceoffWins": 187,
+        "faceoff_avg": 2.1494252873563218,
+        "faceoff_sd": 1.7909654214891317,
+        "fights": 0
+    },
+    "8477406": {
+        "faceoffWins": 123,
+        "faceoff_avg": 1.160377358490566,
+        "faceoff_sd": 1.5118200480217772,
+        "fights": 2
+    },
+    "8477407": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477409": {
+        "faceoffWins": 25,
+        "faceoff_avg": 0.23364485981308422,
+        "faceoff_sd": 0.44468700012599316,
+        "fights": 0
+    },
+    "8483553": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.12500000000000003,
+        "faceoff_sd": 0.33071891388307384,
+        "fights": 1
+    },
+    "8479458": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8477416": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.03614457831325301,
+        "faceoff_sd": 0.18664979981722496,
+        "fights": 2
+    },
+    "8471274": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8481517": {
+        "faceoffWins": 29,
+        "faceoff_avg": 0.4393939393939391,
+        "faceoff_sd": 0.9555069712380341,
+        "fights": 0
+    },
+    "8483565": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477425": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.07142857142857144,
+        "faceoff_sd": 0.25753937681885636,
+        "fights": 6
+    },
+    "8481522": {
+        "faceoffWins": 337,
+        "faceoff_avg": 4.011904761904763,
+        "faceoff_sd": 2.629928695480289,
+        "fights": 8
+    },
+    "8477426": {
+        "faceoffWins": 457,
+        "faceoff_avg": 5.440476190476191,
+        "faceoff_sd": 3.4824430070070274,
+        "fights": 2
+    },
+    "8481524": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8481523": {
+        "faceoffWins": 104,
+        "faceoff_avg": 1.7333333333333332,
+        "faceoff_sd": 1.4007934259633799,
+        "fights": 2
+    },
+    "8477429": {
+        "faceoffWins": 353,
+        "faceoff_avg": 5.883333333333333,
+        "faceoff_sd": 2.5631469373062132,
+        "fights": 1
+    },
+    "8481527": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481528": {
+        "faceoffWins": 626,
+        "faceoff_avg": 6.879120879120879,
+        "faceoff_sd": 3.2270667279600715,
+        "fights": 5
+    },
+    "8477435": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8481532": {
+        "faceoffWins": 73,
+        "faceoff_avg": 0.9605263157894738,
+        "faceoff_sd": 2.0547812630012876,
+        "fights": 0
+    },
+    "8481533": {
+        "faceoffWins": 71,
+        "faceoff_avg": 1.1833333333333331,
+        "faceoff_sd": 1.8483476104047338,
+        "fights": 1
+    },
+    "8481535": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481537": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8481540": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.07865168539325842,
+        "faceoff_sd": 0.26919434945417836,
+        "fights": 0
+    },
+    "8477444": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.036585365853658534,
+        "faceoff_sd": 0.1877415160773251,
+        "fights": 0
+    },
+    "8481542": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8477447": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477446": {
+        "faceoffWins": 530,
+        "faceoff_avg": 6.883116883116883,
+        "faceoff_sd": 3.1291425570246068,
+        "fights": 21
+    },
+    "8477500": {
+        "faceoffWins": 802,
+        "faceoff_avg": 9.435294117647059,
+        "faceoff_sd": 3.351723204995689,
+        "fights": 1
+    },
+    "8481546": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477451": {
+        "faceoffWins": 346,
+        "faceoff_avg": 4.435897435897434,
+        "faceoff_sd": 3.4920780074324553,
+        "fights": 4
+    },
+    "8477450": {
+        "faceoffWins": 468,
+        "faceoff_avg": 7.672131147540983,
+        "faceoff_sd": 3.366767732767866,
+        "fights": 3
+    },
+    "8481541": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477456": {
+        "faceoffWins": 471,
+        "faceoff_avg": 6.038461538461539,
+        "faceoff_sd": 2.638192406098849,
+        "fights": 1
+    },
+    "8481553": {
+        "faceoffWins": 18,
+        "faceoff_avg": 0.21686746987951808,
+        "faceoff_sd": 0.4403775152408931,
+        "fights": 0
+    },
+    "8481554": {
+        "faceoffWins": 51,
+        "faceoff_avg": 0.6144578313253014,
+        "faceoff_sd": 1.1067299634857748,
+        "fights": 0
+    },
+    "8481556": {
+        "faceoffWins": 296,
+        "faceoff_avg": 3.6097560975609753,
+        "faceoff_sd": 2.18507184433415,
+        "fights": 2
+    },
+    "8481557": {
+        "faceoffWins": 59,
+        "faceoff_avg": 0.6704545454545455,
+        "faceoff_sd": 1.0946314335001581,
+        "fights": 2
+    },
+    "8475413": {
+        "faceoffWins": 217,
+        "faceoff_avg": 3.5573770491803276,
+        "faceoff_sd": 2.633482953123352,
+        "fights": 0
+    },
+    "8481559": {
+        "faceoffWins": 256,
+        "faceoff_avg": 4.063492063492064,
+        "faceoff_sd": 2.4291419601652398,
+        "fights": 0
+    },
+    "8481560": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8483609": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.19444444444444445,
+        "faceoff_sd": 0.3957724124659725,
+        "fights": 4
+    },
+    "8481563": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481564": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481567": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8479520": {
+        "faceoffWins": 19,
+        "faceoff_avg": 0.20000000000000007,
+        "faceoff_sd": 0.4941766144970737,
+        "fights": 23
+    },
+    "8481568": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8477473": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8477476": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.09210526315789473,
+        "faceoff_sd": 0.33156850443037245,
+        "fights": 0
+    },
+    "8479525": {
+        "faceoffWins": 50,
+        "faceoff_avg": 0.7692307692307693,
+        "faceoff_sd": 1.5666645683816574,
+        "fights": 2
+    },
+    "8477478": {
+        "faceoffWins": 10,
+        "faceoff_avg": 0.16666666666666669,
+        "faceoff_sd": 0.372677996249965,
+        "fights": 0
+    },
+    "8477479": {
+        "faceoffWins": 22,
+        "faceoff_avg": 0.2588235294117647,
+        "faceoff_sd": 0.6535503252861719,
+        "fights": 2
+    },
+    "8481577": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.10769230769230774,
+        "faceoff_sd": 0.30999141045553674,
+        "fights": 0
+    },
+    "8481580": {
+        "faceoffWins": 71,
+        "faceoff_avg": 0.739583333333333,
+        "faceoff_sd": 1.2436906741853282,
+        "fights": 2
+    },
+    "8481581": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481582": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.10526315789473685,
+        "faceoff_sd": 0.3471291041650768,
+        "fights": 0
+    },
+    "8479543": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.06896551724137931,
+        "faceoff_sd": 0.2533954906327426,
+        "fights": 18
+    },
+    "8477488": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8477492": {
+        "faceoffWins": 846,
+        "faceoff_avg": 9.613636363636363,
+        "faceoff_sd": 3.227832857921501,
+        "fights": 1
+    },
+    "8477493": {
+        "faceoffWins": 851,
+        "faceoff_avg": 9.150537634408602,
+        "faceoff_sd": 3.75584486882661,
+        "fights": 0
+    },
+    "8479542": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.09195402298850577,
+        "faceoff_sd": 0.2889610365511847,
+        "fights": 2
+    },
+    "8477495": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477494": {
+        "faceoffWins": 15,
+        "faceoff_avg": 0.28846153846153844,
+        "faceoff_sd": 0.5662473793975176,
+        "fights": 0
+    },
+    "8477496": {
+        "faceoffWins": 763,
+        "faceoff_avg": 9.083333333333334,
+        "faceoff_sd": 3.5530279954579496,
+        "fights": 1
+    },
+    "8481593": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8477499": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.01515151515151516,
+        "faceoff_sd": 0.1221554204287659,
+        "fights": 0
+    },
+    "8477498": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 10
+    },
+    "8477497": {
+        "faceoffWins": 651,
+        "faceoff_avg": 11.421052631578949,
+        "faceoff_sd": 4.099411033525587,
+        "fights": 0
+    },
+    "8481596": {
+        "faceoffWins": 535,
+        "faceoff_avg": 6.604938271604937,
+        "faceoff_sd": 3.5683070383091193,
+        "fights": 0
+    },
+    "8477501": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.08,
+        "faceoff_sd": 0.33704599092705434,
+        "fights": 0
+    },
+    "8481598": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477505": {
+        "faceoffWins": 538,
+        "faceoff_avg": 6.641975308641976,
+        "faceoff_sd": 3.482969649542937,
+        "fights": 0
+    },
+    "8477506": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477507": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 14
+    },
+    "8477503": {
+        "faceoffWins": 350,
+        "faceoff_avg": 3.8888888888888906,
+        "faceoff_sd": 2.7343268293816925,
+        "fights": 12
+    },
+    "8477504": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8475455": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 17
+    },
+    "8481601": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.012658227848101267,
+        "faceoff_sd": 0.11179444134592212,
+        "fights": 0
+    },
+    "8481604": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.03191489361702128,
+        "faceoff_sd": 0.17577352810487562,
+        "fights": 0
+    },
+    "8477508": {
+        "faceoffWins": 221,
+        "faceoff_avg": 4.333333333333331,
+        "faceoff_sd": 2.2980525998405663,
+        "fights": 3
+    },
+    "8481606": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481607": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8481605": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475462": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 10
+    },
+    "8473419": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.062499999999999986,
+        "faceoff_sd": 0.2420614591379635,
+        "fights": 2
+    },
+    "8473422": {
+        "faceoffWins": 341,
+        "faceoff_avg": 4.262500000000002,
+        "faceoff_sd": 3.3043295462165996,
+        "fights": 10
+    },
+    "8477511": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.29411764705882354,
+        "faceoff_sd": 0.4556450995538137,
+        "fights": 6
+    },
+    "8481617": {
+        "faceoffWins": 22,
+        "faceoff_avg": 0.2018348623853212,
+        "faceoff_sd": 0.5028326460933842,
+        "fights": 3
+    },
+    "8481618": {
+        "faceoffWins": 257,
+        "faceoff_avg": 2.8241758241758235,
+        "faceoff_sd": 1.6941619640089463,
+        "fights": 0
+    },
+    "8477527": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 19
+    },
+    "8479576": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 8
+    },
+    "8481624": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.01204819277108434,
+        "faceoff_sd": 0.10910102576069178,
+        "fights": 0
+    },
+    "8477541": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8473446": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8479591": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.07792207792207792,
+        "faceoff_sd": 0.31276869035824145,
+        "fights": 12
+    },
+    "8481641": {
+        "faceoffWins": 23,
+        "faceoff_avg": 0.25555555555555554,
+        "faceoff_sd": 0.5283330412430551,
+        "fights": 0
+    },
+    "8473449": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8473453": {
+        "faceoffWins": 92,
+        "faceoff_avg": 1.4153846153846152,
+        "faceoff_sd": 1.5281190820724946,
+        "fights": 0
+    },
+    "8481655": {
+        "faceoffWins": 128,
+        "faceoff_avg": 2.7234042553191493,
+        "faceoff_sd": 2.2474773343668075,
+        "fights": 0
+    },
+    "8481656": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.09411764705882356,
+        "faceoff_sd": 0.2919923210821378,
+        "fights": 0
+    },
+    "8479619": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.08620689655172413,
+        "faceoff_sd": 0.2806693206224087,
+        "fights": 3
+    },
+    "8477573": {
+        "faceoffWins": 95,
+        "faceoff_avg": 1.1176470588235294,
+        "faceoff_sd": 2.0431334913969335,
+        "fights": 12
+    },
+    "8479638": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.03529411764705884,
+        "faceoff_sd": 0.18452220166303673,
+        "fights": 0
+    },
+    "8473504": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8473507": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8481703": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8473512": {
+        "faceoffWins": 640,
+        "faceoff_avg": 7.191011235955057,
+        "faceoff_sd": 3.02378735836993,
+        "fights": 0
+    },
+    "8481704": {
+        "faceoffWins": 109,
+        "faceoff_avg": 2.0961538461538467,
+        "faceoff_sd": 2.0686265918070768,
+        "fights": 2
+    },
+    "8481708": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479661": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.11267605633802821,
+        "faceoff_sd": 0.31619639888230494,
+        "fights": 28
+    },
+    "8481711": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.10169491525423731,
+        "faceoff_sd": 0.3022466864428307,
+        "fights": 0
+    },
+    "8481716": {
+        "faceoffWins": 38,
+        "faceoff_avg": 0.4871794871794871,
+        "faceoff_sd": 1.0590705860545326,
+        "fights": 3
+    },
+    "8479671": {
+        "faceoffWins": 15,
+        "faceoff_avg": 0.17045454545454544,
+        "faceoff_sd": 0.43226651367295976,
+        "fights": 35
+    },
+    "8479675": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.0125,
+        "faceoff_sd": 0.11110243021644486,
+        "fights": 0
+    },
+    "8473533": {
+        "faceoffWins": 894,
+        "faceoff_avg": 9.717391304347826,
+        "faceoff_sd": 3.118409875437918,
+        "fights": 0
+    },
+    "8481726": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.05454545454545456,
+        "faceoff_sd": 0.4008255942736111,
+        "fights": 1
+    },
+    "8481743": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8477947": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8483808": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.013333333333333334,
+        "faceoff_sd": 0.11469767022723501,
+        "fights": 0
+    },
+    "8479718": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477955": {
+        "faceoffWins": 109,
+        "faceoff_avg": 1.2976190476190477,
+        "faceoff_sd": 2.0861205844750494,
+        "fights": 1
+    },
+    "8481789": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.060606060606060615,
+        "faceoff_sd": 0.2386062992124791,
+        "fights": 2
+    },
+    "8481806": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477962": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 10
+    },
+    "8479772": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.2962962962962964,
+        "faceoff_sd": 0.4566232594791834,
+        "fights": 16
+    },
+    "8475690": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8475692": {
+        "faceoffWins": 14,
+        "faceoff_avg": 0.17948717948717952,
+        "faceoff_sd": 0.5936326616815499,
+        "fights": 0
+    },
+    "8475714": {
+        "faceoffWins": 10,
+        "faceoff_avg": 0.30303030303030304,
+        "faceoff_sd": 0.7581815759513214,
+        "fights": 0
+    },
+    "8475718": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8475722": {
+        "faceoffWins": 42,
+        "faceoff_avg": 0.5599999999999999,
+        "faceoff_sd": 0.8204064033554751,
+        "fights": 4
+    },
+    "8475726": {
+        "faceoffWins": 13,
+        "faceoff_avg": 0.15853658536585372,
+        "faceoff_sd": 0.3972316457293252,
+        "fights": 0
+    },
+    "8480008": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8483930": {
+        "faceoffWins": 61,
+        "faceoff_avg": 1.3863636363636362,
+        "faceoff_sd": 1.4804162358623871,
+        "fights": 0
+    },
+    "8480011": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.12820512820512822,
+        "faceoff_sd": 0.3343180720616743,
+        "fights": 9
+    },
+    "8475745": {
+        "faceoffWins": 426,
+        "faceoff_avg": 4.630434782608695,
+        "faceoff_sd": 2.9330107372590923,
+        "fights": 0
+    },
+    "8475744": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8475750": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475752": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8475753": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8475754": {
+        "faceoffWins": 714,
+        "faceoff_avg": 7.846153846153846,
+        "faceoff_sd": 2.8781979898261087,
+        "fights": 0
+    },
+    "8475760": {
+        "faceoffWins": 207,
+        "faceoff_avg": 3.136363636363636,
+        "faceoff_sd": 2.9433353768294674,
+        "fights": 1
+    },
+    "8477810": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8475762": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 6
+    },
+    "8475764": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475765": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475763": {
+        "faceoffWins": 274,
+        "faceoff_avg": 3.9710144927536226,
+        "faceoff_sd": 2.963404888978528,
+        "fights": 1
+    },
+    "8475766": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.11764705882352944,
+        "faceoff_sd": 0.3221897397089212,
+        "fights": 26
+    },
+    "8475768": {
+        "faceoffWins": 37,
+        "faceoff_avg": 0.44047619047619047,
+        "faceoff_sd": 0.7920917226257034,
+        "fights": 0
+    },
+    "8471675": {
+        "faceoffWins": 1039,
+        "faceoff_avg": 12.518072289156626,
+        "faceoff_sd": 4.122700734248349,
+        "fights": 2
+    },
+    "8471677": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8471685": {
+        "faceoffWins": 959,
+        "faceoff_avg": 10.655555555555551,
+        "faceoff_sd": 3.6214211793196185,
+        "fights": 0
+    },
+    "8471686": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 1
+    },
+    "8475784": {
+        "faceoffWins": 23,
+        "faceoff_avg": 0.28395061728395066,
+        "faceoff_sd": 0.5266846668568282,
+        "fights": 0
+    },
+    "8475786": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.021739130434782615,
+        "faceoff_sd": 0.1458305202717254,
+        "fights": 1
+    },
+    "8475790": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 7
+    },
+    "8475791": {
+        "faceoffWins": 48,
+        "faceoff_avg": 0.4999999999999999,
+        "faceoff_sd": 0.7359800721939873,
+        "fights": 0
+    },
+    "8477839": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.10000000000000002,
+        "faceoff_sd": 0.30000000000000004,
+        "fights": 0
+    },
+    "8475793": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8471698": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 3
+    },
+    "8475794": {
+        "faceoffWins": 169,
+        "faceoff_avg": 4.225,
+        "faceoff_sd": 2.274725258135584,
+        "fights": 0
+    },
+    "8471699": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8477845": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8475798": {
+        "faceoffWins": 396,
+        "faceoff_avg": 3.8823529411764697,
+        "faceoff_sd": 3.5043225902603483,
+        "fights": 0
+    },
+    "8475799": {
+        "faceoffWins": 21,
+        "faceoff_avg": 0.2142857142857143,
+        "faceoff_sd": 0.5578749768504754,
+        "fights": 0
+    },
+    "8475797": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 11
+    },
+    "8477846": {
+        "faceoffWins": 11,
+        "faceoff_avg": 5.5,
+        "faceoff_sd": 1.5,
+        "fights": 0
+    },
+    "8471709": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475810": {
+        "faceoffWins": 9,
+        "faceoff_avg": 0.12328767123287682,
+        "faceoff_sd": 0.3680829819875179,
+        "fights": 1
+    },
+    "8471724": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8475825": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8475842": {
+        "faceoffWins": 396,
+        "faceoff_avg": 4.771084337349397,
+        "faceoff_sd": 2.202546725321522,
+        "fights": 23
+    },
+    "8479941": {
+        "faceoffWins": 327,
+        "faceoff_avg": 5.360655737704917,
+        "faceoff_sd": 2.6798139578516618,
+        "fights": 0
+    },
+    "8475848": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8479944": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.048780487804878085,
+        "faceoff_sd": 0.26606614913745646,
+        "fights": 2
+    },
+    "8477903": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.1,
+        "faceoff_sd": 0.30000000000000004,
+        "fights": 9
+    },
+    "8475855": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8477919": {
+        "faceoffWins": 557,
+        "faceoff_avg": 6.054347826086958,
+        "faceoff_sd": 2.8259824395388997,
+        "fights": 0
+    },
+    "8479968": {
+        "faceoffWins": 16,
+        "faceoff_avg": 0.5714285714285714,
+        "faceoff_sd": 0.8630747123996123,
+        "fights": 0
+    },
+    "8479976": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479977": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.3333333333333334,
+        "faceoff_sd": 0.6666666666666667,
+        "fights": 0
+    },
+    "8477930": {
+        "faceoffWins": 23,
+        "faceoff_avg": 7.666666666666667,
+        "faceoff_sd": 1.247219128924647,
+        "fights": 2
+    },
+    "8477931": {
+        "faceoffWins": 300,
+        "faceoff_avg": 3.947368421052632,
+        "faceoff_sd": 2.247189688443073,
+        "fights": 2
+    },
+    "8479980": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 10
+    },
+    "8477933": {
+        "faceoffWins": 249,
+        "faceoff_avg": 2.4174757281553387,
+        "faceoff_sd": 1.9732397678563323,
+        "fights": 1
+    },
+    "8479982": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479983": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8477934": {
+        "faceoffWins": 902,
+        "faceoff_avg": 9.298969072164947,
+        "faceoff_sd": 3.2622961632530285,
+        "fights": 0
+    },
+    "8477935": {
+        "faceoffWins": 553,
+        "faceoff_avg": 5.475247524752476,
+        "faceoff_sd": 2.6084176737082725,
+        "fights": 6
+    },
+    "8477932": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8477938": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477939": {
+        "faceoffWins": 96,
+        "faceoff_avg": 0.9795918367346936,
+        "faceoff_sd": 1.4284256485385403,
+        "fights": 0
+    },
+    "8477940": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.06249999999999998,
+        "faceoff_sd": 0.36550478793033625,
+        "fights": 3
+    },
+    "8479981": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.04687499999999999,
+        "faceoff_sd": 0.21137108216357314,
+        "fights": 28
+    },
+    "8477942": {
+        "faceoffWins": 15,
+        "faceoff_avg": 0.16483516483516483,
+        "faceoff_sd": 0.3995529442351174,
+        "fights": 0
+    },
+    "8479987": {
+        "faceoffWins": 193,
+        "faceoff_avg": 2.382716049382716,
+        "faceoff_sd": 1.9217269833106867,
+        "fights": 2
+    },
+    "8479992": {
+        "faceoffWins": 94,
+        "faceoff_avg": 1.1604938271604937,
+        "faceoff_sd": 1.888606450279139,
+        "fights": 4
+    },
+    "8477946": {
+        "faceoffWins": 901,
+        "faceoff_avg": 10.476744186046512,
+        "faceoff_sd": 3.5264012362102624,
+        "fights": 1
+    },
+    "8479994": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.2,
+        "faceoff_sd": 0.4,
+        "fights": 0
+    },
+    "8477948": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479996": {
+        "faceoffWins": 284,
+        "faceoff_avg": 3.786666666666667,
+        "faceoff_sd": 2.3567963189229753,
+        "fights": 1
+    },
+    "8477949": {
+        "faceoffWins": 81,
+        "faceoff_avg": 0.9642857142857143,
+        "faceoff_sd": 1.313360181361683,
+        "fights": 5
+    },
+    "8479998": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8479999": {
+        "faceoffWins": 459,
+        "faceoff_avg": 5.530120481927709,
+        "faceoff_sd": 2.7912831155701916,
+        "fights": 0
+    },
+    "8477951": {
+        "faceoffWins": 185,
+        "faceoff_avg": 2.202380952380952,
+        "faceoff_sd": 1.9686819491172374,
+        "fights": 0
+    },
+    "8477953": {
+        "faceoffWins": 41,
+        "faceoff_avg": 0.4880952380952382,
+        "faceoff_sd": 1.2198170005124656,
+        "fights": 0
+    },
+    "8480002": {
+        "faceoffWins": 1111,
+        "faceoff_avg": 13.3855421686747,
+        "faceoff_sd": 3.556197120389304,
+        "fights": 0
+    },
+    "8477956": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.035294117647058816,
+        "faceoff_sd": 0.18452220166303673,
+        "fights": 1
+    },
+    "8480003": {
+        "faceoffWins": 76,
+        "faceoff_avg": 0.7916666666666667,
+        "faceoff_sd": 1.4924578907143595,
+        "fights": 0
+    },
+    "8480001": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477950": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8477952": {
+        "faceoffWins": 71,
+        "faceoff_avg": 1.5106382978723405,
+        "faceoff_sd": 1.6868999696097697,
+        "fights": 0
+    },
+    "8482055": {
+        "faceoffWins": 55,
+        "faceoff_avg": 0.6321839080459772,
+        "faceoff_sd": 1.2604956380464598,
+        "fights": 0
+    },
+    "8477960": {
+        "faceoffWins": 15,
+        "faceoff_avg": 0.16666666666666663,
+        "faceoff_sd": 0.4281744192888376,
+        "fights": 1
+    },
+    "8475913": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.0632911392405063,
+        "faceoff_sd": 0.2434858741983714,
+        "fights": 0
+    },
+    "8471817": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 16
+    },
+    "8477964": {
+        "faceoffWins": 22,
+        "faceoff_avg": 0.26190476190476186,
+        "faceoff_sd": 0.4908459078116263,
+        "fights": 4
+    },
+    "8480012": {
+        "faceoffWins": 465,
+        "faceoff_avg": 6.9402985074626855,
+        "faceoff_sd": 3.523399804102568,
+        "fights": 0
+    },
+    "8480014": {
+        "faceoffWins": 107,
+        "faceoff_avg": 1.273809523809524,
+        "faceoff_sd": 2.470546452354748,
+        "fights": 0
+    },
+    "8480009": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.07058823529411763,
+        "faceoff_sd": 0.2561357771420852,
+        "fights": 1
+    },
+    "8480015": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.1,
+        "faceoff_sd": 0.3,
+        "fights": 0
+    },
+    "8477969": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 5
+    },
+    "8480018": {
+        "faceoffWins": 743,
+        "faceoff_avg": 8.348314606741575,
+        "faceoff_sd": 3.2777805713708634,
+        "fights": 0
+    },
+    "8482062": {
+        "faceoffWins": 9,
+        "faceoff_avg": 0.12328767123287675,
+        "faceoff_sd": 0.3287671232876712,
+        "fights": 17
+    },
+    "8477971": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 24
+    },
+    "8482070": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.054054054054054064,
+        "faceoff_sd": 0.22612433149569605,
+        "fights": 1
+    },
+    "8480023": {
+        "faceoffWins": 837,
+        "faceoff_avg": 10.462499999999999,
+        "faceoff_sd": 3.323942501006899,
+        "fights": 0
+    },
+    "8482073": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8482074": {
+        "faceoffWins": 102,
+        "faceoff_avg": 1.728813559322034,
+        "faceoff_sd": 2.1536764662251557,
+        "fights": 0
+    },
+    "8480027": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.07526881720430108,
+        "faceoff_sd": 0.2638246052986085,
+        "fights": 0
+    },
+    "8480028": {
+        "faceoffWins": 554,
+        "faceoff_avg": 6.595238095238095,
+        "faceoff_sd": 2.474243740250301,
+        "fights": 0
+    },
+    "8482077": {
+        "faceoffWins": 61,
+        "faceoff_avg": 0.7624999999999997,
+        "faceoff_sd": 1.3986042149228637,
+        "fights": 2
+    },
+    "8482078": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.011627906976744186,
+        "faceoff_sd": 0.10720400531735916,
+        "fights": 0
+    },
+    "8482079": {
+        "faceoffWins": 513,
+        "faceoff_avg": 5.5760869565217375,
+        "faceoff_sd": 2.3876206805474127,
+        "fights": 1
+    },
+    "8477979": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.24,
+        "faceoff_sd": 0.42708313008125237,
+        "fights": 3
+    },
+    "8480025": {
+        "faceoffWins": 7,
+        "faceoff_avg": 2.333333333333333,
+        "faceoff_sd": 3.2998316455372216,
+        "fights": 3
+    },
+    "8477986": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8480035": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480036": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8477989": {
+        "faceoffWins": 661,
+        "faceoff_avg": 7.263736263736264,
+        "faceoff_sd": 3.023116668602395,
+        "fights": 0
+    },
+    "8477987": {
+        "faceoffWins": 234,
+        "faceoff_avg": 2.819277108433735,
+        "faceoff_sd": 2.360031541106632,
+        "fights": 5
+    },
+    "8480039": {
+        "faceoffWins": 54,
+        "faceoff_avg": 0.6136363636363639,
+        "faceoff_sd": 0.9099427826894367,
+        "fights": 0
+    },
+    "8482087": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 6
+    },
+    "8482089": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.06451612903225805,
+        "faceoff_sd": 0.28611042356236716,
+        "fights": 7
+    },
+    "8480043": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482092": {
+        "faceoffWins": 226,
+        "faceoff_avg": 2.5681818181818175,
+        "faceoff_sd": 2.7912014948985617,
+        "fights": 5
+    },
+    "8482093": {
+        "faceoffWins": 61,
+        "faceoff_avg": 0.6777777777777778,
+        "faceoff_sd": 0.9288915470456384,
+        "fights": 0
+    },
+    "8477998": {
+        "faceoffWins": 27,
+        "faceoff_avg": 0.2934782608695653,
+        "faceoff_sd": 0.5811914950128197,
+        "fights": 1
+    },
+    "8482095": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8484144": {
+        "faceoffWins": 268,
+        "faceoff_avg": 3.1162790697674425,
+        "faceoff_sd": 2.3198767241263747,
+        "fights": 0
+    },
+    "8480049": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8482097": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.012987012987012988,
+        "faceoff_sd": 0.11321815437767983,
+        "fights": 1
+    },
+    "8484145": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.05128205128205127,
+        "faceoff_sd": 0.22057244274468274,
+        "fights": 0
+    },
+    "8482105": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8478010": {
+        "faceoffWins": 479,
+        "faceoff_avg": 5.702380952380953,
+        "faceoff_sd": 2.742000320867448,
+        "fights": 2
+    },
+    "8484153": {
+        "faceoffWins": 312,
+        "faceoff_avg": 3.9493670886075947,
+        "faceoff_sd": 2.448966375490674,
+        "fights": 0
+    },
+    "8480058": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8482109": {
+        "faceoffWins": 14,
+        "faceoff_avg": 0.1647058823529412,
+        "faceoff_sd": 0.37091488871610456,
+        "fights": 1
+    },
+    "8482110": {
+        "faceoffWins": 104,
+        "faceoff_avg": 1.1685393258426966,
+        "faceoff_sd": 1.7041651226648817,
+        "fights": 1
+    },
+    "8482111": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8480064": {
+        "faceoffWins": 426,
+        "faceoff_avg": 7.344827586206896,
+        "faceoff_sd": 2.9393391477415296,
+        "fights": 0
+    },
+    "8482113": {
+        "faceoffWins": 724,
+        "faceoff_avg": 6.830188679245284,
+        "faceoff_sd": 2.5457018830978013,
+        "fights": 1
+    },
+    "8478013": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8482116": {
+        "faceoffWins": 219,
+        "faceoff_avg": 2.4065934065934065,
+        "faceoff_sd": 2.0753817177189933,
+        "fights": 0
+    },
+    "8480069": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478020": {
+        "faceoffWins": 53,
+        "faceoff_avg": 0.646341463414634,
+        "faceoff_sd": 1.0285195519622317,
+        "fights": 0
+    },
+    "8484166": {
+        "faceoffWins": 446,
+        "faceoff_avg": 5.06818181818182,
+        "faceoff_sd": 2.548597896818841,
+        "fights": 0
+    },
+    "8482118": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.11111111111111113,
+        "faceoff_sd": 0.3142696805273545,
+        "fights": 0
+    },
+    "8480068": {
+        "faceoffWins": 398,
+        "faceoff_avg": 5.605633802816901,
+        "faceoff_sd": 2.4579785192533503,
+        "fights": 0
+    },
+    "8482122": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8480074": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.02702702702702704,
+        "faceoff_sd": 0.16216216216216214,
+        "fights": 0
+    },
+    "8482124": {
+        "faceoffWins": 469,
+        "faceoff_avg": 5.153846153846152,
+        "faceoff_sd": 2.7413122586469947,
+        "fights": 0
+    },
+    "8482125": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.053571428571428575,
+        "faceoff_sd": 0.2251700038021159,
+        "fights": 0
+    },
+    "8480078": {
+        "faceoffWins": 283,
+        "faceoff_avg": 4.716666666666666,
+        "faceoff_sd": 2.443301500474762,
+        "fights": 0
+    },
+    "8482126": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480073": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8478028": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8482132": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.07894736842105264,
+        "faceoff_sd": 0.2696565991041999,
+        "fights": 0
+    },
+    "8478038": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478042": {
+        "faceoffWins": 24,
+        "faceoff_avg": 0.2790697674418604,
+        "faceoff_sd": 0.6222831702446351,
+        "fights": 0
+    },
+    "8478043": {
+        "faceoffWins": 90,
+        "faceoff_avg": 1.4285714285714288,
+        "faceoff_sd": 1.6106223357416918,
+        "fights": 3
+    },
+    "8478046": {
+        "faceoffWins": 18,
+        "faceoff_avg": 0.21951219512195125,
+        "faceoff_sd": 0.5636204882093339,
+        "fights": 1
+    },
+    "8478047": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.0632911392405063,
+        "faceoff_sd": 0.2434858741983714,
+        "fights": 2
+    },
+    "8482142": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482145": {
+        "faceoffWins": 175,
+        "faceoff_avg": 2.2151898734177218,
+        "faceoff_sd": 1.9269631520256272,
+        "fights": 0
+    },
+    "8482146": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482144": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482148": {
+        "faceoffWins": 60,
+        "faceoff_avg": 1.9354838709677415,
+        "faceoff_sd": 2.093545901882316,
+        "fights": 0
+    },
+    "8482149": {
+        "faceoffWins": 25,
+        "faceoff_avg": 0.2551020408163266,
+        "faceoff_sd": 0.6277791189906948,
+        "fights": 0
+    },
+    "8478055": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8478057": {
+        "faceoffWins": 23,
+        "faceoff_avg": 0.40350877192982454,
+        "faceoff_sd": 0.5881773548856214,
+        "fights": 11
+    },
+    "8482155": {
+        "faceoffWins": 37,
+        "faceoff_avg": 0.4252873563218392,
+        "faceoff_sd": 1.2189328657557184,
+        "fights": 2
+    },
+    "8482157": {
+        "faceoffWins": 13,
+        "faceoff_avg": 0.15116279069767452,
+        "faceoff_sd": 0.4181198743340745,
+        "fights": 8
+    },
+    "8482159": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8480113": {
+        "faceoffWins": 14,
+        "faceoff_avg": 0.14285714285714288,
+        "faceoff_sd": 0.37796447300922714,
+        "fights": 1
+    },
+    "8482166": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482172": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.02777777777777779,
+        "faceoff_sd": 0.16433554953054488,
+        "fights": 1
+    },
+    "8478078": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8482175": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.025000000000000005,
+        "faceoff_sd": 0.15612494995995993,
+        "fights": 0
+    },
+    "8482176": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482177": {
+        "faceoffWins": 216,
+        "faceoff_avg": 2.7341772151898738,
+        "faceoff_sd": 2.4272131269279766,
+        "fights": 0
+    },
+    "8473986": {
+        "faceoffWins": 9,
+        "faceoff_avg": 0.10588235294117652,
+        "faceoff_sd": 0.30768698424992996,
+        "fights": 1
+    },
+    "8484227": {
+        "faceoffWins": 75,
+        "faceoff_avg": 0.9740259740259736,
+        "faceoff_sd": 1.2057656507465102,
+        "fights": 0
+    },
+    "8473994": {
+        "faceoffWins": 348,
+        "faceoff_avg": 3.445544554455446,
+        "faceoff_sd": 2.6306466754741535,
+        "fights": 6
+    },
+    "8480144": {
+        "faceoffWins": 308,
+        "faceoff_avg": 4.812500000000001,
+        "faceoff_sd": 2.4486922530199666,
+        "fights": 0
+    },
+    "8480145": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8482192": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8478099": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478104": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.75,
+        "faceoff_sd": 0.8291561975888501,
+        "fights": 1
+    },
+    "8482201": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.058823529411764705,
+        "faceoff_sd": 0.23529411764705882,
+        "fights": 0
+    },
+    "8474009": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8478109": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.029411764705882356,
+        "faceoff_sd": 0.1689577248981773,
+        "fights": 0
+    },
+    "8474013": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 5
+    },
+    "8484258": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478115": {
+        "faceoffWins": 10,
+        "faceoff_avg": 0.1538461538461539,
+        "faceoff_sd": 0.4011816864740092,
+        "fights": 0
+    },
+    "8480172": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482222": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8474031": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8474034": {
+        "faceoffWins": 37,
+        "faceoff_avg": 0.5211267605633804,
+        "faceoff_sd": 0.7665388633345227,
+        "fights": 29
+    },
+    "8478133": {
+        "faceoffWins": 650,
+        "faceoff_avg": 7.222222222222223,
+        "faceoff_sd": 2.661569202046784,
+        "fights": 2
+    },
+    "8474037": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.08,
+        "faceoff_sd": 0.2712931993250107,
+        "fights": 1
+    },
+    "8478136": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 13
+    },
+    "8480185": {
+        "faceoffWins": 40,
+        "faceoff_avg": 0.3738317757009346,
+        "faceoff_sd": 0.8148546626443853,
+        "fights": 0
+    },
+    "8480184": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8480188": {
+        "faceoffWins": 32,
+        "faceoff_avg": 0.3440860215053763,
+        "faceoff_sd": 0.6638859802336831,
+        "fights": 1
+    },
+    "8480192": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 8
+    },
+    "8482241": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8478146": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.148936170212766,
+        "faceoff_sd": 0.3560255432059896,
+        "fights": 0
+    },
+    "8480196": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482245": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8482117": {
+        "faceoffWins": 142,
+        "faceoff_avg": 1.9452054794520548,
+        "faceoff_sd": 1.8864361627509048,
+        "fights": 0
+    },
+    "8480205": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.11764705882352941,
+        "faceoff_sd": 0.47058823529411764,
+        "fights": 0
+    },
+    "8484304": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8480208": {
+        "faceoffWins": 14,
+        "faceoff_avg": 0.15217391304347838,
+        "faceoff_sd": 0.38827328477155987,
+        "fights": 1
+    },
+    "8482259": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.07692307692307691,
+        "faceoff_sd": 0.3049326796815738,
+        "fights": 2
+    },
+    "8480220": {
+        "faceoffWins": 506,
+        "faceoff_avg": 6.170731707317073,
+        "faceoff_sd": 3.1266161793378298,
+        "fights": 0
+    },
+    "8480222": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8484321": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478178": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8474090": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 9
+    },
+    "8480246": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8474102": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.1568627450980392,
+        "faceoff_sd": 0.3636713135488512,
+        "fights": 0
+    },
+    "8478233": {
+        "faceoffWins": 9,
+        "faceoff_avg": 0.09574468085106383,
+        "faceoff_sd": 0.29424078055190067,
+        "fights": 0
+    },
+    "8480281": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.04301075268817204,
+        "faceoff_sd": 0.20288131466788392,
+        "fights": 1
+    },
+    "8474141": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.08000000000000002,
+        "faceoff_sd": 0.3166491223210111,
+        "fights": 0
+    },
+    "8480289": {
+        "faceoffWins": 135,
+        "faceoff_avg": 1.4999999999999998,
+        "faceoff_sd": 1.9450792614526875,
+        "fights": 2
+    },
+    "8484387": {
+        "faceoffWins": 19,
+        "faceoff_avg": 0.22619047619047633,
+        "faceoff_sd": 0.49644427290459614,
+        "fights": 0
+    },
+    "8474149": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8474150": {
+        "faceoffWins": 749,
+        "faceoff_avg": 9.362499999999999,
+        "faceoff_sd": 2.9801163987334447,
+        "fights": 0
+    },
+    "8474151": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8474157": {
+        "faceoffWins": 6,
+        "faceoff_avg": 0.1153846153846154,
+        "faceoff_sd": 0.31948553318915673,
+        "fights": 1
+    },
+    "8474166": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8474189": {
+        "faceoffWins": 439,
+        "faceoff_avg": 4.824175824175825,
+        "faceoff_sd": 1.941979315387667,
+        "fights": 0
+    },
+    "8480336": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480355": {
+        "faceoffWins": 215,
+        "faceoff_avg": 3.3076923076923066,
+        "faceoff_sd": 1.912896128291637,
+        "fights": 27
+    },
+    "8476278": {
+        "faceoffWins": 193,
+        "faceoff_avg": 2.474358974358974,
+        "faceoff_sd": 2.030058474428495,
+        "fights": 0
+    },
+    "8476292": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.04705882352941178,
+        "faceoff_sd": 0.2117647058823529,
+        "fights": 1
+    },
+    "8482451": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.05555555555555558,
+        "faceoff_sd": 0.2290614236454256,
+        "fights": 0
+    },
+    "8476312": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 6
+    },
+    "8482460": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.11111111111111113,
+        "faceoff_sd": 0.48176629752619565,
+        "fights": 10
+    },
+    "8478366": {
+        "faceoffWins": 17,
+        "faceoff_avg": 0.20238095238095252,
+        "faceoff_sd": 0.43038636863155283,
+        "fights": 1
+    },
+    "8476331": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482476": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.04225352112676057,
+        "faceoff_sd": 0.20116699798712254,
+        "fights": 0
+    },
+    "8482475": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.05882352941176473,
+        "faceoff_sd": 0.3379154497963546,
+        "fights": 0
+    },
+    "8480434": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8476346": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8478396": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8478397": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478398": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.010204081632653064,
+        "faceoff_sd": 0.10049854899791945,
+        "fights": 1
+    },
+    "8478399": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480448": {
+        "faceoffWins": 316,
+        "faceoff_avg": 3.472527472527472,
+        "faceoff_sd": 2.690400759969647,
+        "fights": 4
+    },
+    "8478401": {
+        "faceoffWins": 396,
+        "faceoff_avg": 4.658823529411764,
+        "faceoff_sd": 2.509056261186526,
+        "fights": 1
+    },
+    "8478402": {
+        "faceoffWins": 536,
+        "faceoff_avg": 5.702127659574468,
+        "faceoff_sd": 2.440046159460673,
+        "fights": 0
+    },
+    "8478403": {
+        "faceoffWins": 687,
+        "faceoff_avg": 7.549450549450551,
+        "faceoff_sd": 2.6654638433679594,
+        "fights": 0
+    },
+    "8482496": {
+        "faceoffWins": 44,
+        "faceoff_avg": 1.9130434782608696,
+        "faceoff_sd": 2.0833301827323374,
+        "fights": 0
+    },
+    "8478407": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8480459": {
+        "faceoffWins": 385,
+        "faceoff_avg": 4.583333333333335,
+        "faceoff_sd": 3.2079081350896885,
+        "fights": 0
+    },
+    "8478413": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.19444444444444445,
+        "faceoff_sd": 0.46064233199380555,
+        "fights": 5
+    },
+    "8478414": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.09195402298850576,
+        "faceoff_sd": 0.28896103655118477,
+        "fights": 2
+    },
+    "8482511": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478416": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 6
+    },
+    "8478420": {
+        "faceoffWins": 144,
+        "faceoff_avg": 1.4117647058823517,
+        "faceoff_sd": 1.926863453430494,
+        "fights": 0
+    },
+    "8478421": {
+        "faceoffWins": 22,
+        "faceoff_avg": 0.215686274509804,
+        "faceoff_sd": 0.49759127609605963,
+        "fights": 18
+    },
+    "8476374": {
+        "faceoffWins": 339,
+        "faceoff_avg": 3.8965517241379315,
+        "faceoff_sd": 2.4213346882684292,
+        "fights": 2
+    },
+    "8476372": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 11
+    },
+    "8478424": {
+        "faceoffWins": 138,
+        "faceoff_avg": 2.090909090909091,
+        "faceoff_sd": 2.3010358189781375,
+        "fights": 2
+    },
+    "8480468": {
+        "faceoffWins": 13,
+        "faceoff_avg": 4.333333333333333,
+        "faceoff_sd": 1.247219128924647,
+        "fights": 0
+    },
+    "8482516": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478427": {
+        "faceoffWins": 826,
+        "faceoff_avg": 8.60416666666667,
+        "faceoff_sd": 3.277064128996495,
+        "fights": 0
+    },
+    "8478430": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478432": {
+        "faceoffWins": 9,
+        "faceoff_avg": 0.18000000000000002,
+        "faceoff_sd": 0.4331281565541543,
+        "fights": 3
+    },
+    "8478434": {
+        "faceoffWins": 7,
+        "faceoff_avg": 0.07216494845360825,
+        "faceoff_sd": 0.2587608329486832,
+        "fights": 19
+    },
+    "8476389": {
+        "faceoffWins": 942,
+        "faceoff_avg": 11.082352941176469,
+        "faceoff_sd": 4.198632171401377,
+        "fights": 5
+    },
+    "8478438": {
+        "faceoffWins": 112,
+        "faceoff_avg": 1.9310344827586206,
+        "faceoff_sd": 2.015988411343926,
+        "fights": 0
+    },
+    "8478439": {
+        "faceoffWins": 45,
+        "faceoff_avg": 0.5294117647058822,
+        "faceoff_sd": 0.848365005991527,
+        "fights": 3
+    },
+    "8476392": {
+        "faceoffWins": 762,
+        "faceoff_avg": 8.56179775280899,
+        "faceoff_sd": 2.9753861280145584,
+        "fights": 18
+    },
+    "8478440": {
+        "faceoffWins": 790,
+        "faceoff_avg": 8.31578947368421,
+        "faceoff_sd": 2.9028594175026683,
+        "fights": 0
+    },
+    "8476393": {
+        "faceoffWins": 3,
+        "faceoff_avg": 0.05172413793103449,
+        "faceoff_sd": 0.22146952721836433,
+        "fights": 5
+    },
+    "8478443": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8478444": {
+        "faceoffWins": 15,
+        "faceoff_avg": 0.19230769230769232,
+        "faceoff_sd": 0.5786299536613723,
+        "fights": 0
+    },
+    "8478445": {
+        "faceoffWins": 24,
+        "faceoff_avg": 0.7058823529411765,
+        "faceoff_sd": 1.0718157151934469,
+        "fights": 0
+    },
+    "8476399": {
+        "faceoffWins": 38,
+        "faceoff_avg": 0.4470588235294118,
+        "faceoff_sd": 0.6946159726647297,
+        "fights": 2
+    },
+    "8478449": {
+        "faceoffWins": 597,
+        "faceoff_avg": 6.21875,
+        "faceoff_sd": 2.976306173346418,
+        "fights": 0
+    },
+    "8478450": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8478454": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8478458": {
+        "faceoffWins": 250,
+        "faceoff_avg": 2.717391304347825,
+        "faceoff_sd": 2.7199987490267334,
+        "fights": 0
+    },
+    "8478460": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8478462": {
+        "faceoffWins": 440,
+        "faceoff_avg": 5.1764705882352935,
+        "faceoff_sd": 2.7490168107171575,
+        "fights": 2
+    },
+    "8478463": {
+        "faceoffWins": 11,
+        "faceoff_avg": 0.11578947368421054,
+        "faceoff_sd": 0.455681280461334,
+        "fights": 0
+    },
+    "8478466": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476419": {
+        "faceoffWins": 615,
+        "faceoff_avg": 7.40963855421687,
+        "faceoff_sd": 3.351087378202022,
+        "fights": 2
+    },
+    "8478468": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 15
+    },
+    "8478469": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476422": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8478472": {
+        "faceoffWins": 33,
+        "faceoff_avg": 0.4925373134328356,
+        "faceoff_sd": 1.137857824032592,
+        "fights": 1
+    },
+    "8478474": {
+        "faceoffWins": 19,
+        "faceoff_avg": 0.2235294117647059,
+        "faceoff_sd": 0.4697050535924031,
+        "fights": 6
+    },
+    "8476429": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8476432": {
+        "faceoffWins": 106,
+        "faceoff_avg": 3.655172413793103,
+        "faceoff_sd": 3.7257340130222296,
+        "fights": 1
+    },
+    "8478483": {
+        "faceoffWins": 14,
+        "faceoff_avg": 0.14432989690721645,
+        "faceoff_sd": 0.3514239288465837,
+        "fights": 0
+    },
+    "8476438": {
+        "faceoffWins": 14,
+        "faceoff_avg": 0.17073170731707318,
+        "faceoff_sd": 0.4363059468292272,
+        "fights": 0
+    },
+    "8476441": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8476442": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.06250000000000001,
+        "faceoff_sd": 0.2420614591379636,
+        "fights": 0
+    },
+    "8478493": {
+        "faceoffWins": 517,
+        "faceoff_avg": 9.4,
+        "faceoff_sd": 4.145534289504134,
+        "fights": 0
+    },
+    "8476448": {
+        "faceoffWins": 473,
+        "faceoff_avg": 7.390625,
+        "faceoff_sd": 2.7535045141373926,
+        "fights": 0
+    },
+    "8478498": {
+        "faceoffWins": 12,
+        "faceoff_avg": 0.14117647058823532,
+        "faceoff_sd": 0.4379884816232067,
+        "fights": 0
+    },
+    "8478500": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8476453": {
+        "faceoffWins": 2,
+        "faceoff_avg": 0.02352941176470589,
+        "faceoff_sd": 0.15157763207911912,
+        "fights": 1
+    },
+    "8476454": {
+        "faceoffWins": 346,
+        "faceoff_avg": 3.326923076923076,
+        "faceoff_sd": 2.910334066511648,
+        "fights": 1
+    },
+    "8478502": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 12
+    },
+    "8476456": {
+        "faceoffWins": 14,
+        "faceoff_avg": 0.1647058823529412,
+        "faceoff_sd": 0.4813475893053831,
+        "fights": 0
+    },
+    "8476457": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8476458": {
+        "faceoffWins": 522,
+        "faceoff_avg": 6.141176470588237,
+        "faceoff_sd": 2.666360997475422,
+        "fights": 8
+    },
+    "8478507": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8478508": {
+        "faceoffWins": 23,
+        "faceoff_avg": 0.27058823529411763,
+        "faceoff_sd": 0.49439767975178106,
+        "fights": 4
+    },
+    "8476460": {
+        "faceoffWins": 738,
+        "faceoff_avg": 7.687499999999998,
+        "faceoff_sd": 3.580364564770837,
+        "fights": 5
+    },
+    "8476462": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476463": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476459": {
+        "faceoffWins": 579,
+        "faceoff_avg": 6.811764705882355,
+        "faceoff_sd": 3.1974037911186963,
+        "fights": 0
+    },
+    "8476461": {
+        "faceoffWins": 693,
+        "faceoff_avg": 8.451219512195122,
+        "faceoff_sd": 3.450529966450861,
+        "fights": 3
+    },
+    "8478512": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8476467": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 6
+    },
+    "8476468": {
+        "faceoffWins": 639,
+        "faceoff_avg": 8.753424657534245,
+        "faceoff_sd": 3.9161793720998648,
+        "fights": 9
+    },
+    "8476469": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.044943820224719114,
+        "faceoff_sd": 0.20718077432118845,
+        "fights": 0
+    },
+    "8478519": {
+        "faceoffWins": 702,
+        "faceoff_avg": 7.977272727272731,
+        "faceoff_sd": 3.1041660888937654,
+        "fights": 1
+    },
+    "8476473": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 9
+    },
+    "8476474": {
+        "faceoffWins": 48,
+        "faceoff_avg": 0.5581395348837207,
+        "faceoff_sd": 0.8156129263604736,
+        "fights": 6
+    },
+    "8476479": {
+        "faceoffWins": 712,
+        "faceoff_avg": 7.911111111111112,
+        "faceoff_sd": 2.931228200845525,
+        "fights": 1
+    },
+    "8476480": {
+        "faceoffWins": 437,
+        "faceoff_avg": 4.6000000000000005,
+        "faceoff_sd": 2.48108634950181,
+        "fights": 2
+    },
+    "8482624": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8476483": {
+        "faceoffWins": 20,
+        "faceoff_avg": 0.23809523809523814,
+        "faceoff_sd": 1.0869249724298407,
+        "fights": 0
+    },
+    "8478542": {
+        "faceoffWins": 161,
+        "faceoff_avg": 1.5188679245283023,
+        "faceoff_sd": 1.6439203721905875,
+        "fights": 0
+    },
+    "8478550": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8474870": {
+        "faceoffWins": 14,
+        "faceoff_avg": 1.0769230769230769,
+        "faceoff_sd": 1.4390989949130546,
+        "fights": 0
+    },
+    "8482652": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.037037037037037035,
+        "faceoff_sd": 0.18885257457751053,
+        "fights": 0
+    },
+    "8482655": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8482659": {
+        "faceoffWins": 50,
+        "faceoff_avg": 0.8771929824561401,
+        "faceoff_sd": 1.3900672133010739,
+        "fights": 0
+    },
+    "8482660": {
+        "faceoffWins": 4,
+        "faceoff_avg": 0.054794520547945244,
+        "faceoff_sd": 0.46494692461581205,
+        "fights": 0
+    },
+    "8478569": {
+        "faceoffWins": 342,
+        "faceoff_avg": 4.170731707317073,
+        "faceoff_sd": 2.5605109915357,
+        "fights": 1
+    },
+    "8482665": {
+        "faceoffWins": 597,
+        "faceoff_avg": 7.023529411764707,
+        "faceoff_sd": 2.5985356536427577,
+        "fights": 0
+    },
+    "8482667": {
+        "faceoffWins": 12,
+        "faceoff_avg": 0.1481481481481481,
+        "faceoff_sd": 0.3884477215445006,
+        "fights": 1
+    },
+    "8476525": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8482671": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482679": {
+        "faceoffWins": 69,
+        "faceoff_avg": 0.8414634146341461,
+        "faceoff_sd": 1.1839321853016829,
+        "fights": 1
+    },
+    "8478585": {
+        "faceoffWins": 164,
+        "faceoff_avg": 4.100000000000001,
+        "faceoff_sd": 2.4269322199023193,
+        "fights": 0
+    },
+    "8476539": {
+        "faceoffWins": 17,
+        "faceoff_avg": 0.21250000000000002,
+        "faceoff_sd": 0.4385701198212208,
+        "fights": 2
+    },
+    "8482684": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482691": {
+        "faceoffWins": 226,
+        "faceoff_avg": 5.94736842105263,
+        "faceoff_sd": 3.0082987710406814,
+        "fights": 0
+    },
+    "8482699": {
+        "faceoffWins": 11,
+        "faceoff_avg": 0.14864864864864868,
+        "faceoff_sd": 0.39189189189189194,
+        "fights": 0
+    },
+    "8482700": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482702": {
+        "faceoffWins": 97,
+        "faceoff_avg": 0.9897959183673471,
+        "faceoff_sd": 1.3209064447952807,
+        "fights": 0
+    },
+    "8482705": {
+        "faceoffWins": 338,
+        "faceoff_avg": 4.760563380281692,
+        "faceoff_sd": 3.02787420772626,
+        "fights": 3
+    },
+    "8482713": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482720": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8482726": {
+        "faceoffWins": 142,
+        "faceoff_avg": 2.4067796610169485,
+        "faceoff_sd": 1.6684372477728424,
+        "fights": 3
+    },
+    "8482730": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8482737": {
+        "faceoffWins": 5,
+        "faceoff_avg": 0.06024096385542167,
+        "faceoff_sd": 0.28409219572413485,
+        "fights": 0
+    },
+    "8482740": {
+        "faceoffWins": 573,
+        "faceoff_avg": 5.61764705882353,
+        "faceoff_sd": 2.779632214517155,
+        "fights": 0
+    },
+    "8482742": {
+        "faceoffWins": 1,
+        "faceoff_avg": 0.01562500000000001,
+        "faceoff_sd": 0.12401959270615268,
+        "fights": 4
+    },
+    "8482745": {
+        "faceoffWins": 516,
+        "faceoff_avg": 6.531645569620254,
+        "faceoff_sd": 2.8007026380507027,
+        "fights": 0
+    },
+    "8484801": {
+        "faceoffWins": 514,
+        "faceoff_avg": 7.138888888888889,
+        "faceoff_sd": 3.0427763069803517,
+        "fights": 0
+    },
+    "8474563": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8474564": {
+        "faceoffWins": 408,
+        "faceoff_avg": 4.799999999999998,
+        "faceoff_sd": 2.6515256429637106,
+        "fights": 1
+    },
+    "8474565": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8474567": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8474568": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 17
+    },
+    "8482762": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8474574": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 4
+    },
+    "8482768": {
+        "faceoffWins": 123,
+        "faceoff_avg": 2.3207547169811327,
+        "faceoff_sd": 1.910977078006544,
+        "fights": 0
+    },
+    "8476624": {
+        "faceoffWins": 121,
+        "faceoff_avg": 1.512500000000001,
+        "faceoff_sd": 1.4141583185768134,
+        "fights": 19
+    },
+    "8474578": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8480727": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 3
+    },
+    "8474586": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.17777777777777784,
+        "faceoff_sd": 0.3823255674241168,
+        "fights": 1
+    },
+    "8474590": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8474600": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 1
+    },
+    "8474602": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0,
+        "faceoff_sd": 0,
+        "fights": 0
+    },
+    "8480748": {
+        "faceoffWins": 26,
+        "faceoff_avg": 0.31707317073170743,
+        "faceoff_sd": 0.7135970165037949,
+        "fights": 7
+    },
+    "8482803": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 0
+    },
+    "8474612": {
+        "faceoffWins": 0,
+        "faceoff_avg": 0.0,
+        "faceoff_sd": 0.0,
+        "fights": 2
+    },
+    "8482809": {
+        "faceoffWins": 19,
+        "faceoff_avg": 0.19191919191919202,
+        "faceoff_sd": 0.48568950626954777,
+        "fights": 0
+    },
+    "8480762": {
+        "faceoffWins": 8,
+        "faceoff_avg": 0.07920792079207922,
+        "faceoff_sd": 0.27006300390071,
+        "fights": 0
+    }
+}

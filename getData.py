@@ -108,7 +108,7 @@ def main():
     parse_player_data()
 
 def get_full_data_set(season):
-    
+    pass
 
 
 
@@ -147,18 +147,18 @@ def get_ratios(data):
     output = {}
     for player in data:
         player_output = {
-            'playerId': float(player['playerId']),
-            'playerName': float(player['skaterFullName']),
-            'position':float(player['position']),
-            'team':float(player['teamAbbrevs']),
-            'gp':float(player['gamesPlayed']),
-            'points_ratio':float(player['points_avg'] / (player['points_sd']) + 1),
-            'plusMinus_ratio':float(player['plusMinus_avg'] / (player['plusMinus_sd']) + 1),
-            'shg_ratio':float(player['shg_avg'] / (player['shg_sd']) + 1),
-            'faceoffPctg_ratio':float(player['faceoffPctg_avg'] / (player['faceoffPctg_sd'] + 1)) if player['position'] == 'F' else 0,
-            'blocks_ratio':float(player['blocks_avg'] / (player['blocks_sd']) + 1),
-            'hits_ratio':float(player['hits_avg'] / (player['hits_sd']) + 1),
-            'pim_ratio':float(player['pim_avg'] / (player['pim_sd']) + 1)    
+            'playerId': player['playerId'],
+            'playerName': player['skaterFullName'],
+            'position':player['position'],
+            'team':player['teamAbbrevs'],
+            'gp':player['gamesPlayed'],
+            'points_ratio':float(player['points_avg'] / (player['points_sd'] + 1)),
+            'plusMinus_ratio':float(player['plusMinus_avg'] / (player['plusMinus_sd'] + 1)),
+            'shg_ratio':float(player['shg_avg'] / (player['shg_sd'] + 1)),
+            'faceoffPctg_ratio':float(player['faceoffPctg_avg'] / (player['faceoffPctg_sd'] + 1)),
+            'blocks_ratio':float(player['blocks_avg'] / (player['blocks_sd'] + 1)),
+            'hits_ratio':float(player['hits_avg'] / (player['hits_sd'] + 1)),
+            'pim_ratio':float(player['pim_avg'] / (player['pim_sd'] + 1))    
         }
         output[player['playerId']] = player_output
 

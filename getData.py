@@ -11,6 +11,7 @@ import json
 import time
 import concurrent.futures
 from functools import lru_cache
+from datetime import datetime
 
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "lib"))
@@ -107,8 +108,23 @@ def get_player_stats(player_id):
 def main():
     parse_player_data()
 
+
+
 def get_full_data_set(season):
-    pass
+    
+    raw = json.load(open(f'data/json/{season}_main_raw.json', 'r'))
+    additional = json.load(open(f'data/json/{season}_additional.json', 'r'))
+    ratios = json.load(open(f'data/json/{season}_ratios.json', 'r'))
+
+    output = {}
+    for player in raw:
+        new_dict = {**player, **additional[player['playerId']], **ratios[player['playerId']]}
+        new_dict['faceoff_ratio'] = float(additional[player['playerId']]['faceoff_avg']/(additional[player['playerId']]['faceoff_sd']+1))
+        new_dict['fights_ratio'] = float(additional[player['playerId']]['fights']/player['gamesPlayed'])
+        output[player['playerId']] = new_dict
+    
+    return output
+
 
 
 
@@ -139,6 +155,15 @@ def parse_player_data(data=None):
             writer = csv.DictWriter(f, fieldnames=ratios[0].keys())
             writer.writeheader()
             writer.writerows(ratios)
+
+        with open(f"data/json/{season}_full.json", "w") as f:
+            json.dump(get_full_data_set(season), f, indent=2)
+
+        with open(f'data/csv/{season}_full.csv', 'w', newline='') as f:
+            full = get_full_data_set(season)
+            writer = csv.DictWriter(f, fieldnames=full['8474578'].keys())
+            writer.writeheader()
+            writer.writerows(full.values())
 
     return flipped_data
 
@@ -177,18 +202,40 @@ def convert_season_data(data_list):
 def request_player_data():
     player_list = load_player_list("player_list.txt")
     print(f"Loaded {len(player_list)} players.")
-    start_time = time.time()
+    
     
     raw_data = []
     with concurrent.futures.ThreadPoolExecutor() as executor:
         results = list(executor.map(get_player_stats, player_list))
     raw_data.extend(results)
-    end_time = time.time()
-    json.dump(raw_data, open("player_data.json", "w"), indent=2)
-
-    print(f"Estimated Run time: {((end_time - start_time))/3600:.2f} hours")
+   
+    
 
 
+def request_player_bios():
+    player_list = load_player_list("player_list.txt")
+    
+    out = {}
+    for player in player_list:
+        print(player)
+        career_stats = client.stats.player_career_stats(player_id=player)
+        data = {
+            'playerId' : career_stats['playerId'],
+            'active': career_stats['isActive'],
+            'image': career_stats['headshot'],
+            'height': career_stats['heightInInches'],
+            'weight': career_stats['weightInPounds'],
+            'age': calculate_age(career_stats['birthDate'])
+        }
+        out[player] = data
+    
+    json.dump(out, open("data/json/player_bios.json", "w"), indent=2)
+
+def calculate_age(birthday_str):
+    birthday = datetime.strptime(birthday_str, "%Y-%m-%d")
+    today = datetime.today()
+    age = today.year - birthday.year - ((today.month, today.day) < (birthday.month, birthday.day))
+    return age
 
 if __name__ == "__main__":
     main()

@@ -10,11 +10,12 @@ stats_weights = {
     'points': 0.2,
     'plusMinus': 0.4,
     'shg': 0.4,
-    'faceoffPctg': 0.4,
+    'faceoff': 0.2,
     'blocks': 0.7,
     'hits': 0.8,
-    'pim': 0.8,
-    'gp': 0.5
+    'pim': 0.6,
+    'gp': 0.5,
+    'fights': 0.8 
 }
 
 year_weights = {
@@ -30,7 +31,7 @@ def get_args():
 	return parser.parse_args()
 
 def load_file(season):
-	with open(f'data/json/{season}_ratios.json', 'r') as f:
+	with open(f'data/json/{season}_full.json', 'r') as f:
 		return json.load(f)
 	
 def load_player_list(filename):
@@ -43,28 +44,29 @@ def get_ratings():
     seasons = ['20222023', '20232024', '20242025']
     
     players = []
-    ratios = {}
+    stats = {}
     player_list = load_player_list('player_list.txt')
 
     for season in seasons:
         season_data = load_file(season)
-        ratios[season] = season_data
+        stats[season] = season_data
 
     for player_id in player_list:
         rating = 0
         for season in seasons:
             season_rating = 0
-            if player_id not in ratios[season]:
+            if player_id not in stats[season]:
                 continue
         
-            season_rating += (ratios[season][player_id]['points'] * stats_weights['points'])
-            season_rating += (ratios[season][player_id]['plusMinus'] * stats_weights['plusMinus'])
-            season_rating += (ratios[season][player_id]['shg'] * stats_weights['shg'])
-            season_rating += (ratios[season][player_id]['faceoffPctg'] * stats_weights['faceoffPctg'])
-            season_rating += (ratios[season][player_id]['blocks'] * stats_weights['blocks'])
-            season_rating += (ratios[season][player_id]['hits'] * stats_weights['hits'])
-            season_rating += (ratios[season][player_id]['pim'] * stats_weights['pim'])
-            season_rating += ((ratios[season][player_id]['gp'] / 82) * stats_weights['gp'])
+            season_rating += (stats[season][player_id]['points_ratio'] * stats_weights['points'])
+            season_rating += (stats[season][player_id]['plusMinus_ratio'] * stats_weights['plusMinus'])
+            season_rating += (stats[season][player_id]['shg_ratio'] * stats_weights['shg'])
+            season_rating += (stats[season][player_id]['faceoff_ratio'] * stats_weights['faceoff'])
+            season_rating += (stats[season][player_id]['blocks_ratio'] * stats_weights['blocks'])
+            season_rating += (stats[season][player_id]['hits_ratio'] * stats_weights['hits'])
+            season_rating += (stats[season][player_id]['pim_ratio'] * stats_weights['pim'])
+            season_rating += (stats[season][player_id]['fights_ratio'] * stats_weights['fights'])
+            season_rating += ((stats[season][player_id]['gp'] / 82) * stats_weights['gp'])
             rating += (season_rating * year_weights[season])
 
         player = {
@@ -79,21 +81,24 @@ def get_ratings():
 def display_rankings(ratings, top_n=100):
     extra_data = load_file('20242025')
 
-    sorted_players = sorted(ratings.items(), key=lambda x: x[1], reverse=True)
+    sorted_players = sorted(ratings, key=lambda x: x['rating'], reverse=True)
     print(f"Top {top_n} Players:")
-    for rank, (player_id, score) in enumerate(sorted_players[:top_n], start=1):
-        player_name = extra_data.get(player_id, {}).get('playerName', 'Unknown')
-        print(f"{rank:>3}. ID: {player_id}, Name: {player_name}, Score: {score:.4f}")
+    for rank, player in enumerate(sorted_players[:top_n], start=1):
+        player_name = extra_data.get(player['playerId'], {}).get('skaterFullName', 'Unknown')
+        print(f"{rank:>3}. ID: {player['playerId']}, Name: {player_name}, Score: {player['rating']:.4f}")
 
-def display_player(player, ratings):
+def display_player(search_player, ratings):
     player_data = load_file('20242025')
-    average_score = sum(ratings.values()) / len(ratings) if ratings else 0
+    average_score = sum([i['rating'] for i in ratings]) / len(ratings) if ratings else 0
 
-    for player_id, score in ratings.items():
-        if player_id in player_data:
-            if player.lower() in player_data[player_id]['playerName'].lower():
-                print(f"Player ID: {player_id}, Name: {player_data[player_id]['playerName']}, Score: {score:.4f}, Above Average: {score-average_score:.2f}")
-                return
+    for player in ratings:
+        id = str(player['playerId'])
+        if id not in player_data:
+            continue
+
+        if search_player.lower() in player_data[id]['skaterFullName'].lower():
+            print(f"Player ID: {id}, Name: {player_data[id]['skaterFullName']}, Score: {player['rating']:.4f}, Above Average: {player['rating']-average_score:.2f}")
+            return
 def main():
     args = get_args()
     ratings = get_ratings()

@@ -1,0 +1,6018 @@
+{
+  "8474641": {
+    "playerId": 8474641,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8474641.png",
+    "height": 72,
+    "weight": 195,
+    "age": 35
+  },
+  "8480789": {
+    "playerId": 8480789,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8480789.png",
+    "height": 74,
+    "weight": 205,
+    "age": 25
+  },
+  "8480796": {
+    "playerId": 8480796,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480796.png",
+    "height": 74,
+    "weight": 203,
+    "age": 25
+  },
+  "8480797": {
+    "playerId": 8480797,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8480797.png",
+    "height": 72,
+    "weight": 186,
+    "age": 25
+  },
+  "8480798": {
+    "playerId": 8480798,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8480798.png",
+    "height": 72,
+    "weight": 190,
+    "age": 25
+  },
+  "8480800": {
+    "playerId": 8480800,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480800.png",
+    "height": 70,
+    "weight": 180,
+    "age": 25
+  },
+  "8480801": {
+    "playerId": 8480801,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480801.png",
+    "height": 76,
+    "weight": 225,
+    "age": 26
+  },
+  "8480802": {
+    "playerId": 8480802,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480802.png",
+    "height": 75,
+    "weight": 188,
+    "age": 25
+  },
+  "8480803": {
+    "playerId": 8480803,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8480803.png",
+    "height": 75,
+    "weight": 192,
+    "age": 25
+  },
+  "8480806": {
+    "playerId": 8480806,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8480806.png",
+    "height": 72,
+    "weight": 191,
+    "age": 25
+  },
+  "8480807": {
+    "playerId": 8480807,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480807.png",
+    "height": 76,
+    "weight": 227,
+    "age": 25
+  },
+  "8482858": {
+    "playerId": 8482858,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8482858.png",
+    "height": 72,
+    "weight": 195,
+    "age": 23
+  },
+  "8482859": {
+    "playerId": 8482859,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8482859.png",
+    "height": 76,
+    "weight": 212,
+    "age": 22
+  },
+  "8480813": {
+    "playerId": 8480813,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8480813.png",
+    "height": 73,
+    "weight": 201,
+    "age": 25
+  },
+  "8484911": {
+    "playerId": 8484911,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8484911.png",
+    "height": 73,
+    "weight": 194,
+    "age": 22
+  },
+  "8480817": {
+    "playerId": 8480817,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480817.png",
+    "height": 77,
+    "weight": 210,
+    "age": 25
+  },
+  "8474673": {
+    "playerId": 8474673,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474673.png",
+    "height": 74,
+    "weight": 187,
+    "age": 35
+  },
+  "8480821": {
+    "playerId": 8480821,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8480821.png",
+    "height": 72,
+    "weight": 190,
+    "age": 25
+  },
+  "8474679": {
+    "playerId": 8474679,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8474679.png",
+    "height": 71,
+    "weight": 180,
+    "age": 36
+  },
+  "8480823": {
+    "playerId": 8480823,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8480823.png",
+    "height": 76,
+    "weight": 229,
+    "age": 25
+  },
+  "8480829": {
+    "playerId": 8480829,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480829.png",
+    "height": 75,
+    "weight": 203,
+    "age": 25
+  },
+  "8480830": {
+    "playerId": 8480830,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480830.png",
+    "height": 75,
+    "weight": 199,
+    "age": 25
+  },
+  "8480834": {
+    "playerId": 8480834,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8480834.png",
+    "height": 74,
+    "weight": 193,
+    "age": 25
+  },
+  "8480835": {
+    "playerId": 8480835,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480835.png",
+    "height": 71,
+    "weight": 186,
+    "age": 25
+  },
+  "8480839": {
+    "playerId": 8480839,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480839.png",
+    "height": 75,
+    "weight": 204,
+    "age": 25
+  },
+  "8480840": {
+    "playerId": 8480840,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480840.png",
+    "height": 76,
+    "weight": 202,
+    "age": 25
+  },
+  "8470600": {
+    "playerId": 8470600,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8470600.png",
+    "height": 73,
+    "weight": 201,
+    "age": 40
+  },
+  "8470604": {
+    "playerId": 8470604,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8470604.png",
+    "height": 75,
+    "weight": 219,
+    "age": 40
+  },
+  "8480845": {
+    "playerId": 8480845,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480845.png",
+    "height": 74,
+    "weight": 201,
+    "age": 25
+  },
+  "8480848": {
+    "playerId": 8480848,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8480848.png",
+    "height": 74,
+    "weight": 190,
+    "age": 25
+  },
+  "8480849": {
+    "playerId": 8480849,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8480849.png",
+    "height": 73,
+    "weight": 200,
+    "age": 25
+  },
+  "8470610": {
+    "playerId": 8470610,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8470610.png",
+    "height": 71,
+    "weight": 195,
+    "age": 41
+  },
+  "8470613": {
+    "playerId": 8470613,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8470613.png",
+    "height": 77,
+    "weight": 228,
+    "age": 40
+  },
+  "8474709": {
+    "playerId": 8474709,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474709.png",
+    "height": 75,
+    "weight": 215,
+    "age": 36
+  },
+  "8480855": {
+    "playerId": 8480855,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8480855.png",
+    "height": 76,
+    "weight": 219,
+    "age": 25
+  },
+  "8474715": {
+    "playerId": 8474715,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474715.png",
+    "height": 68,
+    "weight": 178,
+    "age": 36
+  },
+  "8474716": {
+    "playerId": 8474716,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8474716.png",
+    "height": 69,
+    "weight": 166,
+    "age": 35
+  },
+  "8470621": {
+    "playerId": 8470621,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8470621.png",
+    "height": 75,
+    "weight": 208,
+    "age": 40
+  },
+  "8480860": {
+    "playerId": 8480860,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8480860.png",
+    "height": 78,
+    "weight": 230,
+    "age": 25
+  },
+  "8484958": {
+    "playerId": 8484958,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8484958.png",
+    "height": 75,
+    "weight": 210,
+    "age": 26
+  },
+  "8480865": {
+    "playerId": 8480865,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8480865.png",
+    "height": 76,
+    "weight": 200,
+    "age": 25
+  },
+  "8480870": {
+    "playerId": 8480870,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8480870.png",
+    "height": 74,
+    "weight": 202,
+    "age": 25
+  },
+  "8480871": {
+    "playerId": 8480871,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8480871.png",
+    "height": 72,
+    "weight": 191,
+    "age": 25
+  },
+  "8480873": {
+    "playerId": 8480873,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480873.png",
+    "height": 71,
+    "weight": 189,
+    "age": 25
+  },
+  "8480878": {
+    "playerId": 8480878,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480878.png",
+    "height": 73,
+    "weight": 191,
+    "age": 25
+  },
+  "8478831": {
+    "playerId": 8478831,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8478831.png",
+    "height": 75,
+    "weight": 213,
+    "age": 28
+  },
+  "8480880": {
+    "playerId": 8480880,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8480880.png",
+    "height": 73,
+    "weight": 193,
+    "age": 25
+  },
+  "8482929": {
+    "playerId": 8482929,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8482929.png",
+    "height": 75,
+    "weight": 208,
+    "age": 24
+  },
+  "8480879": {
+    "playerId": 8480879,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8480879.png",
+    "height": 73,
+    "weight": 198,
+    "age": 25
+  },
+  "8480884": {
+    "playerId": 8480884,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8480884.png",
+    "height": 71,
+    "weight": 173,
+    "age": 25
+  },
+  "8480887": {
+    "playerId": 8480887,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8480887.png",
+    "height": 71,
+    "weight": 187,
+    "age": 25
+  },
+  "8478840": {
+    "playerId": 8478840,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8478840.png",
+    "height": 75,
+    "weight": 204,
+    "age": 28
+  },
+  "8476792": {
+    "playerId": 8476792,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8476792.png",
+    "height": 69,
+    "weight": 194,
+    "age": 34
+  },
+  "8480891": {
+    "playerId": 8480891,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480891.png",
+    "height": 77,
+    "weight": 215,
+    "age": 25
+  },
+  "8480893": {
+    "playerId": 8480893,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8480893.png",
+    "height": 75,
+    "weight": 197,
+    "age": 25
+  },
+  "8478851": {
+    "playerId": 8478851,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8478851.png",
+    "height": 71,
+    "weight": 174,
+    "age": 28
+  },
+  "8479546": {
+    "playerId": 8479546,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8479546.png",
+    "height": 70,
+    "weight": 196,
+    "age": 27
+  },
+  "8478854": {
+    "playerId": 8478854,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478854.png",
+    "height": 73,
+    "weight": 220,
+    "age": 28
+  },
+  "8478856": {
+    "playerId": 8478856,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8478856.png",
+    "height": 70,
+    "weight": 165,
+    "age": 29
+  },
+  "8478859": {
+    "playerId": 8478859,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478859.png",
+    "height": 78,
+    "weight": 204,
+    "age": 29
+  },
+  "8478864": {
+    "playerId": 8478864,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478864.png",
+    "height": 70,
+    "weight": 202,
+    "age": 28
+  },
+  "8482964": {
+    "playerId": 8482964,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8482964.png",
+    "height": 76,
+    "weight": 240,
+    "age": 24
+  },
+  "8476822": {
+    "playerId": 8476822,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8476822.png",
+    "height": 71,
+    "weight": 190,
+    "age": 36
+  },
+  "8478873": {
+    "playerId": 8478873,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8478873.png",
+    "height": 72,
+    "weight": 191,
+    "age": 28
+  },
+  "8478874": {
+    "playerId": 8478874,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8478874.png",
+    "height": 73,
+    "weight": 187,
+    "age": 28
+  },
+  "8476826": {
+    "playerId": 8476826,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8476826.png",
+    "height": 69,
+    "weight": 174,
+    "age": 33
+  },
+  "8478882": {
+    "playerId": 8478882,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8478882.png",
+    "height": 75,
+    "weight": 220,
+    "age": 29
+  },
+  "8478891": {
+    "playerId": 8478891,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8478891.png",
+    "height": 74,
+    "weight": 194,
+    "age": 29
+  },
+  "8476853": {
+    "playerId": 8476853,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476853.png",
+    "height": 73,
+    "weight": 225,
+    "age": 31
+  },
+  "8480950": {
+    "playerId": 8480950,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480950.png",
+    "height": 74,
+    "weight": 200,
+    "age": 31
+  },
+  "8476854": {
+    "playerId": 8476854,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8476854.png",
+    "height": 76,
+    "weight": 224,
+    "age": 31
+  },
+  "8478904": {
+    "playerId": 8478904,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478904.png",
+    "height": 76,
+    "weight": 216,
+    "age": 29
+  },
+  "8476856": {
+    "playerId": 8476856,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8476856.png",
+    "height": 73,
+    "weight": 185,
+    "age": 31
+  },
+  "8476858": {
+    "playerId": 8476858,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476858.png",
+    "height": 72,
+    "weight": 193,
+    "age": 31
+  },
+  "8478911": {
+    "playerId": 8478911,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8478911.png",
+    "height": 74,
+    "weight": 212,
+    "age": 30
+  },
+  "8476869": {
+    "playerId": 8476869,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8476869.png",
+    "height": 75,
+    "weight": 210,
+    "age": 31
+  },
+  "8476871": {
+    "playerId": 8476871,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476871.png",
+    "height": 73,
+    "weight": 207,
+    "age": 33
+  },
+  "8476872": {
+    "playerId": 8476872,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476872.png",
+    "height": 73,
+    "weight": 191,
+    "age": 31
+  },
+  "8476873": {
+    "playerId": 8476873,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476873.png",
+    "height": 76,
+    "weight": 212,
+    "age": 31
+  },
+  "8476874": {
+    "playerId": 8476874,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8476874.png",
+    "height": 74,
+    "weight": 207,
+    "age": 31
+  },
+  "8476875": {
+    "playerId": 8476875,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8476875.png",
+    "height": 74,
+    "weight": 196,
+    "age": 31
+  },
+  "8476878": {
+    "playerId": 8476878,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8476878.png",
+    "height": 75,
+    "weight": 192,
+    "age": 31
+  },
+  "8476879": {
+    "playerId": 8476879,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476879.png",
+    "height": 75,
+    "weight": 210,
+    "age": 31
+  },
+  "8476880": {
+    "playerId": 8476880,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8476880.png",
+    "height": 76,
+    "weight": 225,
+    "age": 31
+  },
+  "8476881": {
+    "playerId": 8476881,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476881.png",
+    "height": 75,
+    "weight": 220,
+    "age": 31
+  },
+  "8476882": {
+    "playerId": 8476882,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8476882.png",
+    "height": 71,
+    "weight": 191,
+    "age": 31
+  },
+  "8480980": {
+    "playerId": 8480980,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8480980.png",
+    "height": 70,
+    "weight": 192,
+    "age": 26
+  },
+  "8476885": {
+    "playerId": 8476885,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8476885.png",
+    "height": 75,
+    "weight": 212,
+    "age": 31
+  },
+  "8476887": {
+    "playerId": 8476887,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8476887.png",
+    "height": 73,
+    "weight": 205,
+    "age": 31
+  },
+  "8476889": {
+    "playerId": 8476889,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8476889.png",
+    "height": 75,
+    "weight": 215,
+    "age": 31
+  },
+  "8476891": {
+    "playerId": 8476891,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8476891.png",
+    "height": 70,
+    "weight": 180,
+    "age": 31
+  },
+  "8476892": {
+    "playerId": 8476892,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8476892.png",
+    "height": 78,
+    "weight": 228,
+    "age": 32
+  },
+  "8480990": {
+    "playerId": 8480990,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480990.png",
+    "height": 73,
+    "weight": 190,
+    "age": 25
+  },
+  "8476897": {
+    "playerId": 8476897,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8476897.png",
+    "height": 75,
+    "weight": 220,
+    "age": 31
+  },
+  "8480995": {
+    "playerId": 8480995,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8480995.png",
+    "height": 72,
+    "weight": 201,
+    "age": 26
+  },
+  "8476902": {
+    "playerId": 8476902,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8476902.png",
+    "height": 75,
+    "weight": 217,
+    "age": 31
+  },
+  "8476905": {
+    "playerId": 8476905,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8476905.png",
+    "height": 72,
+    "weight": 201,
+    "age": 31
+  },
+  "8476906": {
+    "playerId": 8476906,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476906.png",
+    "height": 71,
+    "weight": 183,
+    "age": 32
+  },
+  "8481006": {
+    "playerId": 8481006,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8481006.png",
+    "height": 73,
+    "weight": 204,
+    "age": 25
+  },
+  "8476913": {
+    "playerId": 8476913,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8476913.png",
+    "height": 73,
+    "weight": 206,
+    "age": 31
+  },
+  "8481013": {
+    "playerId": 8481013,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8481013.png",
+    "height": 71,
+    "weight": 197,
+    "age": 25
+  },
+  "8476918": {
+    "playerId": 8476918,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8476918.png",
+    "height": 74,
+    "weight": 203,
+    "age": 32
+  },
+  "8476917": {
+    "playerId": 8476917,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8476917.png",
+    "height": 75,
+    "weight": 210,
+    "age": 31
+  },
+  "8481014": {
+    "playerId": 8481014,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8481014.png",
+    "height": 73,
+    "weight": 220,
+    "age": 25
+  },
+  "8476921": {
+    "playerId": 8476921,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476921.png",
+    "height": 73,
+    "weight": 208,
+    "age": 33
+  },
+  "8478970": {
+    "playerId": 8478970,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8478970.png",
+    "height": 73,
+    "weight": 199,
+    "age": 29
+  },
+  "8481019": {
+    "playerId": 8481019,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8481019.png",
+    "height": 74,
+    "weight": 196,
+    "age": 25
+  },
+  "8476923": {
+    "playerId": 8476923,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8476923.png",
+    "height": 74,
+    "weight": 204,
+    "age": 31
+  },
+  "8476925": {
+    "playerId": 8476925,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476925.png",
+    "height": 73,
+    "weight": 200,
+    "age": 31
+  },
+  "8476919": {
+    "playerId": 8476919,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8476919.png",
+    "height": 73,
+    "weight": 191,
+    "age": 31
+  },
+  "8478975": {
+    "playerId": 8478975,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8478975.png",
+    "height": 77,
+    "weight": 212,
+    "age": 30
+  },
+  "8476927": {
+    "playerId": 8476927,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8476927.png",
+    "height": 72,
+    "weight": 185,
+    "age": 31
+  },
+  "8476931": {
+    "playerId": 8476931,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476931.png",
+    "height": 73,
+    "weight": 212,
+    "age": 31
+  },
+  "8481028": {
+    "playerId": 8481028,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8481028.png",
+    "height": 74,
+    "weight": 173,
+    "age": 25
+  },
+  "8474884": {
+    "playerId": 8474884,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474884.png",
+    "height": 72,
+    "weight": 190,
+    "age": 35
+  },
+  "8481032": {
+    "playerId": 8481032,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8481032.png",
+    "height": 74,
+    "weight": 213,
+    "age": 25
+  },
+  "8470794": {
+    "playerId": 8470794,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8470794.png",
+    "height": 73,
+    "weight": 196,
+    "age": 41
+  },
+  "8481043": {
+    "playerId": 8481043,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8481043.png",
+    "height": 73,
+    "weight": 207,
+    "age": 27
+  },
+  "8476958": {
+    "playerId": 8476958,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476958.png",
+    "height": 75,
+    "weight": 207,
+    "age": 31
+  },
+  "8481058": {
+    "playerId": 8481058,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8481058.png",
+    "height": 74,
+    "weight": 193,
+    "age": 25
+  },
+  "8481059": {
+    "playerId": 8481059,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8481059.png",
+    "height": 70,
+    "weight": 175,
+    "age": 27
+  },
+  "8476967": {
+    "playerId": 8476967,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8476967.png",
+    "height": 74,
+    "weight": 192,
+    "age": 31
+  },
+  "8481068": {
+    "playerId": 8481068,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8481068.png",
+    "height": 74,
+    "weight": 196,
+    "age": 27
+  },
+  "8479026": {
+    "playerId": 8479026,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479026.png",
+    "height": 77,
+    "weight": 219,
+    "age": 28
+  },
+  "8476979": {
+    "playerId": 8476979,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8476979.png",
+    "height": 73,
+    "weight": 189,
+    "age": 33
+  },
+  "8476981": {
+    "playerId": 8476981,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8476981.png",
+    "height": 75,
+    "weight": 226,
+    "age": 31
+  },
+  "8481093": {
+    "playerId": 8481093,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481093.png",
+    "height": 69,
+    "weight": 181,
+    "age": 26
+  },
+  "8477015": {
+    "playerId": 8477015,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8477015.png",
+    "height": 72,
+    "weight": 184,
+    "age": 31
+  },
+  "8479066": {
+    "playerId": 8479066,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8479066.png",
+    "height": 69,
+    "weight": 184,
+    "age": 30
+  },
+  "8477018": {
+    "playerId": 8477018,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477018.png",
+    "height": 75,
+    "weight": 209,
+    "age": 32
+  },
+  "8477021": {
+    "playerId": 8477021,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8477021.png",
+    "height": 71,
+    "weight": 185,
+    "age": 31
+  },
+  "8481122": {
+    "playerId": 8481122,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481122.png",
+    "height": 76,
+    "weight": 211,
+    "age": 26
+  },
+  "8477034": {
+    "playerId": 8477034,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477034.png",
+    "height": 78,
+    "weight": 214,
+    "age": 32
+  },
+  "8481147": {
+    "playerId": 8481147,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8481147.png",
+    "height": 73,
+    "weight": 193,
+    "age": 27
+  },
+  "8481161": {
+    "playerId": 8481161,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8481161.png",
+    "height": 72,
+    "weight": 197,
+    "age": 26
+  },
+  "8481167": {
+    "playerId": 8481167,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8481167.png",
+    "height": 74,
+    "weight": 202,
+    "age": 26
+  },
+  "8481178": {
+    "playerId": 8481178,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8481178.png",
+    "height": 75,
+    "weight": 200,
+    "age": 25
+  },
+  "8481186": {
+    "playerId": 8481186,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8481186.png",
+    "height": 72,
+    "weight": 175,
+    "age": 29
+  },
+  "8470966": {
+    "playerId": 8470966,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8470966.png",
+    "height": 72,
+    "weight": 202,
+    "age": 41
+  },
+  "8481206": {
+    "playerId": 8481206,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8481206.png",
+    "height": 73,
+    "weight": 210,
+    "age": 25
+  },
+  "8481237": {
+    "playerId": 8481237,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8481237.png",
+    "height": 73,
+    "weight": 194,
+    "age": 26
+  },
+  "8475149": {
+    "playerId": 8475149,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475149.png",
+    "height": 73,
+    "weight": 203,
+    "age": 34
+  },
+  "8475151": {
+    "playerId": 8475151,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8475151.png",
+    "height": 71,
+    "weight": 195,
+    "age": 34
+  },
+  "8475158": {
+    "playerId": 8475158,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8475158.png",
+    "height": 73,
+    "weight": 207,
+    "age": 34
+  },
+  "8475164": {
+    "playerId": 8475164,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475164.png",
+    "height": 73,
+    "weight": 207,
+    "age": 34
+  },
+  "8475166": {
+    "playerId": 8475166,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475166.png",
+    "height": 73,
+    "weight": 211,
+    "age": 34
+  },
+  "8475167": {
+    "playerId": 8475167,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8475167.png",
+    "height": 79,
+    "weight": 245,
+    "age": 34
+  },
+  "8475168": {
+    "playerId": 8475168,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8475168.png",
+    "height": 71,
+    "weight": 212,
+    "age": 34
+  },
+  "8475169": {
+    "playerId": 8475169,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8475169.png",
+    "height": 74,
+    "weight": 218,
+    "age": 34
+  },
+  "8475170": {
+    "playerId": 8475170,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8475170.png",
+    "height": 73,
+    "weight": 199,
+    "age": 34
+  },
+  "8475171": {
+    "playerId": 8475171,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475171.png",
+    "height": 74,
+    "weight": 192,
+    "age": 34
+  },
+  "8477220": {
+    "playerId": 8477220,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8477220.png",
+    "height": 72,
+    "weight": 197,
+    "age": 34
+  },
+  "8475172": {
+    "playerId": 8475172,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8475172.png",
+    "height": 72,
+    "weight": 185,
+    "age": 34
+  },
+  "8475177": {
+    "playerId": 8475177,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475177.png",
+    "height": 73,
+    "weight": 192,
+    "age": 34
+  },
+  "8475179": {
+    "playerId": 8475179,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8475179.png",
+    "height": 73,
+    "weight": 212,
+    "age": 34
+  },
+  "8475181": {
+    "playerId": 8475181,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8475181.png",
+    "height": 72,
+    "weight": 205,
+    "age": 34
+  },
+  "8475184": {
+    "playerId": 8475184,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8475184.png",
+    "height": 75,
+    "weight": 230,
+    "age": 34
+  },
+  "8475188": {
+    "playerId": 8475188,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475188.png",
+    "height": 76,
+    "weight": 215,
+    "age": 34
+  },
+  "8475191": {
+    "playerId": 8475191,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475191.png",
+    "height": 73,
+    "weight": 185,
+    "age": 34
+  },
+  "8475193": {
+    "playerId": 8475193,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475193.png",
+    "height": 70,
+    "weight": 173,
+    "age": 34
+  },
+  "8479291": {
+    "playerId": 8479291,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8479291.png",
+    "height": 74,
+    "weight": 190,
+    "age": 32
+  },
+  "8477244": {
+    "playerId": 8477244,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8477244.png",
+    "height": 71,
+    "weight": 189,
+    "age": 35
+  },
+  "8479293": {
+    "playerId": 8479293,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479293.png",
+    "height": 72,
+    "weight": 189,
+    "age": 33
+  },
+  "8475197": {
+    "playerId": 8475197,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475197.png",
+    "height": 71,
+    "weight": 197,
+    "age": 34
+  },
+  "8475200": {
+    "playerId": 8475200,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8475200.png",
+    "height": 71,
+    "weight": 214,
+    "age": 34
+  },
+  "8475208": {
+    "playerId": 8475208,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8475208.png",
+    "height": 76,
+    "weight": 214,
+    "age": 34
+  },
+  "8475218": {
+    "playerId": 8475218,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8475218.png",
+    "height": 77,
+    "weight": 225,
+    "age": 35
+  },
+  "8479314": {
+    "playerId": 8479314,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479314.png",
+    "height": 74,
+    "weight": 202,
+    "age": 27
+  },
+  "8475220": {
+    "playerId": 8475220,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475220.png",
+    "height": 75,
+    "weight": 226,
+    "age": 34
+  },
+  "8479316": {
+    "playerId": 8479316,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479316.png",
+    "height": 72,
+    "weight": 197,
+    "age": 27
+  },
+  "8479318": {
+    "playerId": 8479318,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479318.png",
+    "height": 75,
+    "weight": 217,
+    "age": 27
+  },
+  "8479315": {
+    "playerId": 8479315,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8479315.png",
+    "height": 72,
+    "weight": 207,
+    "age": 27
+  },
+  "8475225": {
+    "playerId": 8475225,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475225.png",
+    "height": 73,
+    "weight": 203,
+    "age": 36
+  },
+  "8479323": {
+    "playerId": 8479323,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8479323.png",
+    "height": 71,
+    "weight": 180,
+    "age": 27
+  },
+  "8479324": {
+    "playerId": 8479324,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8479324.png",
+    "height": 72,
+    "weight": 194,
+    "age": 27
+  },
+  "8479325": {
+    "playerId": 8479325,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479325.png",
+    "height": 73,
+    "weight": 213,
+    "age": 27
+  },
+  "8475231": {
+    "playerId": 8475231,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8475231.png",
+    "height": 71,
+    "weight": 194,
+    "age": 34
+  },
+  "8483425": {
+    "playerId": 8483425,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8483425.png",
+    "height": 79,
+    "weight": 231,
+    "age": 21
+  },
+  "8475233": {
+    "playerId": 8475233,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475233.png",
+    "height": 73,
+    "weight": 235,
+    "age": 34
+  },
+  "8475235": {
+    "playerId": 8475235,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8475235.png",
+    "height": 73,
+    "weight": 218,
+    "age": 34
+  },
+  "8474618": {
+    "playerId": 8474618,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474618.png",
+    "height": 75,
+    "weight": 212,
+    "age": 35
+  },
+  "8483431": {
+    "playerId": 8483431,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8483431.png",
+    "height": 72,
+    "weight": 191,
+    "age": 21
+  },
+  "8479336": {
+    "playerId": 8479336,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8479336.png",
+    "height": 72,
+    "weight": 200,
+    "age": 27
+  },
+  "8479337": {
+    "playerId": 8479337,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8479337.png",
+    "height": 68,
+    "weight": 180,
+    "age": 27
+  },
+  "8479339": {
+    "playerId": 8479339,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8479339.png",
+    "height": 76,
+    "weight": 208,
+    "age": 27
+  },
+  "8479343": {
+    "playerId": 8479343,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479343.png",
+    "height": 70,
+    "weight": 175,
+    "age": 27
+  },
+  "8479345": {
+    "playerId": 8479345,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479345.png",
+    "height": 74,
+    "weight": 216,
+    "age": 27
+  },
+  "8479346": {
+    "playerId": 8479346,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8479346.png",
+    "height": 71,
+    "weight": 185,
+    "age": 27
+  },
+  "8483445": {
+    "playerId": 8483445,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8483445.png",
+    "height": 74,
+    "weight": 201,
+    "age": 21
+  },
+  "8479351": {
+    "playerId": 8479351,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8479351.png",
+    "height": 72,
+    "weight": 189,
+    "age": 27
+  },
+  "8483447": {
+    "playerId": 8483447,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8483447.png",
+    "height": 76,
+    "weight": 207,
+    "age": 21
+  },
+  "8479353": {
+    "playerId": 8479353,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8479353.png",
+    "height": 74,
+    "weight": 201,
+    "age": 27
+  },
+  "8483448": {
+    "playerId": 8483448,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8483448.png",
+    "height": 73,
+    "weight": 203,
+    "age": 21
+  },
+  "8479359": {
+    "playerId": 8479359,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8479359.png",
+    "height": 75,
+    "weight": 209,
+    "age": 27
+  },
+  "8483457": {
+    "playerId": 8483457,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8483457.png",
+    "height": 69,
+    "weight": 162,
+    "age": 21
+  },
+  "8483460": {
+    "playerId": 8483460,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8483460.png",
+    "height": 76,
+    "weight": 204,
+    "age": 21
+  },
+  "8479365": {
+    "playerId": 8479365,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8479365.png",
+    "height": 75,
+    "weight": 221,
+    "age": 27
+  },
+  "8483464": {
+    "playerId": 8483464,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8483464.png",
+    "height": 73,
+    "weight": 183,
+    "age": 21
+  },
+  "8479369": {
+    "playerId": 8479369,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479369.png",
+    "height": 75,
+    "weight": 214,
+    "age": 27
+  },
+  "8479370": {
+    "playerId": 8479370,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8479370.png",
+    "height": 71,
+    "weight": 187,
+    "age": 27
+  },
+  "8479371": {
+    "playerId": 8479371,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8479371.png",
+    "height": 72,
+    "weight": 189,
+    "age": 27
+  },
+  "8483468": {
+    "playerId": 8483468,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8483468.png",
+    "height": 73,
+    "weight": 190,
+    "age": 21
+  },
+  "8479372": {
+    "playerId": 8479372,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8479372.png",
+    "height": 72,
+    "weight": 193,
+    "age": 27
+  },
+  "8479368": {
+    "playerId": 8479368,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8479368.png",
+    "height": 75,
+    "weight": 216,
+    "age": 27
+  },
+  "8475279": {
+    "playerId": 8475279,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8475279.png",
+    "height": 75,
+    "weight": 224,
+    "age": 34
+  },
+  "8483466": {
+    "playerId": 8483466,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8483466.png",
+    "height": 73,
+    "weight": 185,
+    "age": 21
+  },
+  "8481422": {
+    "playerId": 8481422,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8481422.png",
+    "height": 72,
+    "weight": 180,
+    "age": 30
+  },
+  "8479378": {
+    "playerId": 8479378,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8479378.png",
+    "height": 79,
+    "weight": 231,
+    "age": 27
+  },
+  "8477330": {
+    "playerId": 8477330,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8477330.png",
+    "height": 74,
+    "weight": 192,
+    "age": 30
+  },
+  "8479379": {
+    "playerId": 8479379,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8479379.png",
+    "height": 74,
+    "weight": 214,
+    "age": 27
+  },
+  "8477335": {
+    "playerId": 8477335,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477335.png",
+    "height": 72,
+    "weight": 193,
+    "age": 30
+  },
+  "8475287": {
+    "playerId": 8475287,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8475287.png",
+    "height": 71,
+    "weight": 191,
+    "age": 34
+  },
+  "8479385": {
+    "playerId": 8479385,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8479385.png",
+    "height": 73,
+    "weight": 196,
+    "age": 27
+  },
+  "8479383": {
+    "playerId": 8479383,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8479383.png",
+    "height": 74,
+    "weight": 206,
+    "age": 27
+  },
+  "8479387": {
+    "playerId": 8479387,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479387.png",
+    "height": 78,
+    "weight": 240,
+    "age": 27
+  },
+  "8483485": {
+    "playerId": 8483485,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8483485.png",
+    "height": 71,
+    "weight": 185,
+    "age": 21
+  },
+  "8479390": {
+    "playerId": 8479390,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8479390.png",
+    "height": 75,
+    "weight": 200,
+    "age": 27
+  },
+  "8479393": {
+    "playerId": 8479393,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8479393.png",
+    "height": 72,
+    "weight": 201,
+    "age": 27
+  },
+  "8477346": {
+    "playerId": 8477346,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8477346.png",
+    "height": 72,
+    "weight": 206,
+    "age": 31
+  },
+  "8479395": {
+    "playerId": 8479395,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8479395.png",
+    "height": 74,
+    "weight": 210,
+    "age": 27
+  },
+  "8483490": {
+    "playerId": 8483490,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8483490.png",
+    "height": 73,
+    "weight": 200,
+    "age": 21
+  },
+  "8483493": {
+    "playerId": 8483493,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8483493.png",
+    "height": 70,
+    "weight": 190,
+    "age": 21
+  },
+  "8479398": {
+    "playerId": 8479398,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479398.png",
+    "height": 70,
+    "weight": 170,
+    "age": 27
+  },
+  "8483495": {
+    "playerId": 8483495,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8483495.png",
+    "height": 73,
+    "weight": 190,
+    "age": 21
+  },
+  "8479400": {
+    "playerId": 8479400,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479400.png",
+    "height": 76,
+    "weight": 220,
+    "age": 27
+  },
+  "8477353": {
+    "playerId": 8477353,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8477353.png",
+    "height": 70,
+    "weight": 194,
+    "age": 30
+  },
+  "8479402": {
+    "playerId": 8479402,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8479402.png",
+    "height": 73,
+    "weight": 191,
+    "age": 27
+  },
+  "8478021": {
+    "playerId": 8478021,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8478021.png",
+    "height": 74,
+    "weight": 211,
+    "age": 29
+  },
+  "8471214": {
+    "playerId": 8471214,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8471214.png",
+    "height": 75,
+    "weight": 238,
+    "age": 39
+  },
+  "8479407": {
+    "playerId": 8479407,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8479407.png",
+    "height": 70,
+    "weight": 175,
+    "age": 27
+  },
+  "8471215": {
+    "playerId": 8471215,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8471215.png",
+    "height": 77,
+    "weight": 210,
+    "age": 39
+  },
+  "8483505": {
+    "playerId": 8483505,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8483505.png",
+    "height": 71,
+    "weight": 180,
+    "age": 21
+  },
+  "8479410": {
+    "playerId": 8479410,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479410.png",
+    "height": 75,
+    "weight": 212,
+    "age": 27
+  },
+  "8475314": {
+    "playerId": 8475314,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8475314.png",
+    "height": 75,
+    "weight": 231,
+    "age": 35
+  },
+  "8471218": {
+    "playerId": 8471218,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8471218.png",
+    "height": 77,
+    "weight": 222,
+    "age": 39
+  },
+  "8477365": {
+    "playerId": 8477365,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8477365.png",
+    "height": 71,
+    "weight": 195,
+    "age": 30
+  },
+  "8479414": {
+    "playerId": 8479414,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8479414.png",
+    "height": 76,
+    "weight": 205,
+    "age": 27
+  },
+  "8479415": {
+    "playerId": 8479415,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8479415.png",
+    "height": 74,
+    "weight": 190,
+    "age": 27
+  },
+  "8477369": {
+    "playerId": 8477369,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8477369.png",
+    "height": 77,
+    "weight": 208,
+    "age": 31
+  },
+  "8483515": {
+    "playerId": 8483515,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8483515.png",
+    "height": 75,
+    "weight": 225,
+    "age": 21
+  },
+  "8475324": {
+    "playerId": 8475324,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8475324.png",
+    "height": 72,
+    "weight": 196,
+    "age": 34
+  },
+  "8479421": {
+    "playerId": 8479421,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8479421.png",
+    "height": 75,
+    "weight": 210,
+    "age": 27
+  },
+  "8479420": {
+    "playerId": 8479420,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8479420.png",
+    "height": 78,
+    "weight": 220,
+    "age": 27
+  },
+  "8479425": {
+    "playerId": 8479425,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8479425.png",
+    "height": 72,
+    "weight": 190,
+    "age": 27
+  },
+  "8477380": {
+    "playerId": 8477380,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8477380.png",
+    "height": 72,
+    "weight": 211,
+    "age": 32
+  },
+  "8483524": {
+    "playerId": 8483524,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8483524.png",
+    "height": 72,
+    "weight": 192,
+    "age": 21
+  },
+  "8481477": {
+    "playerId": 8481477,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8481477.png",
+    "height": 75,
+    "weight": 209,
+    "age": 30
+  },
+  "8481481": {
+    "playerId": 8481481,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481481.png",
+    "height": 69,
+    "weight": 173,
+    "age": 27
+  },
+  "8475343": {
+    "playerId": 8475343,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8475343.png",
+    "height": 74,
+    "weight": 190,
+    "age": 35
+  },
+  "8477392": {
+    "playerId": 8477392,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8477392.png",
+    "height": 75,
+    "weight": 209,
+    "age": 30
+  },
+  "8479439": {
+    "playerId": 8479439,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479439.png",
+    "height": 72,
+    "weight": 204,
+    "age": 32
+  },
+  "8479442": {
+    "playerId": 8479442,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8479442.png",
+    "height": 70,
+    "weight": 184,
+    "age": 31
+  },
+  "8477402": {
+    "playerId": 8477402,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8477402.png",
+    "height": 73,
+    "weight": 196,
+    "age": 30
+  },
+  "8477404": {
+    "playerId": 8477404,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477404.png",
+    "height": 71,
+    "weight": 178,
+    "age": 30
+  },
+  "8477406": {
+    "playerId": 8477406,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477406.png",
+    "height": 74,
+    "weight": 205,
+    "age": 32
+  },
+  "8477407": {
+    "playerId": 8477407,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477407.png",
+    "height": 72,
+    "weight": 200,
+    "age": 30
+  },
+  "8477409": {
+    "playerId": 8477409,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477409.png",
+    "height": 74,
+    "weight": 183,
+    "age": 30
+  },
+  "8483553": {
+    "playerId": 8483553,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8483553.png",
+    "height": 74,
+    "weight": 195,
+    "age": 26
+  },
+  "8479458": {
+    "playerId": 8479458,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8479458.png",
+    "height": 74,
+    "weight": 192,
+    "age": 33
+  },
+  "8477416": {
+    "playerId": 8477416,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477416.png",
+    "height": 72,
+    "weight": 175,
+    "age": 30
+  },
+  "8471274": {
+    "playerId": 8471274,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8471274.png",
+    "height": 71,
+    "weight": 173,
+    "age": 40
+  },
+  "8481517": {
+    "playerId": 8481517,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8481517.png",
+    "height": 77,
+    "weight": 220,
+    "age": 26
+  },
+  "8483565": {
+    "playerId": 8483565,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8483565.png",
+    "height": 69,
+    "weight": 177,
+    "age": 27
+  },
+  "8477425": {
+    "playerId": 8477425,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8477425.png",
+    "height": 74,
+    "weight": 195,
+    "age": 30
+  },
+  "8481522": {
+    "playerId": 8481522,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481522.png",
+    "height": 72,
+    "weight": 186,
+    "age": 24
+  },
+  "8477426": {
+    "playerId": 8477426,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477426.png",
+    "height": 76,
+    "weight": 230,
+    "age": 30
+  },
+  "8481524": {
+    "playerId": 8481524,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481524.png",
+    "height": 73,
+    "weight": 205,
+    "age": 24
+  },
+  "8481523": {
+    "playerId": 8481523,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481523.png",
+    "height": 76,
+    "weight": 221,
+    "age": 24
+  },
+  "8477429": {
+    "playerId": 8477429,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8477429.png",
+    "height": 73,
+    "weight": 203,
+    "age": 31
+  },
+  "8481527": {
+    "playerId": 8481527,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481527.png",
+    "height": 75,
+    "weight": 203,
+    "age": 24
+  },
+  "8481528": {
+    "playerId": 8481528,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481528.png",
+    "height": 75,
+    "weight": 207,
+    "age": 24
+  },
+  "8477435": {
+    "playerId": 8477435,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8477435.png",
+    "height": 77,
+    "weight": 222,
+    "age": 30
+  },
+  "8481532": {
+    "playerId": 8481532,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8481532.png",
+    "height": 71,
+    "weight": 185,
+    "age": 24
+  },
+  "8481533": {
+    "playerId": 8481533,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8481533.png",
+    "height": 72,
+    "weight": 185,
+    "age": 24
+  },
+  "8481535": {
+    "playerId": 8481535,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8481535.png",
+    "height": 69,
+    "weight": 185,
+    "age": 24
+  },
+  "8481537": {
+    "playerId": 8481537,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8481537.png",
+    "height": 73,
+    "weight": 195,
+    "age": 24
+  },
+  "8481540": {
+    "playerId": 8481540,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481540.png",
+    "height": 68,
+    "weight": 175,
+    "age": 24
+  },
+  "8477444": {
+    "playerId": 8477444,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8477444.png",
+    "height": 75,
+    "weight": 203,
+    "age": 30
+  },
+  "8481542": {
+    "playerId": 8481542,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8481542.png",
+    "height": 75,
+    "weight": 205,
+    "age": 24
+  },
+  "8477447": {
+    "playerId": 8477447,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477447.png",
+    "height": 74,
+    "weight": 197,
+    "age": 30
+  },
+  "8477446": {
+    "playerId": 8477446,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8477446.png",
+    "height": 78,
+    "weight": 232,
+    "age": 30
+  },
+  "8477500": {
+    "playerId": 8477500,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477500.png",
+    "height": 73,
+    "weight": 215,
+    "age": 30
+  },
+  "8481546": {
+    "playerId": 8481546,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8481546.png",
+    "height": 72,
+    "weight": 194,
+    "age": 24
+  },
+  "8477451": {
+    "playerId": 8477451,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8477451.png",
+    "height": 72,
+    "weight": 197,
+    "age": 30
+  },
+  "8477450": {
+    "playerId": 8477450,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8477450.png",
+    "height": 74,
+    "weight": 200,
+    "age": 30
+  },
+  "8481541": {
+    "playerId": 8481541,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8481541.png",
+    "height": 76,
+    "weight": 224,
+    "age": 24
+  },
+  "8477456": {
+    "playerId": 8477456,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8477456.png",
+    "height": 72,
+    "weight": 190,
+    "age": 30
+  },
+  "8481553": {
+    "playerId": 8481553,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8481553.png",
+    "height": 68,
+    "weight": 169,
+    "age": 24
+  },
+  "8481554": {
+    "playerId": 8481554,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8481554.png",
+    "height": 73,
+    "weight": 215,
+    "age": 24
+  },
+  "8481556": {
+    "playerId": 8481556,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8481556.png",
+    "height": 75,
+    "weight": 220,
+    "age": 24
+  },
+  "8481557": {
+    "playerId": 8481557,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8481557.png",
+    "height": 74,
+    "weight": 201,
+    "age": 24
+  },
+  "8475413": {
+    "playerId": 8475413,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8475413.png",
+    "height": 70,
+    "weight": 180,
+    "age": 34
+  },
+  "8481559": {
+    "playerId": 8481559,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8481559.png",
+    "height": 71,
+    "weight": 175,
+    "age": 24
+  },
+  "8481560": {
+    "playerId": 8481560,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481560.png",
+    "height": 74,
+    "weight": 210,
+    "age": 24
+  },
+  "8483609": {
+    "playerId": 8483609,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8483609.png",
+    "height": 80,
+    "weight": 235,
+    "age": 25
+  },
+  "8481563": {
+    "playerId": 8481563,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8481563.png",
+    "height": 75,
+    "weight": 213,
+    "age": 24
+  },
+  "8481564": {
+    "playerId": 8481564,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481564.png",
+    "height": 73,
+    "weight": 195,
+    "age": 24
+  },
+  "8481567": {
+    "playerId": 8481567,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481567.png",
+    "height": 74,
+    "weight": 210,
+    "age": 24
+  },
+  "8479520": {
+    "playerId": 8479520,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479520.png",
+    "height": 74,
+    "weight": 210,
+    "age": 28
+  },
+  "8481568": {
+    "playerId": 8481568,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8481568.png",
+    "height": 78,
+    "weight": 217,
+    "age": 24
+  },
+  "8477473": {
+    "playerId": 8477473,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8477473.png",
+    "height": 76,
+    "weight": 214,
+    "age": 30
+  },
+  "8477476": {
+    "playerId": 8477476,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8477476.png",
+    "height": 71,
+    "weight": 179,
+    "age": 30
+  },
+  "8479525": {
+    "playerId": 8479525,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479525.png",
+    "height": 72,
+    "weight": 194,
+    "age": 29
+  },
+  "8477478": {
+    "playerId": 8477478,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8477478.png",
+    "height": 74,
+    "weight": 220,
+    "age": 30
+  },
+  "8477479": {
+    "playerId": 8477479,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8477479.png",
+    "height": 74,
+    "weight": 200,
+    "age": 30
+  },
+  "8481577": {
+    "playerId": 8481577,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481577.png",
+    "height": 72,
+    "weight": 190,
+    "age": 24
+  },
+  "8481580": {
+    "playerId": 8481580,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8481580.png",
+    "height": 72,
+    "weight": 180,
+    "age": 24
+  },
+  "8481581": {
+    "playerId": 8481581,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8481581.png",
+    "height": 75,
+    "weight": 211,
+    "age": 24
+  },
+  "8481582": {
+    "playerId": 8481582,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481582.png",
+    "height": 69,
+    "weight": 178,
+    "age": 24
+  },
+  "8479543": {
+    "playerId": 8479543,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479543.png",
+    "height": 73,
+    "weight": 219,
+    "age": 27
+  },
+  "8477488": {
+    "playerId": 8477488,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8477488.png",
+    "height": 75,
+    "weight": 206,
+    "age": 30
+  },
+  "8477492": {
+    "playerId": 8477492,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8477492.png",
+    "height": 72,
+    "weight": 200,
+    "age": 30
+  },
+  "8477493": {
+    "playerId": 8477493,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477493.png",
+    "height": 75,
+    "weight": 214,
+    "age": 30
+  },
+  "8479542": {
+    "playerId": 8479542,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8479542.png",
+    "height": 74,
+    "weight": 180,
+    "age": 27
+  },
+  "8477495": {
+    "playerId": 8477495,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477495.png",
+    "height": 76,
+    "weight": 213,
+    "age": 30
+  },
+  "8477494": {
+    "playerId": 8477494,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477494.png",
+    "height": 71,
+    "weight": 198,
+    "age": 30
+  },
+  "8477496": {
+    "playerId": 8477496,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8477496.png",
+    "height": 73,
+    "weight": 202,
+    "age": 30
+  },
+  "8481593": {
+    "playerId": 8481593,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481593.png",
+    "height": 72,
+    "weight": 207,
+    "age": 24
+  },
+  "8477499": {
+    "playerId": 8477499,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8477499.png",
+    "height": 76,
+    "weight": 208,
+    "age": 30
+  },
+  "8477498": {
+    "playerId": 8477498,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477498.png",
+    "height": 76,
+    "weight": 215,
+    "age": 30
+  },
+  "8477497": {
+    "playerId": 8477497,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8477497.png",
+    "height": 74,
+    "weight": 197,
+    "age": 30
+  },
+  "8481596": {
+    "playerId": 8481596,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481596.png",
+    "height": 75,
+    "weight": 204,
+    "age": 24
+  },
+  "8477501": {
+    "playerId": 8477501,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8477501.png",
+    "height": 76,
+    "weight": 210,
+    "age": 30
+  },
+  "8481598": {
+    "playerId": 8481598,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8481598.png",
+    "height": 76,
+    "weight": 212,
+    "age": 24
+  },
+  "8477505": {
+    "playerId": 8477505,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8477505.png",
+    "height": 74,
+    "weight": 190,
+    "age": 30
+  },
+  "8477506": {
+    "playerId": 8477506,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477506.png",
+    "height": 74,
+    "weight": 220,
+    "age": 30
+  },
+  "8477507": {
+    "playerId": 8477507,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8477507.png",
+    "height": 78,
+    "weight": 248,
+    "age": 30
+  },
+  "8477503": {
+    "playerId": 8477503,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8477503.png",
+    "height": 70,
+    "weight": 209,
+    "age": 30
+  },
+  "8477504": {
+    "playerId": 8477504,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8477504.png",
+    "height": 72,
+    "weight": 195,
+    "age": 30
+  },
+  "8475455": {
+    "playerId": 8475455,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8475455.png",
+    "height": 76,
+    "weight": 225,
+    "age": 34
+  },
+  "8481601": {
+    "playerId": 8481601,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8481601.png",
+    "height": 74,
+    "weight": 215,
+    "age": 24
+  },
+  "8481604": {
+    "playerId": 8481604,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481604.png",
+    "height": 73,
+    "weight": 194,
+    "age": 24
+  },
+  "8477508": {
+    "playerId": 8477508,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477508.png",
+    "height": 72,
+    "weight": 203,
+    "age": 30
+  },
+  "8481606": {
+    "playerId": 8481606,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481606.png",
+    "height": 71,
+    "weight": 180,
+    "age": 24
+  },
+  "8481607": {
+    "playerId": 8481607,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8481607.png",
+    "height": 72,
+    "weight": 168,
+    "age": 24
+  },
+  "8481605": {
+    "playerId": 8481605,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8481605.png",
+    "height": 74,
+    "weight": 205,
+    "age": 24
+  },
+  "8475462": {
+    "playerId": 8475462,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8475462.png",
+    "height": 72,
+    "weight": 208,
+    "age": 35
+  },
+  "8473419": {
+    "playerId": 8473419,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8473419.png",
+    "height": 69,
+    "weight": 180,
+    "age": 37
+  },
+  "8473422": {
+    "playerId": 8473422,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8473422.png",
+    "height": 72,
+    "weight": 210,
+    "age": 37
+  },
+  "8477511": {
+    "playerId": 8477511,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8477511.png",
+    "height": 77,
+    "weight": 234,
+    "age": 31
+  },
+  "8481617": {
+    "playerId": 8481617,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8481617.png",
+    "height": 73,
+    "weight": 190,
+    "age": 24
+  },
+  "8481618": {
+    "playerId": 8481618,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481618.png",
+    "height": 71,
+    "weight": 200,
+    "age": 24
+  },
+  "8477527": {
+    "playerId": 8477527,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8477527.png",
+    "height": 77,
+    "weight": 232,
+    "age": 31
+  },
+  "8479576": {
+    "playerId": 8479576,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8479576.png",
+    "height": 79,
+    "weight": 226,
+    "age": 29
+  },
+  "8481624": {
+    "playerId": 8481624,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8481624.png",
+    "height": 74,
+    "weight": 192,
+    "age": 30
+  },
+  "8477541": {
+    "playerId": 8477541,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8477541.png",
+    "height": 72,
+    "weight": 197,
+    "age": 31
+  },
+  "8473446": {
+    "playerId": 8473446,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8473446.png",
+    "height": 76,
+    "weight": 225,
+    "age": 37
+  },
+  "8479591": {
+    "playerId": 8479591,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479591.png",
+    "height": 72,
+    "weight": 191,
+    "age": 29
+  },
+  "8481641": {
+    "playerId": 8481641,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8481641.png",
+    "height": 71,
+    "weight": 185,
+    "age": 29
+  },
+  "8473449": {
+    "playerId": 8473449,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8473449.png",
+    "height": 72,
+    "weight": 216,
+    "age": 37
+  },
+  "8473453": {
+    "playerId": 8473453,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8473453.png",
+    "height": 73,
+    "weight": 205,
+    "age": 38
+  },
+  "8481655": {
+    "playerId": 8481655,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481655.png",
+    "height": 74,
+    "weight": 203,
+    "age": 24
+  },
+  "8481656": {
+    "playerId": 8481656,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8481656.png",
+    "height": 78,
+    "weight": 247,
+    "age": 24
+  },
+  "8479619": {
+    "playerId": 8479619,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479619.png",
+    "height": 69,
+    "weight": 182,
+    "age": 29
+  },
+  "8477573": {
+    "playerId": 8477573,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8477573.png",
+    "height": 69,
+    "weight": 187,
+    "age": 31
+  },
+  "8479638": {
+    "playerId": 8479638,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8479638.png",
+    "height": 78,
+    "weight": 227,
+    "age": 27
+  },
+  "8473504": {
+    "playerId": 8473504,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8473504.png",
+    "height": 71,
+    "weight": 215,
+    "age": 37
+  },
+  "8473507": {
+    "playerId": 8473507,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8473507.png",
+    "height": 75,
+    "weight": 208,
+    "age": 37
+  },
+  "8481703": {
+    "playerId": 8481703,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481703.png",
+    "height": 70,
+    "weight": 182,
+    "age": 26
+  },
+  "8473512": {
+    "playerId": 8473512,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8473512.png",
+    "height": 71,
+    "weight": 188,
+    "age": 37
+  },
+  "8481704": {
+    "playerId": 8481704,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8481704.png",
+    "height": 75,
+    "weight": 212,
+    "age": 24
+  },
+  "8481708": {
+    "playerId": 8481708,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481708.png",
+    "height": 71,
+    "weight": 190,
+    "age": 24
+  },
+  "8479661": {
+    "playerId": 8479661,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479661.png",
+    "height": 74,
+    "weight": 220,
+    "age": 28
+  },
+  "8481711": {
+    "playerId": 8481711,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481711.png",
+    "height": 71,
+    "weight": 185,
+    "age": 24
+  },
+  "8481716": {
+    "playerId": 8481716,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8481716.png",
+    "height": 77,
+    "weight": 227,
+    "age": 25
+  },
+  "8479671": {
+    "playerId": 8479671,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8479671.png",
+    "height": 73,
+    "weight": 226,
+    "age": 28
+  },
+  "8479675": {
+    "playerId": 8479675,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8479675.png",
+    "height": 71,
+    "weight": 195,
+    "age": 30
+  },
+  "8473533": {
+    "playerId": 8473533,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8473533.png",
+    "height": 76,
+    "weight": 220,
+    "age": 37
+  },
+  "8481726": {
+    "playerId": 8481726,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8481726.png",
+    "height": 79,
+    "weight": 241,
+    "age": 24
+  },
+  "8481743": {
+    "playerId": 8481743,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481743.png",
+    "height": 71,
+    "weight": 188,
+    "age": 25
+  },
+  "8477947": {
+    "playerId": 8477947,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8477947.png",
+    "height": 72,
+    "weight": 194,
+    "age": 29
+  },
+  "8483808": {
+    "playerId": 8483808,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8483808.png",
+    "height": 71,
+    "weight": 194,
+    "age": 29
+  },
+  "8479718": {
+    "playerId": 8479718,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479718.png",
+    "height": 70,
+    "weight": 178,
+    "age": 28
+  },
+  "8477955": {
+    "playerId": 8477955,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8477955.png",
+    "height": 73,
+    "weight": 191,
+    "age": 29
+  },
+  "8481789": {
+    "playerId": 8481789,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8481789.png",
+    "height": 71,
+    "weight": 202,
+    "age": 24
+  },
+  "8481806": {
+    "playerId": 8481806,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8481806.png",
+    "height": 80,
+    "weight": 228,
+    "age": 24
+  },
+  "8477962": {
+    "playerId": 8477962,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8477962.png",
+    "height": 73,
+    "weight": 215,
+    "age": 29
+  },
+  "8479772": {
+    "playerId": 8479772,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8479772.png",
+    "height": 76,
+    "weight": 227,
+    "age": 29
+  },
+  "8475690": {
+    "playerId": 8475690,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475690.png",
+    "height": 75,
+    "weight": 199,
+    "age": 35
+  },
+  "8475692": {
+    "playerId": 8475692,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475692.png",
+    "height": 68,
+    "weight": 181,
+    "age": 38
+  },
+  "8475714": {
+    "playerId": 8475714,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475714.png",
+    "height": 72,
+    "weight": 191,
+    "age": 33
+  },
+  "8475718": {
+    "playerId": 8475718,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8475718.png",
+    "height": 76,
+    "weight": 194,
+    "age": 33
+  },
+  "8475722": {
+    "playerId": 8475722,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8475722.png",
+    "height": 71,
+    "weight": 195,
+    "age": 33
+  },
+  "8475726": {
+    "playerId": 8475726,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8475726.png",
+    "height": 72,
+    "weight": 203,
+    "age": 33
+  },
+  "8480008": {
+    "playerId": 8480008,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8480008.png",
+    "height": 76,
+    "weight": 215,
+    "age": 26
+  },
+  "8483930": {
+    "playerId": 8483930,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8483930.png",
+    "height": 72,
+    "weight": 190,
+    "age": 23
+  },
+  "8480011": {
+    "playerId": 8480011,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8480011.png",
+    "height": 76,
+    "weight": 232,
+    "age": 26
+  },
+  "8475745": {
+    "playerId": 8475745,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8475745.png",
+    "height": 75,
+    "weight": 215,
+    "age": 33
+  },
+  "8475744": {
+    "playerId": 8475744,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475744.png",
+    "height": 74,
+    "weight": 207,
+    "age": 33
+  },
+  "8475750": {
+    "playerId": 8475750,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475750.png",
+    "height": 75,
+    "weight": 204,
+    "age": 33
+  },
+  "8475752": {
+    "playerId": 8475752,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475752.png",
+    "height": 74,
+    "weight": 199,
+    "age": 33
+  },
+  "8475753": {
+    "playerId": 8475753,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8475753.png",
+    "height": 72,
+    "weight": 214,
+    "age": 33
+  },
+  "8475754": {
+    "playerId": 8475754,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8475754.png",
+    "height": 76,
+    "weight": 205,
+    "age": 33
+  },
+  "8475760": {
+    "playerId": 8475760,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8475760.png",
+    "height": 77,
+    "weight": 205,
+    "age": 33
+  },
+  "8477810": {
+    "playerId": 8477810,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8477810.png",
+    "height": 71,
+    "weight": 186,
+    "age": 34
+  },
+  "8475762": {
+    "playerId": 8475762,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8475762.png",
+    "height": 76,
+    "weight": 216,
+    "age": 33
+  },
+  "8475764": {
+    "playerId": 8475764,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8475764.png",
+    "height": 74,
+    "weight": 210,
+    "age": 33
+  },
+  "8475765": {
+    "playerId": 8475765,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475765.png",
+    "height": 73,
+    "weight": 219,
+    "age": 33
+  },
+  "8475763": {
+    "playerId": 8475763,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8475763.png",
+    "height": 77,
+    "weight": 216,
+    "age": 33
+  },
+  "8475766": {
+    "playerId": 8475766,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8475766.png",
+    "height": 76,
+    "weight": 238,
+    "age": 33
+  },
+  "8475768": {
+    "playerId": 8475768,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8475768.png",
+    "height": 70,
+    "weight": 185,
+    "age": 33
+  },
+  "8471675": {
+    "playerId": 8471675,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8471675.png",
+    "height": 71,
+    "weight": 200,
+    "age": 38
+  },
+  "8471677": {
+    "playerId": 8471677,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8471677.png",
+    "height": 74,
+    "weight": 225,
+    "age": 38
+  },
+  "8471685": {
+    "playerId": 8471685,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8471685.png",
+    "height": 75,
+    "weight": 225,
+    "age": 38
+  },
+  "8471686": {
+    "playerId": 8471686,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8471686.png",
+    "height": 76,
+    "weight": 208,
+    "age": 38
+  },
+  "8475784": {
+    "playerId": 8475784,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8475784.png",
+    "height": 71,
+    "weight": 200,
+    "age": 33
+  },
+  "8475786": {
+    "playerId": 8475786,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8475786.png",
+    "height": 73,
+    "weight": 206,
+    "age": 33
+  },
+  "8475790": {
+    "playerId": 8475790,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8475790.png",
+    "height": 77,
+    "weight": 222,
+    "age": 33
+  },
+  "8475791": {
+    "playerId": 8475791,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8475791.png",
+    "height": 73,
+    "weight": 210,
+    "age": 33
+  },
+  "8477839": {
+    "playerId": 8477839,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8477839.png",
+    "height": 68,
+    "weight": 182,
+    "age": 33
+  },
+  "8475793": {
+    "playerId": 8475793,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475793.png",
+    "height": 75,
+    "weight": 218,
+    "age": 33
+  },
+  "8471698": {
+    "playerId": 8471698,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8471698.png",
+    "height": 72,
+    "weight": 187,
+    "age": 38
+  },
+  "8475794": {
+    "playerId": 8475794,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8475794.png",
+    "height": 74,
+    "weight": 201,
+    "age": 33
+  },
+  "8471699": {
+    "playerId": 8471699,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8471699.png",
+    "height": 70,
+    "weight": 179,
+    "age": 38
+  },
+  "8477845": {
+    "playerId": 8477845,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8477845.png",
+    "height": 75,
+    "weight": 197,
+    "age": 34
+  },
+  "8475798": {
+    "playerId": 8475798,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8475798.png",
+    "height": 70,
+    "weight": 185,
+    "age": 33
+  },
+  "8475799": {
+    "playerId": 8475799,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8475799.png",
+    "height": 74,
+    "weight": 218,
+    "age": 33
+  },
+  "8475797": {
+    "playerId": 8475797,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475797.png",
+    "height": 78,
+    "weight": 229,
+    "age": 33
+  },
+  "8477846": {
+    "playerId": 8477846,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8477846.png",
+    "height": 73,
+    "weight": 198,
+    "age": 34
+  },
+  "8471709": {
+    "playerId": 8471709,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8471709.png",
+    "height": 73,
+    "weight": 205,
+    "age": 38
+  },
+  "8475810": {
+    "playerId": 8475810,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8475810.png",
+    "height": 71,
+    "weight": 198,
+    "age": 33
+  },
+  "8471724": {
+    "playerId": 8471724,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8471724.png",
+    "height": 72,
+    "weight": 193,
+    "age": 38
+  },
+  "8475825": {
+    "playerId": 8475825,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475825.png",
+    "height": 79,
+    "weight": 225,
+    "age": 33
+  },
+  "8475842": {
+    "playerId": 8475842,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8475842.png",
+    "height": 72,
+    "weight": 202,
+    "age": 33
+  },
+  "8479941": {
+    "playerId": 8479941,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8479941.png",
+    "height": 68,
+    "weight": 188,
+    "age": 32
+  },
+  "8475848": {
+    "playerId": 8475848,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8475848.png",
+    "height": 69,
+    "weight": 185,
+    "age": 33
+  },
+  "8479944": {
+    "playerId": 8479944,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8479944.png",
+    "height": 73,
+    "weight": 200,
+    "age": 31
+  },
+  "8477903": {
+    "playerId": 8477903,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8477903.png",
+    "height": 74,
+    "weight": 212,
+    "age": 33
+  },
+  "8475855": {
+    "playerId": 8475855,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8475855.png",
+    "height": 73,
+    "weight": 191,
+    "age": 33
+  },
+  "8477919": {
+    "playerId": 8477919,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8477919.png",
+    "height": 72,
+    "weight": 184,
+    "age": 32
+  },
+  "8479968": {
+    "playerId": 8479968,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479968.png",
+    "height": 70,
+    "weight": 184,
+    "age": 30
+  },
+  "8479976": {
+    "playerId": 8479976,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479976.png",
+    "height": 74,
+    "weight": 201,
+    "age": 26
+  },
+  "8479977": {
+    "playerId": 8479977,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479977.png",
+    "height": 69,
+    "weight": 178,
+    "age": 26
+  },
+  "8477930": {
+    "playerId": 8477930,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8477930.png",
+    "height": 71,
+    "weight": 198,
+    "age": 40
+  },
+  "8477931": {
+    "playerId": 8477931,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477931.png",
+    "height": 75,
+    "weight": 199,
+    "age": 33
+  },
+  "8479980": {
+    "playerId": 8479980,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8479980.png",
+    "height": 78,
+    "weight": 245,
+    "age": 26
+  },
+  "8477933": {
+    "playerId": 8477933,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477933.png",
+    "height": 73,
+    "weight": 196,
+    "age": 29
+  },
+  "8479982": {
+    "playerId": 8479982,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8479982.png",
+    "height": 75,
+    "weight": 213,
+    "age": 26
+  },
+  "8479983": {
+    "playerId": 8479983,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8479983.png",
+    "height": 72,
+    "weight": 209,
+    "age": 26
+  },
+  "8477934": {
+    "playerId": 8477934,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477934.png",
+    "height": 74,
+    "weight": 209,
+    "age": 29
+  },
+  "8477935": {
+    "playerId": 8477935,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477935.png",
+    "height": 73,
+    "weight": 193,
+    "age": 29
+  },
+  "8477932": {
+    "playerId": 8477932,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477932.png",
+    "height": 76,
+    "weight": 220,
+    "age": 29
+  },
+  "8477938": {
+    "playerId": 8477938,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8477938.png",
+    "height": 76,
+    "weight": 207,
+    "age": 29
+  },
+  "8477939": {
+    "playerId": 8477939,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8477939.png",
+    "height": 72,
+    "weight": 202,
+    "age": 29
+  },
+  "8477940": {
+    "playerId": 8477940,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8477940.png",
+    "height": 72,
+    "weight": 172,
+    "age": 29
+  },
+  "8479981": {
+    "playerId": 8479981,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479981.png",
+    "height": 75,
+    "weight": 211,
+    "age": 26
+  },
+  "8477942": {
+    "playerId": 8477942,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477942.png",
+    "height": 72,
+    "weight": 205,
+    "age": 29
+  },
+  "8479987": {
+    "playerId": 8479987,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479987.png",
+    "height": 75,
+    "weight": 208,
+    "age": 27
+  },
+  "8479992": {
+    "playerId": 8479992,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8479992.png",
+    "height": 78,
+    "weight": 220,
+    "age": 26
+  },
+  "8477946": {
+    "playerId": 8477946,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8477946.png",
+    "height": 73,
+    "weight": 199,
+    "age": 29
+  },
+  "8479994": {
+    "playerId": 8479994,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8479994.png",
+    "height": 71,
+    "weight": 200,
+    "age": 26
+  },
+  "8477948": {
+    "playerId": 8477948,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8477948.png",
+    "height": 76,
+    "weight": 222,
+    "age": 29
+  },
+  "8479996": {
+    "playerId": 8479996,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8479996.png",
+    "height": 75,
+    "weight": 201,
+    "age": 26
+  },
+  "8477949": {
+    "playerId": 8477949,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8477949.png",
+    "height": 76,
+    "weight": 219,
+    "age": 29
+  },
+  "8479998": {
+    "playerId": 8479998,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8479998.png",
+    "height": 72,
+    "weight": 195,
+    "age": 26
+  },
+  "8479999": {
+    "playerId": 8479999,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479999.png",
+    "height": 73,
+    "weight": 195,
+    "age": 26
+  },
+  "8477951": {
+    "playerId": 8477951,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8477951.png",
+    "height": 72,
+    "weight": 184,
+    "age": 29
+  },
+  "8477953": {
+    "playerId": 8477953,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477953.png",
+    "height": 73,
+    "weight": 194,
+    "age": 29
+  },
+  "8480002": {
+    "playerId": 8480002,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8480002.png",
+    "height": 73,
+    "weight": 200,
+    "age": 26
+  },
+  "8477956": {
+    "playerId": 8477956,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8477956.png",
+    "height": 72,
+    "weight": 200,
+    "age": 29
+  },
+  "8480003": {
+    "playerId": 8480003,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480003.png",
+    "height": 73,
+    "weight": 191,
+    "age": 26
+  },
+  "8480001": {
+    "playerId": 8480001,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8480001.png",
+    "height": 74,
+    "weight": 205,
+    "age": 26
+  },
+  "8477950": {
+    "playerId": 8477950,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477950.png",
+    "height": 71,
+    "weight": 180,
+    "age": 29
+  },
+  "8477952": {
+    "playerId": 8477952,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8477952.png",
+    "height": 71,
+    "weight": 185,
+    "age": 29
+  },
+  "8482055": {
+    "playerId": 8482055,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8482055.png",
+    "height": 76,
+    "weight": 209,
+    "age": 27
+  },
+  "8477960": {
+    "playerId": 8477960,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477960.png",
+    "height": 74,
+    "weight": 200,
+    "age": 29
+  },
+  "8475913": {
+    "playerId": 8475913,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475913.png",
+    "height": 75,
+    "weight": 210,
+    "age": 33
+  },
+  "8471817": {
+    "playerId": 8471817,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8471817.png",
+    "height": 74,
+    "weight": 225,
+    "age": 38
+  },
+  "8477964": {
+    "playerId": 8477964,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477964.png",
+    "height": 72,
+    "weight": 203,
+    "age": 29
+  },
+  "8480012": {
+    "playerId": 8480012,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480012.png",
+    "height": 74,
+    "weight": 176,
+    "age": 26
+  },
+  "8480014": {
+    "playerId": 8480014,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480014.png",
+    "height": 75,
+    "weight": 216,
+    "age": 26
+  },
+  "8480009": {
+    "playerId": 8480009,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8480009.png",
+    "height": 70,
+    "weight": 182,
+    "age": 26
+  },
+  "8480015": {
+    "playerId": 8480015,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8480015.png",
+    "height": 73,
+    "weight": 210,
+    "age": 26
+  },
+  "8477969": {
+    "playerId": 8477969,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8477969.png",
+    "height": 77,
+    "weight": 174,
+    "age": 29
+  },
+  "8480018": {
+    "playerId": 8480018,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8480018.png",
+    "height": 71,
+    "weight": 207,
+    "age": 26
+  },
+  "8482062": {
+    "playerId": 8482062,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482062.png",
+    "height": 75,
+    "weight": 195,
+    "age": 29
+  },
+  "8477971": {
+    "playerId": 8477971,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8477971.png",
+    "height": 76,
+    "weight": 200,
+    "age": 29
+  },
+  "8482070": {
+    "playerId": 8482070,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8482070.png",
+    "height": 73,
+    "weight": 204,
+    "age": 27
+  },
+  "8480023": {
+    "playerId": 8480023,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8480023.png",
+    "height": 72,
+    "weight": 207,
+    "age": 26
+  },
+  "8482073": {
+    "playerId": 8482073,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482073.png",
+    "height": 76,
+    "weight": 213,
+    "age": 23
+  },
+  "8482074": {
+    "playerId": 8482074,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8482074.png",
+    "height": 72,
+    "weight": 178,
+    "age": 23
+  },
+  "8480027": {
+    "playerId": 8480027,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480027.png",
+    "height": 75,
+    "weight": 207,
+    "age": 26
+  },
+  "8480028": {
+    "playerId": 8480028,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8480028.png",
+    "height": 72,
+    "weight": 193,
+    "age": 26
+  },
+  "8482077": {
+    "playerId": 8482077,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8482077.png",
+    "height": 73,
+    "weight": 206,
+    "age": 23
+  },
+  "8482078": {
+    "playerId": 8482078,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8482078.png",
+    "height": 71,
+    "weight": 188,
+    "age": 23
+  },
+  "8482079": {
+    "playerId": 8482079,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8482079.png",
+    "height": 69,
+    "weight": 182,
+    "age": 23
+  },
+  "8477979": {
+    "playerId": 8477979,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8477979.png",
+    "height": 72,
+    "weight": 213,
+    "age": 29
+  },
+  "8480025": {
+    "playerId": 8480025,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480025.png",
+    "height": 75,
+    "weight": 203,
+    "age": 26
+  },
+  "8477986": {
+    "playerId": 8477986,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8477986.png",
+    "height": 72,
+    "weight": 199,
+    "age": 31
+  },
+  "8480035": {
+    "playerId": 8480035,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8480035.png",
+    "height": 72,
+    "weight": 200,
+    "age": 26
+  },
+  "8480036": {
+    "playerId": 8480036,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480036.png",
+    "height": 74,
+    "weight": 197,
+    "age": 26
+  },
+  "8477989": {
+    "playerId": 8477989,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8477989.png",
+    "height": 73,
+    "weight": 190,
+    "age": 29
+  },
+  "8477987": {
+    "playerId": 8477987,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8477987.png",
+    "height": 72,
+    "weight": 190,
+    "age": 29
+  },
+  "8480039": {
+    "playerId": 8480039,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480039.png",
+    "height": 75,
+    "weight": 195,
+    "age": 26
+  },
+  "8482087": {
+    "playerId": 8482087,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8482087.png",
+    "height": 75,
+    "weight": 202,
+    "age": 23
+  },
+  "8482089": {
+    "playerId": 8482089,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8482089.png",
+    "height": 72,
+    "weight": 201,
+    "age": 23
+  },
+  "8480043": {
+    "playerId": 8480043,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8480043.png",
+    "height": 73,
+    "weight": 201,
+    "age": 26
+  },
+  "8482092": {
+    "playerId": 8482092,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482092.png",
+    "height": 72,
+    "weight": 188,
+    "age": 23
+  },
+  "8482093": {
+    "playerId": 8482093,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482093.png",
+    "height": 70,
+    "weight": 184,
+    "age": 23
+  },
+  "8477998": {
+    "playerId": 8477998,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477998.png",
+    "height": 74,
+    "weight": 204,
+    "age": 29
+  },
+  "8482095": {
+    "playerId": 8482095,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482095.png",
+    "height": 77,
+    "weight": 221,
+    "age": 23
+  },
+  "8484144": {
+    "playerId": 8484144,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8484144.png",
+    "height": 70,
+    "weight": 185,
+    "age": 20
+  },
+  "8480049": {
+    "playerId": 8480049,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480049.png",
+    "height": 76,
+    "weight": 216,
+    "age": 26
+  },
+  "8482097": {
+    "playerId": 8482097,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8482097.png",
+    "height": 73,
+    "weight": 185,
+    "age": 23
+  },
+  "8484145": {
+    "playerId": 8484145,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8484145.png",
+    "height": 70,
+    "weight": 170,
+    "age": 20
+  },
+  "8482105": {
+    "playerId": 8482105,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482105.png",
+    "height": 74,
+    "weight": 204,
+    "age": 23
+  },
+  "8478010": {
+    "playerId": 8478010,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8478010.png",
+    "height": 71,
+    "weight": 175,
+    "age": 29
+  },
+  "8484153": {
+    "playerId": 8484153,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8484153.png",
+    "height": 75,
+    "weight": 203,
+    "age": 20
+  },
+  "8480058": {
+    "playerId": 8480058,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480058.png",
+    "height": 74,
+    "weight": 185,
+    "age": 26
+  },
+  "8482109": {
+    "playerId": 8482109,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482109.png",
+    "height": 74,
+    "weight": 196,
+    "age": 23
+  },
+  "8482110": {
+    "playerId": 8482110,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8482110.png",
+    "height": 72,
+    "weight": 180,
+    "age": 23
+  },
+  "8482111": {
+    "playerId": 8482111,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482111.png",
+    "height": 74,
+    "weight": 198,
+    "age": 23
+  },
+  "8480064": {
+    "playerId": 8480064,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480064.png",
+    "height": 74,
+    "weight": 196,
+    "age": 26
+  },
+  "8482113": {
+    "playerId": 8482113,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8482113.png",
+    "height": 73,
+    "weight": 196,
+    "age": 23
+  },
+  "8478013": {
+    "playerId": 8478013,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8478013.png",
+    "height": 73,
+    "weight": 218,
+    "age": 29
+  },
+  "8482116": {
+    "playerId": 8482116,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482116.png",
+    "height": 72,
+    "weight": 192,
+    "age": 23
+  },
+  "8480069": {
+    "playerId": 8480069,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480069.png",
+    "height": 72,
+    "weight": 187,
+    "age": 26
+  },
+  "8478020": {
+    "playerId": 8478020,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8478020.png",
+    "height": 73,
+    "weight": 199,
+    "age": 29
+  },
+  "8484166": {
+    "playerId": 8484166,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8484166.png",
+    "height": 74,
+    "weight": 199,
+    "age": 20
+  },
+  "8482118": {
+    "playerId": 8482118,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8482118.png",
+    "height": 74,
+    "weight": 211,
+    "age": 23
+  },
+  "8480068": {
+    "playerId": 8480068,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8480068.png",
+    "height": 74,
+    "weight": 204,
+    "age": 26
+  },
+  "8482122": {
+    "playerId": 8482122,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8482122.png",
+    "height": 73,
+    "weight": 200,
+    "age": 23
+  },
+  "8480074": {
+    "playerId": 8480074,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8480074.png",
+    "height": 73,
+    "weight": 201,
+    "age": 26
+  },
+  "8482124": {
+    "playerId": 8482124,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482124.png",
+    "height": 77,
+    "weight": 225,
+    "age": 23
+  },
+  "8482125": {
+    "playerId": 8482125,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8482125.png",
+    "height": 72,
+    "weight": 198,
+    "age": 23
+  },
+  "8480078": {
+    "playerId": 8480078,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480078.png",
+    "height": 74,
+    "weight": 210,
+    "age": 26
+  },
+  "8482126": {
+    "playerId": 8482126,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8482126.png",
+    "height": 69,
+    "weight": 189,
+    "age": 23
+  },
+  "8480073": {
+    "playerId": 8480073,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8480073.png",
+    "height": 70,
+    "weight": 185,
+    "age": 26
+  },
+  "8478028": {
+    "playerId": 8478028,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8478028.png",
+    "height": 74,
+    "weight": 190,
+    "age": 29
+  },
+  "8482132": {
+    "playerId": 8482132,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482132.png",
+    "height": 69,
+    "weight": 175,
+    "age": 23
+  },
+  "8478038": {
+    "playerId": 8478038,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8478038.png",
+    "height": 73,
+    "weight": 191,
+    "age": 31
+  },
+  "8478042": {
+    "playerId": 8478042,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8478042.png",
+    "height": 70,
+    "weight": 185,
+    "age": 32
+  },
+  "8478043": {
+    "playerId": 8478043,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8478043.png",
+    "height": 74,
+    "weight": 205,
+    "age": 30
+  },
+  "8478046": {
+    "playerId": 8478046,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478046.png",
+    "height": 74,
+    "weight": 195,
+    "age": 30
+  },
+  "8478047": {
+    "playerId": 8478047,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8478047.png",
+    "height": 72,
+    "weight": 186,
+    "age": 29
+  },
+  "8482142": {
+    "playerId": 8482142,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8482142.png",
+    "height": 71,
+    "weight": 185,
+    "age": 23
+  },
+  "8482145": {
+    "playerId": 8482145,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8482145.png",
+    "height": 71,
+    "weight": 181,
+    "age": 23
+  },
+  "8482146": {
+    "playerId": 8482146,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482146.png",
+    "height": 72,
+    "weight": 183,
+    "age": 23
+  },
+  "8482144": {
+    "playerId": 8482144,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8482144.png",
+    "height": 73,
+    "weight": 189,
+    "age": 23
+  },
+  "8482148": {
+    "playerId": 8482148,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8482148.png",
+    "height": 72,
+    "weight": 180,
+    "age": 23
+  },
+  "8482149": {
+    "playerId": 8482149,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8482149.png",
+    "height": 71,
+    "weight": 185,
+    "age": 23
+  },
+  "8478055": {
+    "playerId": 8478055,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478055.png",
+    "height": 73,
+    "weight": 199,
+    "age": 29
+  },
+  "8478057": {
+    "playerId": 8478057,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478057.png",
+    "height": 75,
+    "weight": 206,
+    "age": 29
+  },
+  "8482155": {
+    "playerId": 8482155,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482155.png",
+    "height": 73,
+    "weight": 205,
+    "age": 23
+  },
+  "8482157": {
+    "playerId": 8482157,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482157.png",
+    "height": 75,
+    "weight": 212,
+    "age": 23
+  },
+  "8482159": {
+    "playerId": 8482159,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8482159.png",
+    "height": 74,
+    "weight": 215,
+    "age": 23
+  },
+  "8480113": {
+    "playerId": 8480113,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480113.png",
+    "height": 72,
+    "weight": 201,
+    "age": 31
+  },
+  "8482166": {
+    "playerId": 8482166,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8482166.png",
+    "height": 76,
+    "weight": 200,
+    "age": 23
+  },
+  "8482172": {
+    "playerId": 8482172,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8482172.png",
+    "height": 72,
+    "weight": 180,
+    "age": 23
+  },
+  "8478078": {
+    "playerId": 8478078,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8478078.png",
+    "height": 72,
+    "weight": 201,
+    "age": 29
+  },
+  "8482175": {
+    "playerId": 8482175,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8482175.png",
+    "height": 72,
+    "weight": 189,
+    "age": 23
+  },
+  "8482176": {
+    "playerId": 8482176,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8482176.png",
+    "height": 72,
+    "weight": 173,
+    "age": 23
+  },
+  "8482177": {
+    "playerId": 8482177,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8482177.png",
+    "height": 71,
+    "weight": 176,
+    "age": 23
+  },
+  "8473986": {
+    "playerId": 8473986,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8473986.png",
+    "height": 73,
+    "weight": 192,
+    "age": 36
+  },
+  "8484227": {
+    "playerId": 8484227,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8484227.png",
+    "height": 72,
+    "weight": 181,
+    "age": 20
+  },
+  "8473994": {
+    "playerId": 8473994,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8473994.png",
+    "height": 75,
+    "weight": 206,
+    "age": 36
+  },
+  "8480144": {
+    "playerId": 8480144,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8480144.png",
+    "height": 74,
+    "weight": 193,
+    "age": 30
+  },
+  "8480145": {
+    "playerId": 8480145,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480145.png",
+    "height": 72,
+    "weight": 190,
+    "age": 30
+  },
+  "8482192": {
+    "playerId": 8482192,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8482192.png",
+    "height": 75,
+    "weight": 205,
+    "age": 23
+  },
+  "8478099": {
+    "playerId": 8478099,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8478099.png",
+    "height": 71,
+    "weight": 185,
+    "age": 29
+  },
+  "8478104": {
+    "playerId": 8478104,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8478104.png",
+    "height": 74,
+    "weight": 206,
+    "age": 29
+  },
+  "8482201": {
+    "playerId": 8482201,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8482201.png",
+    "height": 73,
+    "weight": 184,
+    "age": 24
+  },
+  "8474009": {
+    "playerId": 8474009,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474009.png",
+    "height": 73,
+    "weight": 198,
+    "age": 37
+  },
+  "8478109": {
+    "playerId": 8478109,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8478109.png",
+    "height": 71,
+    "weight": 180,
+    "age": 30
+  },
+  "8474013": {
+    "playerId": 8474013,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8474013.png",
+    "height": 73,
+    "weight": 237,
+    "age": 36
+  },
+  "8484258": {
+    "playerId": 8484258,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8484258.png",
+    "height": 71,
+    "weight": 190,
+    "age": 27
+  },
+  "8478115": {
+    "playerId": 8478115,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8478115.png",
+    "height": 77,
+    "weight": 215,
+    "age": 29
+  },
+  "8480172": {
+    "playerId": 8480172,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8480172.png",
+    "height": 75,
+    "weight": 204,
+    "age": 35
+  },
+  "8482222": {
+    "playerId": 8482222,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8482222.png",
+    "height": 70,
+    "weight": 195,
+    "age": 31
+  },
+  "8474031": {
+    "playerId": 8474031,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474031.png",
+    "height": 72,
+    "weight": 203,
+    "age": 36
+  },
+  "8474034": {
+    "playerId": 8474034,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474034.png",
+    "height": 75,
+    "weight": 234,
+    "age": 37
+  },
+  "8478133": {
+    "playerId": 8478133,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8478133.png",
+    "height": 72,
+    "weight": 190,
+    "age": 29
+  },
+  "8474037": {
+    "playerId": 8474037,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8474037.png",
+    "height": 75,
+    "weight": 209,
+    "age": 36
+  },
+  "8478136": {
+    "playerId": 8478136,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478136.png",
+    "height": 75,
+    "weight": 219,
+    "age": 29
+  },
+  "8480185": {
+    "playerId": 8480185,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480185.png",
+    "height": 75,
+    "weight": 191,
+    "age": 27
+  },
+  "8480184": {
+    "playerId": 8480184,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8480184.png",
+    "height": 74,
+    "weight": 194,
+    "age": 26
+  },
+  "8480188": {
+    "playerId": 8480188,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480188.png",
+    "height": 71,
+    "weight": 220,
+    "age": 26
+  },
+  "8480192": {
+    "playerId": 8480192,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8480192.png",
+    "height": 77,
+    "weight": 223,
+    "age": 28
+  },
+  "8482241": {
+    "playerId": 8482241,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8482241.png",
+    "height": 78,
+    "weight": 220,
+    "age": 29
+  },
+  "8478146": {
+    "playerId": 8478146,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8478146.png",
+    "height": 71,
+    "weight": 186,
+    "age": 29
+  },
+  "8480196": {
+    "playerId": 8480196,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480196.png",
+    "height": 69,
+    "weight": 177,
+    "age": 27
+  },
+  "8482245": {
+    "playerId": 8482245,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482245.png",
+    "height": 75,
+    "weight": 200,
+    "age": 29
+  },
+  "8482117": {
+    "playerId": 8482117,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8482117.png",
+    "height": 72,
+    "weight": 170,
+    "age": 23
+  },
+  "8480205": {
+    "playerId": 8480205,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8480205.png",
+    "height": 72,
+    "weight": 190,
+    "age": 26
+  },
+  "8484304": {
+    "playerId": 8484304,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8484304.png",
+    "height": 72,
+    "weight": 196,
+    "age": 29
+  },
+  "8480208": {
+    "playerId": 8480208,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480208.png",
+    "height": 75,
+    "weight": 200,
+    "age": 27
+  },
+  "8482259": {
+    "playerId": 8482259,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8482259.png",
+    "height": 74,
+    "weight": 215,
+    "age": 29
+  },
+  "8480220": {
+    "playerId": 8480220,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8480220.png",
+    "height": 74,
+    "weight": 194,
+    "age": 26
+  },
+  "8480222": {
+    "playerId": 8480222,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8480222.png",
+    "height": 70,
+    "weight": 176,
+    "age": 29
+  },
+  "8484321": {
+    "playerId": 8484321,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8484321.png",
+    "height": 75,
+    "weight": 211,
+    "age": 26
+  },
+  "8478178": {
+    "playerId": 8478178,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8478178.png",
+    "height": 73,
+    "weight": 202,
+    "age": 29
+  },
+  "8474090": {
+    "playerId": 8474090,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474090.png",
+    "height": 74,
+    "weight": 200,
+    "age": 36
+  },
+  "8480246": {
+    "playerId": 8480246,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8480246.png",
+    "height": 76,
+    "weight": 206,
+    "age": 27
+  },
+  "8474102": {
+    "playerId": 8474102,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8474102.png",
+    "height": 72,
+    "weight": 198,
+    "age": 37
+  },
+  "8478233": {
+    "playerId": 8478233,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8478233.png",
+    "height": 70,
+    "weight": 183,
+    "age": 29
+  },
+  "8480281": {
+    "playerId": 8480281,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8480281.png",
+    "height": 78,
+    "weight": 222,
+    "age": 26
+  },
+  "8474141": {
+    "playerId": 8474141,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8474141.png",
+    "height": 70,
+    "weight": 177,
+    "age": 36
+  },
+  "8480289": {
+    "playerId": 8480289,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480289.png",
+    "height": 76,
+    "weight": 220,
+    "age": 26
+  },
+  "8484387": {
+    "playerId": 8484387,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8484387.png",
+    "height": 70,
+    "weight": 172,
+    "age": 20
+  },
+  "8474149": {
+    "playerId": 8474149,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8474149.png",
+    "height": 71,
+    "weight": 188,
+    "age": 36
+  },
+  "8474150": {
+    "playerId": 8474150,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8474150.png",
+    "height": 72,
+    "weight": 206,
+    "age": 36
+  },
+  "8474151": {
+    "playerId": 8474151,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8474151.png",
+    "height": 74,
+    "weight": 219,
+    "age": 36
+  },
+  "8474157": {
+    "playerId": 8474157,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474157.png",
+    "height": 74,
+    "weight": 217,
+    "age": 36
+  },
+  "8474166": {
+    "playerId": 8474166,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474166.png",
+    "height": 73,
+    "weight": 210,
+    "age": 38
+  },
+  "8474189": {
+    "playerId": 8474189,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8474189.png",
+    "height": 74,
+    "weight": 208,
+    "age": 36
+  },
+  "8480336": {
+    "playerId": 8480336,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480336.png",
+    "height": 71,
+    "weight": 191,
+    "age": 30
+  },
+  "8480355": {
+    "playerId": 8480355,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8480355.png",
+    "height": 76,
+    "weight": 227,
+    "age": 26
+  },
+  "8476278": {
+    "playerId": 8476278,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8476278.png",
+    "height": 68,
+    "weight": 190,
+    "age": 32
+  },
+  "8476292": {
+    "playerId": 8476292,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8476292.png",
+    "height": 72,
+    "weight": 194,
+    "age": 34
+  },
+  "8482451": {
+    "playerId": 8482451,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8482451.png",
+    "height": 72,
+    "weight": 176,
+    "age": 23
+  },
+  "8476312": {
+    "playerId": 8476312,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8476312.png",
+    "height": 75,
+    "weight": 218,
+    "age": 33
+  },
+  "8482460": {
+    "playerId": 8482460,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482460.png",
+    "height": 81,
+    "weight": 255,
+    "age": 23
+  },
+  "8478366": {
+    "playerId": 8478366,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8478366.png",
+    "height": 71,
+    "weight": 206,
+    "age": 31
+  },
+  "8476331": {
+    "playerId": 8476331,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476331.png",
+    "height": 73,
+    "weight": 194,
+    "age": 32
+  },
+  "8482476": {
+    "playerId": 8482476,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8482476.png",
+    "height": 74,
+    "weight": 198,
+    "age": 23
+  },
+  "8482475": {
+    "playerId": 8482475,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8482475.png",
+    "height": 73,
+    "weight": 201,
+    "age": 24
+  },
+  "8480434": {
+    "playerId": 8480434,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8480434.png",
+    "height": 73,
+    "weight": 196,
+    "age": 26
+  },
+  "8476346": {
+    "playerId": 8476346,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8476346.png",
+    "height": 69,
+    "weight": 163,
+    "age": 32
+  },
+  "8478396": {
+    "playerId": 8478396,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478396.png",
+    "height": 75,
+    "weight": 206,
+    "age": 28
+  },
+  "8478397": {
+    "playerId": 8478397,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8478397.png",
+    "height": 73,
+    "weight": 202,
+    "age": 28
+  },
+  "8478398": {
+    "playerId": 8478398,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8478398.png",
+    "height": 73,
+    "weight": 183,
+    "age": 28
+  },
+  "8478399": {
+    "playerId": 8478399,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8478399.png",
+    "height": 74,
+    "weight": 218,
+    "age": 28
+  },
+  "8480448": {
+    "playerId": 8480448,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480448.png",
+    "height": 73,
+    "weight": 185,
+    "age": 26
+  },
+  "8478401": {
+    "playerId": 8478401,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8478401.png",
+    "height": 75,
+    "weight": 206,
+    "age": 28
+  },
+  "8478402": {
+    "playerId": 8478402,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8478402.png",
+    "height": 73,
+    "weight": 194,
+    "age": 28
+  },
+  "8478403": {
+    "playerId": 8478403,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478403.png",
+    "height": 74,
+    "weight": 206,
+    "age": 28
+  },
+  "8482496": {
+    "playerId": 8482496,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8482496.png",
+    "height": 74,
+    "weight": 179,
+    "age": 25
+  },
+  "8478407": {
+    "playerId": 8478407,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8478407.png",
+    "height": 72,
+    "weight": 200,
+    "age": 28
+  },
+  "8480459": {
+    "playerId": 8480459,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8480459.png",
+    "height": 71,
+    "weight": 179,
+    "age": 29
+  },
+  "8478413": {
+    "playerId": 8478413,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8478413.png",
+    "height": 78,
+    "weight": 231,
+    "age": 28
+  },
+  "8478414": {
+    "playerId": 8478414,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8478414.png",
+    "height": 73,
+    "weight": 220,
+    "age": 28
+  },
+  "8482511": {
+    "playerId": 8482511,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8482511.png",
+    "height": 77,
+    "weight": 220,
+    "age": 24
+  },
+  "8478416": {
+    "playerId": 8478416,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8478416.png",
+    "height": 76,
+    "weight": 230,
+    "age": 28
+  },
+  "8478420": {
+    "playerId": 8478420,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8478420.png",
+    "height": 76,
+    "weight": 215,
+    "age": 28
+  },
+  "8478421": {
+    "playerId": 8478421,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478421.png",
+    "height": 75,
+    "weight": 209,
+    "age": 28
+  },
+  "8476374": {
+    "playerId": 8476374,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8476374.png",
+    "height": 74,
+    "weight": 215,
+    "age": 32
+  },
+  "8476372": {
+    "playerId": 8476372,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8476372.png",
+    "height": 75,
+    "weight": 197,
+    "age": 32
+  },
+  "8478424": {
+    "playerId": 8478424,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8478424.png",
+    "height": 73,
+    "weight": 199,
+    "age": 28
+  },
+  "8480468": {
+    "playerId": 8480468,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8480468.png",
+    "height": 70,
+    "weight": 185,
+    "age": 26
+  },
+  "8482516": {
+    "playerId": 8482516,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8482516.png",
+    "height": 74,
+    "weight": 205,
+    "age": 25
+  },
+  "8478427": {
+    "playerId": 8478427,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8478427.png",
+    "height": 72,
+    "weight": 180,
+    "age": 28
+  },
+  "8478430": {
+    "playerId": 8478430,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8478430.png",
+    "height": 72,
+    "weight": 183,
+    "age": 28
+  },
+  "8478432": {
+    "playerId": 8478432,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8478432.png",
+    "height": 74,
+    "weight": 212,
+    "age": 28
+  },
+  "8478434": {
+    "playerId": 8478434,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478434.png",
+    "height": 74,
+    "weight": 216,
+    "age": 28
+  },
+  "8476389": {
+    "playerId": 8476389,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8476389.png",
+    "height": 71,
+    "weight": 188,
+    "age": 32
+  },
+  "8478438": {
+    "playerId": 8478438,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478438.png",
+    "height": 73,
+    "weight": 179,
+    "age": 28
+  },
+  "8478439": {
+    "playerId": 8478439,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8478439.png",
+    "height": 70,
+    "weight": 192,
+    "age": 28
+  },
+  "8476392": {
+    "playerId": 8476392,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476392.png",
+    "height": 77,
+    "weight": 210,
+    "age": 32
+  },
+  "8478440": {
+    "playerId": 8478440,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8478440.png",
+    "height": 75,
+    "weight": 196,
+    "age": 28
+  },
+  "8476393": {
+    "playerId": 8476393,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8476393.png",
+    "height": 71,
+    "weight": 186,
+    "age": 32
+  },
+  "8478443": {
+    "playerId": 8478443,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478443.png",
+    "height": 77,
+    "weight": 220,
+    "age": 28
+  },
+  "8478444": {
+    "playerId": 8478444,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8478444.png",
+    "height": 73,
+    "weight": 208,
+    "age": 28
+  },
+  "8478445": {
+    "playerId": 8478445,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8478445.png",
+    "height": 73,
+    "weight": 190,
+    "age": 28
+  },
+  "8476399": {
+    "playerId": 8476399,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8476399.png",
+    "height": 71,
+    "weight": 199,
+    "age": 33
+  },
+  "8478449": {
+    "playerId": 8478449,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8478449.png",
+    "height": 75,
+    "weight": 213,
+    "age": 28
+  },
+  "8478450": {
+    "playerId": 8478450,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478450.png",
+    "height": 73,
+    "weight": 192,
+    "age": 28
+  },
+  "8478454": {
+    "playerId": 8478454,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8478454.png",
+    "height": 74,
+    "weight": 201,
+    "age": 28
+  },
+  "8478458": {
+    "playerId": 8478458,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8478458.png",
+    "height": 73,
+    "weight": 198,
+    "age": 28
+  },
+  "8478460": {
+    "playerId": 8478460,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8478460.png",
+    "height": 74,
+    "weight": 211,
+    "age": 28
+  },
+  "8478462": {
+    "playerId": 8478462,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478462.png",
+    "height": 76,
+    "weight": 201,
+    "age": 28
+  },
+  "8478463": {
+    "playerId": 8478463,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8478463.png",
+    "height": 71,
+    "weight": 180,
+    "age": 28
+  },
+  "8478466": {
+    "playerId": 8478466,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8478466.png",
+    "height": 72,
+    "weight": 195,
+    "age": 28
+  },
+  "8476419": {
+    "playerId": 8476419,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8476419.png",
+    "height": 71,
+    "weight": 195,
+    "age": 32
+  },
+  "8478468": {
+    "playerId": 8478468,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478468.png",
+    "height": 75,
+    "weight": 225,
+    "age": 28
+  },
+  "8478469": {
+    "playerId": 8478469,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8478469.png",
+    "height": 73,
+    "weight": 203,
+    "age": 28
+  },
+  "8476422": {
+    "playerId": 8476422,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476422.png",
+    "height": 74,
+    "weight": 191,
+    "age": 32
+  },
+  "8478472": {
+    "playerId": 8478472,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8478472.png",
+    "height": 73,
+    "weight": 186,
+    "age": 28
+  },
+  "8478474": {
+    "playerId": 8478474,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8478474.png",
+    "height": 76,
+    "weight": 214,
+    "age": 28
+  },
+  "8476429": {
+    "playerId": 8476429,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8476429.png",
+    "height": 77,
+    "weight": 213,
+    "age": 32
+  },
+  "8476432": {
+    "playerId": 8476432,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8476432.png",
+    "height": 74,
+    "weight": 203,
+    "age": 32
+  },
+  "8478483": {
+    "playerId": 8478483,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478483.png",
+    "height": 72,
+    "weight": 180,
+    "age": 28
+  },
+  "8476438": {
+    "playerId": 8476438,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476438.png",
+    "height": 73,
+    "weight": 215,
+    "age": 32
+  },
+  "8476441": {
+    "playerId": 8476441,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476441.png",
+    "height": 77,
+    "weight": 221,
+    "age": 32
+  },
+  "8476442": {
+    "playerId": 8476442,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8476442.png",
+    "height": 71,
+    "weight": 189,
+    "age": 32
+  },
+  "8478493": {
+    "playerId": 8478493,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478493.png",
+    "height": 75,
+    "weight": 207,
+    "age": 28
+  },
+  "8476448": {
+    "playerId": 8476448,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476448.png",
+    "height": 72,
+    "weight": 190,
+    "age": 32
+  },
+  "8478498": {
+    "playerId": 8478498,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8478498.png",
+    "height": 73,
+    "weight": 198,
+    "age": 28
+  },
+  "8478500": {
+    "playerId": 8478500,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8478500.png",
+    "height": 73,
+    "weight": 213,
+    "age": 28
+  },
+  "8476453": {
+    "playerId": 8476453,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8476453.png",
+    "height": 72,
+    "weight": 180,
+    "age": 32
+  },
+  "8476454": {
+    "playerId": 8476454,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8476454.png",
+    "height": 73,
+    "weight": 192,
+    "age": 32
+  },
+  "8478502": {
+    "playerId": 8478502,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8478502.png",
+    "height": 74,
+    "weight": 216,
+    "age": 28
+  },
+  "8476456": {
+    "playerId": 8476456,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8476456.png",
+    "height": 73,
+    "weight": 200,
+    "age": 32
+  },
+  "8476457": {
+    "playerId": 8476457,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8476457.png",
+    "height": 75,
+    "weight": 207,
+    "age": 32
+  },
+  "8476458": {
+    "playerId": 8476458,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8476458.png",
+    "height": 73,
+    "weight": 192,
+    "age": 32
+  },
+  "8478507": {
+    "playerId": 8478507,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8478507.png",
+    "height": 73,
+    "weight": 200,
+    "age": 28
+  },
+  "8478508": {
+    "playerId": 8478508,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478508.png",
+    "height": 74,
+    "weight": 201,
+    "age": 28
+  },
+  "8476460": {
+    "playerId": 8476460,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476460.png",
+    "height": 75,
+    "weight": 207,
+    "age": 32
+  },
+  "8476462": {
+    "playerId": 8476462,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8476462.png",
+    "height": 78,
+    "weight": 230,
+    "age": 32
+  },
+  "8476463": {
+    "playerId": 8476463,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8476463.png",
+    "height": 74,
+    "weight": 196,
+    "age": 32
+  },
+  "8476459": {
+    "playerId": 8476459,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8476459.png",
+    "height": 74,
+    "weight": 203,
+    "age": 32
+  },
+  "8476461": {
+    "playerId": 8476461,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8476461.png",
+    "height": 76,
+    "weight": 210,
+    "age": 32
+  },
+  "8478512": {
+    "playerId": 8478512,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8478512.png",
+    "height": 69,
+    "weight": 170,
+    "age": 32
+  },
+  "8476467": {
+    "playerId": 8476467,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8476467.png",
+    "height": 79,
+    "weight": 252,
+    "age": 32
+  },
+  "8476468": {
+    "playerId": 8476468,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8476468.png",
+    "height": 73,
+    "weight": 218,
+    "age": 32
+  },
+  "8476469": {
+    "playerId": 8476469,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476469.png",
+    "height": 75,
+    "weight": 216,
+    "age": 32
+  },
+  "8478519": {
+    "playerId": 8478519,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8478519.png",
+    "height": 73,
+    "weight": 191,
+    "age": 28
+  },
+  "8476473": {
+    "playerId": 8476473,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8476473.png",
+    "height": 76,
+    "weight": 212,
+    "age": 32
+  },
+  "8476474": {
+    "playerId": 8476474,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8476474.png",
+    "height": 73,
+    "weight": 205,
+    "age": 32
+  },
+  "8476479": {
+    "playerId": 8476479,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476479.png",
+    "height": 73,
+    "weight": 200,
+    "age": 32
+  },
+  "8476480": {
+    "playerId": 8476480,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476480.png",
+    "height": 72,
+    "weight": 181,
+    "age": 32
+  },
+  "8482624": {
+    "playerId": 8482624,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8482624.png",
+    "height": 76,
+    "weight": 207,
+    "age": 28
+  },
+  "8476483": {
+    "playerId": 8476483,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8476483.png",
+    "height": 73,
+    "weight": 191,
+    "age": 32
+  },
+  "8478542": {
+    "playerId": 8478542,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478542.png",
+    "height": 71,
+    "weight": 182,
+    "age": 32
+  },
+  "8478550": {
+    "playerId": 8478550,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8478550.png",
+    "height": 72,
+    "weight": 177,
+    "age": 33
+  },
+  "8474870": {
+    "playerId": 8474870,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474870.png",
+    "height": 68,
+    "weight": 191,
+    "age": 35
+  },
+  "8482652": {
+    "playerId": 8482652,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8482652.png",
+    "height": 74,
+    "weight": 210,
+    "age": 27
+  },
+  "8482655": {
+    "playerId": 8482655,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8482655.png",
+    "height": 74,
+    "weight": 181,
+    "age": 25
+  },
+  "8482659": {
+    "playerId": 8482659,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8482659.png",
+    "height": 74,
+    "weight": 198,
+    "age": 23
+  },
+  "8482660": {
+    "playerId": 8482660,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8482660.png",
+    "height": 72,
+    "weight": 180,
+    "age": 22
+  },
+  "8478569": {
+    "playerId": 8478569,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478569.png",
+    "height": 71,
+    "weight": 209,
+    "age": 33
+  },
+  "8482665": {
+    "playerId": 8482665,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8482665.png",
+    "height": 74,
+    "weight": 181,
+    "age": 22
+  },
+  "8482667": {
+    "playerId": 8482667,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8482667.png",
+    "height": 71,
+    "weight": 181,
+    "age": 22
+  },
+  "8476525": {
+    "playerId": 8476525,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476525.png",
+    "height": 73,
+    "weight": 200,
+    "age": 32
+  },
+  "8482671": {
+    "playerId": 8482671,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8482671.png",
+    "height": 78,
+    "weight": 226,
+    "age": 22
+  },
+  "8482679": {
+    "playerId": 8482679,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8482679.png",
+    "height": 70,
+    "weight": 183,
+    "age": 22
+  },
+  "8478585": {
+    "playerId": 8478585,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8478585.png",
+    "height": 70,
+    "weight": 185,
+    "age": 38
+  },
+  "8476539": {
+    "playerId": 8476539,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8476539.png",
+    "height": 69,
+    "weight": 185,
+    "age": 34
+  },
+  "8482684": {
+    "playerId": 8482684,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8482684.png",
+    "height": 74,
+    "weight": 198,
+    "age": 22
+  },
+  "8482691": {
+    "playerId": 8482691,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8482691.png",
+    "height": 74,
+    "weight": 190,
+    "age": 22
+  },
+  "8482699": {
+    "playerId": 8482699,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8482699.png",
+    "height": 73,
+    "weight": 191,
+    "age": 22
+  },
+  "8482700": {
+    "playerId": 8482700,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8482700.png",
+    "height": 74,
+    "weight": 195,
+    "age": 22
+  },
+  "8482702": {
+    "playerId": 8482702,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482702.png",
+    "height": 68,
+    "weight": 165,
+    "age": 22
+  },
+  "8482705": {
+    "playerId": 8482705,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8482705.png",
+    "height": 73,
+    "weight": 202,
+    "age": 22
+  },
+  "8482713": {
+    "playerId": 8482713,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8482713.png",
+    "height": 71,
+    "weight": 180,
+    "age": 22
+  },
+  "8482720": {
+    "playerId": 8482720,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8482720.png",
+    "height": 75,
+    "weight": 227,
+    "age": 22
+  },
+  "8482726": {
+    "playerId": 8482726,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482726.png",
+    "height": 78,
+    "weight": 201,
+    "age": 22
+  },
+  "8482730": {
+    "playerId": 8482730,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482730.png",
+    "height": 74,
+    "weight": 200,
+    "age": 22
+  },
+  "8482737": {
+    "playerId": 8482737,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8482737.png",
+    "height": 72,
+    "weight": 187,
+    "age": 22
+  },
+  "8482740": {
+    "playerId": 8482740,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8482740.png",
+    "height": 73,
+    "weight": 185,
+    "age": 22
+  },
+  "8482742": {
+    "playerId": 8482742,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482742.png",
+    "height": 71,
+    "weight": 197,
+    "age": 22
+  },
+  "8482745": {
+    "playerId": 8482745,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8482745.png",
+    "height": 73,
+    "weight": 219,
+    "age": 22
+  },
+  "8484801": {
+    "playerId": 8484801,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8484801.png",
+    "height": 72,
+    "weight": 190,
+    "age": 19
+  },
+  "8474563": {
+    "playerId": 8474563,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8474563.png",
+    "height": 73,
+    "weight": 210,
+    "age": 35
+  },
+  "8474564": {
+    "playerId": 8474564,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8474564.png",
+    "height": 73,
+    "weight": 193,
+    "age": 35
+  },
+  "8474565": {
+    "playerId": 8474565,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8474565.png",
+    "height": 75,
+    "weight": 215,
+    "age": 35
+  },
+  "8474567": {
+    "playerId": 8474567,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8474567.png",
+    "height": 75,
+    "weight": 231,
+    "age": 35
+  },
+  "8474568": {
+    "playerId": 8474568,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8474568.png",
+    "height": 74,
+    "weight": 225,
+    "age": 35
+  },
+  "8482762": {
+    "playerId": 8482762,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8482762.png",
+    "height": 78,
+    "weight": 209,
+    "age": 22
+  },
+  "8474574": {
+    "playerId": 8474574,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8474574.png",
+    "height": 80,
+    "weight": 229,
+    "age": 35
+  },
+  "8482768": {
+    "playerId": 8482768,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482768.png",
+    "height": 72,
+    "weight": 187,
+    "age": 22
+  },
+  "8476624": {
+    "playerId": 8476624,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8476624.png",
+    "height": 74,
+    "weight": 209,
+    "age": 32
+  },
+  "8474578": {
+    "playerId": 8474578,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8474578.png",
+    "height": 72,
+    "weight": 186,
+    "age": 35
+  },
+  "8480727": {
+    "playerId": 8480727,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8480727.png",
+    "height": 74,
+    "weight": 210,
+    "age": 28
+  },
+  "8474586": {
+    "playerId": 8474586,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8474586.png",
+    "height": 71,
+    "weight": 180,
+    "age": 35
+  },
+  "8474590": {
+    "playerId": 8474590,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8474590.png",
+    "height": 75,
+    "weight": 220,
+    "age": 35
+  },
+  "8474600": {
+    "playerId": 8474600,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8474600.png",
+    "height": 73,
+    "weight": 201,
+    "age": 35
+  },
+  "8474602": {
+    "playerId": 8474602,
+    "active": false,
+    "image": "https://assets.nhle.com/mugs/nhl/latest/8474602.png",
+    "height": 74,
+    "weight": 190,
+    "age": 35
+  },
+  "8480748": {
+    "playerId": 8480748,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480748.png",
+    "height": 72,
+    "weight": 194,
+    "age": 30
+  },
+  "8482803": {
+    "playerId": 8482803,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8482803.png",
+    "height": 70,
+    "weight": 187,
+    "age": 22
+  },
+  "8474612": {
+    "playerId": 8474612,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8474612.png",
+    "height": 72,
+    "weight": 195,
+    "age": 35
+  },
+  "8482809": {
+    "playerId": 8482809,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482809.png",
+    "height": 71,
+    "weight": 178,
+    "age": 22
+  },
+  "8480762": {
+    "playerId": 8480762,
+    "active": true,
+    "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480762.png",
+    "height": 74,
+    "weight": 211,
+    "age": 30
+  }
+}

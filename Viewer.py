@@ -1,10 +1,12 @@
 import streamlit as st
 import pandas as pd
 
+from DataManager import DataManager
+
+
 st.title("📊 Interactive Data Viewer")
 
-# --- Load Data ---
-uploaded_file = st.sidebar.file_uploader("Upload a CSV or Excel file", type=["csv", "xlsx"])
+showing_type = "Ratios"
 
 def detect_encoding(file):
     import chardet

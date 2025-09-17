@@ -1,6 +1,9 @@
 {
   "8474641": {
     "playerId": 8474641,
+    "name": "Adam Henrique",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8474641.png",
     "height": 72,
@@ -9,6 +12,9 @@
   },
   "8480789": {
     "playerId": 8480789,
+    "name": "Oliver Wahlstrom",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8480789.png",
     "height": 74,
@@ -17,6 +23,9 @@
   },
   "8480796": {
     "playerId": 8480796,
+    "name": "Martin Feh\u00e9rv\u00e1ry",
+    "team": "WSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480796.png",
     "height": 74,
@@ -25,6 +34,9 @@
   },
   "8480797": {
     "playerId": 8480797,
+    "name": "Joel Farabee",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8480797.png",
     "height": 72,
@@ -33,6 +45,9 @@
   },
   "8480798": {
     "playerId": 8480798,
+    "name": "Philipp Kurashev",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8480798.png",
     "height": 72,
@@ -41,6 +56,9 @@
   },
   "8480800": {
     "playerId": 8480800,
+    "name": "Quinn Hughes",
+    "team": "VAN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480800.png",
     "height": 70,
@@ -49,6 +67,9 @@
   },
   "8480801": {
     "playerId": 8480801,
+    "name": "Brady Tkachuk",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480801.png",
     "height": 76,
@@ -57,6 +78,9 @@
   },
   "8480802": {
     "playerId": 8480802,
+    "name": "Ryan McLeod",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480802.png",
     "height": 75,
@@ -65,6 +89,9 @@
   },
   "8480803": {
     "playerId": 8480803,
+    "name": "Evan Bouchard",
+    "team": "EDM",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8480803.png",
     "height": 75,
@@ -73,6 +100,9 @@
   },
   "8480806": {
     "playerId": 8480806,
+    "name": "Isac Lundestrom",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8480806.png",
     "height": 72,
@@ -81,6 +111,9 @@
   },
   "8480807": {
     "playerId": 8480807,
+    "name": "Mattias Samuelsson",
+    "team": "BUF",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480807.png",
     "height": 76,
@@ -89,6 +122,9 @@
   },
   "8482858": {
     "playerId": 8482858,
+    "name": "Ryker Evans",
+    "team": "SEA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8482858.png",
     "height": 72,
@@ -97,6 +133,9 @@
   },
   "8482859": {
     "playerId": 8482859,
+    "name": "Zack Ostapchuk",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8482859.png",
     "height": 76,
@@ -105,6 +144,9 @@
   },
   "8480813": {
     "playerId": 8480813,
+    "name": "Joe Veleno",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8480813.png",
     "height": 73,
@@ -113,6 +155,9 @@
   },
   "8484911": {
     "playerId": 8484911,
+    "name": "Collin Graf",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8484911.png",
     "height": 73,
@@ -121,6 +166,9 @@
   },
   "8480817": {
     "playerId": 8480817,
+    "name": "K'Andre Miller",
+    "team": "CAR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480817.png",
     "height": 77,
@@ -129,6 +177,9 @@
   },
   "8474673": {
     "playerId": 8474673,
+    "name": "TJ Brodie",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474673.png",
     "height": 74,
@@ -137,6 +188,9 @@
   },
   "8480821": {
     "playerId": 8480821,
+    "name": "Filip Zadina",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8480821.png",
     "height": 72,
@@ -145,6 +199,9 @@
   },
   "8474679": {
     "playerId": 8474679,
+    "name": "Gustav Nyquist",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8474679.png",
     "height": 71,
@@ -153,6 +210,9 @@
   },
   "8480823": {
     "playerId": 8480823,
+    "name": "Alexander Alexeyev",
+    "team": "PIT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8480823.png",
     "height": 76,
@@ -161,6 +221,9 @@
   },
   "8480829": {
     "playerId": 8480829,
+    "name": "Jesperi Kotkaniemi",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480829.png",
     "height": 75,
@@ -169,6 +232,9 @@
   },
   "8480830": {
     "playerId": 8480830,
+    "name": "Andrei Svechnikov",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480830.png",
     "height": 75,
@@ -177,6 +243,9 @@
   },
   "8480834": {
     "playerId": 8480834,
+    "name": "Ty Emberson",
+    "team": "EDM",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8480834.png",
     "height": 74,
@@ -185,6 +254,9 @@
   },
   "8480835": {
     "playerId": 8480835,
+    "name": "Jack Drury",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480835.png",
     "height": 71,
@@ -193,6 +265,9 @@
   },
   "8480839": {
     "playerId": 8480839,
+    "name": "Rasmus Dahlin",
+    "team": "BUF",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480839.png",
     "height": 75,
@@ -201,6 +276,9 @@
   },
   "8480840": {
     "playerId": 8480840,
+    "name": "Oskar B\u00e4ck",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480840.png",
     "height": 76,
@@ -209,6 +287,9 @@
   },
   "8470600": {
     "playerId": 8470600,
+    "name": "Ryan Suter",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8470600.png",
     "height": 73,
@@ -217,6 +298,9 @@
   },
   "8470604": {
     "playerId": 8470604,
+    "name": "Jeff Carter",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8470604.png",
     "height": 75,
@@ -225,6 +309,9 @@
   },
   "8480845": {
     "playerId": 8480845,
+    "name": "Rasmus Kupari",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480845.png",
     "height": 74,
@@ -233,6 +320,9 @@
   },
   "8480848": {
     "playerId": 8480848,
+    "name": "Ty Dellandrea",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8480848.png",
     "height": 74,
@@ -241,6 +331,9 @@
   },
   "8480849": {
     "playerId": 8480849,
+    "name": "Barrett Hayton",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8480849.png",
     "height": 73,
@@ -249,6 +342,9 @@
   },
   "8470610": {
     "playerId": 8470610,
+    "name": "Zach Parise",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8470610.png",
     "height": 71,
@@ -257,6 +353,9 @@
   },
   "8470613": {
     "playerId": 8470613,
+    "name": "Brent Burns",
+    "team": "COL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8470613.png",
     "height": 77,
@@ -265,6 +364,9 @@
   },
   "8474709": {
     "playerId": 8474709,
+    "name": "Matt Martin",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474709.png",
     "height": 75,
@@ -273,6 +375,9 @@
   },
   "8480855": {
     "playerId": 8480855,
+    "name": "Jack McBain",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8480855.png",
     "height": 76,
@@ -281,6 +386,9 @@
   },
   "8474715": {
     "playerId": 8474715,
+    "name": "Cam Atkinson",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474715.png",
     "height": 68,
@@ -289,6 +397,9 @@
   },
   "8474716": {
     "playerId": 8474716,
+    "name": "Jared Spurgeon",
+    "team": "MIN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8474716.png",
     "height": 69,
@@ -297,6 +408,9 @@
   },
   "8470621": {
     "playerId": 8470621,
+    "name": "Corey Perry",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8470621.png",
     "height": 75,
@@ -305,6 +419,9 @@
   },
   "8480860": {
     "playerId": 8480860,
+    "name": "Kevin Bahl",
+    "team": "CGY",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8480860.png",
     "height": 78,
@@ -313,6 +430,9 @@
   },
   "8484958": {
     "playerId": 8484958,
+    "name": "Maxim Tsyplakov",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8484958.png",
     "height": 75,
@@ -321,6 +441,9 @@
   },
   "8480865": {
     "playerId": 8480865,
+    "name": "Noah Dobson",
+    "team": "MTL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8480865.png",
     "height": 76,
@@ -329,6 +452,9 @@
   },
   "8480870": {
     "playerId": 8480870,
+    "name": "Bo Groulx",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8480870.png",
     "height": 74,
@@ -337,6 +463,9 @@
   },
   "8480871": {
     "playerId": 8480871,
+    "name": "Adam Boqvist",
+    "team": "NYI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8480871.png",
     "height": 72,
@@ -345,6 +474,9 @@
   },
   "8480873": {
     "playerId": 8480873,
+    "name": "Rasmus Sandin",
+    "team": "WSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480873.png",
     "height": 71,
@@ -353,6 +485,9 @@
   },
   "8480878": {
     "playerId": 8480878,
+    "name": "Nils Lundkvist",
+    "team": "DAL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480878.png",
     "height": 73,
@@ -361,6 +496,9 @@
   },
   "8478831": {
     "playerId": 8478831,
+    "name": "Kevin Stenlund",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8478831.png",
     "height": 75,
@@ -369,6 +507,9 @@
   },
   "8480880": {
     "playerId": 8480880,
+    "name": "Jakub Lauko",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8480880.png",
     "height": 73,
@@ -377,6 +518,9 @@
   },
   "8482929": {
     "playerId": 8482929,
+    "name": "Emil Lilleberg",
+    "team": "TBL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8482929.png",
     "height": 75,
@@ -385,6 +529,9 @@
   },
   "8480879": {
     "playerId": 8480879,
+    "name": "Jacob Bernard-Docker",
+    "team": "DET",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8480879.png",
     "height": 73,
@@ -393,6 +540,9 @@
   },
   "8480884": {
     "playerId": 8480884,
+    "name": "Calen Addison",
+    "team": "NJD",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8480884.png",
     "height": 71,
@@ -401,6 +551,9 @@
   },
   "8480887": {
     "playerId": 8480887,
+    "name": "Jordan Harris",
+    "team": "BOS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8480887.png",
     "height": 71,
@@ -409,6 +562,9 @@
   },
   "8478840": {
     "playerId": 8478840,
+    "name": "Will Borgen",
+    "team": "NYR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8478840.png",
     "height": 75,
@@ -417,6 +573,9 @@
   },
   "8476792": {
     "playerId": 8476792,
+    "name": "Torey Krug",
+    "team": "STL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8476792.png",
     "height": 69,
@@ -425,6 +584,9 @@
   },
   "8480891": {
     "playerId": 8480891,
+    "name": "Michael Kesselring",
+    "team": "BUF",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480891.png",
     "height": 77,
@@ -433,6 +595,9 @@
   },
   "8480893": {
     "playerId": 8480893,
+    "name": "Kirill Marchenko",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8480893.png",
     "height": 75,
@@ -441,6 +606,9 @@
   },
   "8478851": {
     "playerId": 8478851,
+    "name": "Alexandre Carrier",
+    "team": "MTL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8478851.png",
     "height": 71,
@@ -449,6 +617,9 @@
   },
   "8479546": {
     "playerId": 8479546,
+    "name": "Oskar Steen",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8479546.png",
     "height": 70,
@@ -457,6 +628,9 @@
   },
   "8478854": {
     "playerId": 8478854,
+    "name": "Ryan Shea",
+    "team": "PIT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478854.png",
     "height": 73,
@@ -465,6 +639,9 @@
   },
   "8478856": {
     "playerId": 8478856,
+    "name": "Conor Garland",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8478856.png",
     "height": 70,
@@ -473,6 +650,9 @@
   },
   "8478859": {
     "playerId": 8478859,
+    "name": "Niko Mikkola",
+    "team": "FLA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478859.png",
     "height": 78,
@@ -481,6 +661,9 @@
   },
   "8478864": {
     "playerId": 8478864,
+    "name": "Kirill Kaprizov",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478864.png",
     "height": 70,
@@ -489,6 +672,9 @@
   },
   "8482964": {
     "playerId": 8482964,
+    "name": "Arber Xhekaj",
+    "team": "MTL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8482964.png",
     "height": 76,
@@ -497,6 +683,9 @@
   },
   "8476822": {
     "playerId": 8476822,
+    "name": "Luke Glendening",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8476822.png",
     "height": 71,
@@ -505,6 +694,9 @@
   },
   "8478873": {
     "playerId": 8478873,
+    "name": "Troy Terry",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8478873.png",
     "height": 72,
@@ -513,6 +705,9 @@
   },
   "8478874": {
     "playerId": 8478874,
+    "name": "Adam Gaudette",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8478874.png",
     "height": 73,
@@ -521,6 +716,9 @@
   },
   "8476826": {
     "playerId": 8476826,
+    "name": "Yanni Gourde",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8476826.png",
     "height": 69,
@@ -529,6 +727,9 @@
   },
   "8478882": {
     "playerId": 8478882,
+    "name": "Vladislav Gavrikov",
+    "team": "NYR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8478882.png",
     "height": 75,
@@ -537,6 +738,9 @@
   },
   "8478891": {
     "playerId": 8478891,
+    "name": "Mason Appleton",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8478891.png",
     "height": 74,
@@ -545,6 +749,9 @@
   },
   "8476853": {
     "playerId": 8476853,
+    "name": "Morgan Rielly",
+    "team": "TOR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476853.png",
     "height": 73,
@@ -553,6 +760,9 @@
   },
   "8480950": {
     "playerId": 8480950,
+    "name": "Ilya Lyubushkin",
+    "team": "DAL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480950.png",
     "height": 74,
@@ -561,6 +771,9 @@
   },
   "8476854": {
     "playerId": 8476854,
+    "name": "Hampus Lindholm",
+    "team": "BOS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8476854.png",
     "height": 76,
@@ -569,6 +782,9 @@
   },
   "8478904": {
     "playerId": 8478904,
+    "name": "Steven Lorentz",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478904.png",
     "height": 76,
@@ -577,6 +793,9 @@
   },
   "8476856": {
     "playerId": 8476856,
+    "name": "Mathew Dumba",
+    "team": "PIT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8476856.png",
     "height": 73,
@@ -585,6 +804,9 @@
   },
   "8476858": {
     "playerId": 8476858,
+    "name": "Phillip Di Giuseppe",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476858.png",
     "height": 72,
@@ -593,6 +815,9 @@
   },
   "8478911": {
     "playerId": 8478911,
+    "name": "Matt Roy",
+    "team": "WSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8478911.png",
     "height": 74,
@@ -601,6 +826,9 @@
   },
   "8476869": {
     "playerId": 8476869,
+    "name": "Brady Skjei",
+    "team": "NSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8476869.png",
     "height": 75,
@@ -609,6 +837,9 @@
   },
   "8476871": {
     "playerId": 8476871,
+    "name": "Tanner Pearson",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476871.png",
     "height": 73,
@@ -617,6 +848,9 @@
   },
   "8476872": {
     "playerId": 8476872,
+    "name": "Scott Laughton",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476872.png",
     "height": 73,
@@ -625,6 +859,9 @@
   },
   "8476873": {
     "playerId": 8476873,
+    "name": "Mark Jankowski",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476873.png",
     "height": 76,
@@ -633,6 +870,9 @@
   },
   "8476874": {
     "playerId": 8476874,
+    "name": "Olli M\u00e4\u00e4tt\u00e4",
+    "team": "UTA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8476874.png",
     "height": 74,
@@ -641,6 +881,9 @@
   },
   "8476875": {
     "playerId": 8476875,
+    "name": "Mike Matheson",
+    "team": "MTL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8476875.png",
     "height": 74,
@@ -649,6 +892,9 @@
   },
   "8476878": {
     "playerId": 8476878,
+    "name": "Zemgus Girgensons",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8476878.png",
     "height": 75,
@@ -657,6 +903,9 @@
   },
   "8476879": {
     "playerId": 8476879,
+    "name": "Cody Ceci",
+    "team": "LAK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476879.png",
     "height": 75,
@@ -665,6 +914,9 @@
   },
   "8476880": {
     "playerId": 8476880,
+    "name": "Tom Wilson",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8476880.png",
     "height": 76,
@@ -673,6 +925,9 @@
   },
   "8476881": {
     "playerId": 8476881,
+    "name": "Tomas Hertl",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476881.png",
     "height": 75,
@@ -681,6 +936,9 @@
   },
   "8476882": {
     "playerId": 8476882,
+    "name": "Teuvo Teravainen",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8476882.png",
     "height": 71,
@@ -689,6 +947,9 @@
   },
   "8480980": {
     "playerId": 8480980,
+    "name": "Connor Dewar",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8480980.png",
     "height": 70,
@@ -697,6 +958,9 @@
   },
   "8476885": {
     "playerId": 8476885,
+    "name": "Jacob Trouba",
+    "team": "ANA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8476885.png",
     "height": 75,
@@ -705,6 +969,9 @@
   },
   "8476887": {
     "playerId": 8476887,
+    "name": "Filip Forsberg",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8476887.png",
     "height": 73,
@@ -713,6 +980,9 @@
   },
   "8476889": {
     "playerId": 8476889,
+    "name": "Radek Faksa",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8476889.png",
     "height": 75,
@@ -721,6 +991,9 @@
   },
   "8476891": {
     "playerId": 8476891,
+    "name": "Matt Grzelcyk",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8476891.png",
     "height": 70,
@@ -729,6 +1002,9 @@
   },
   "8476892": {
     "playerId": 8476892,
+    "name": "Colton Parayko",
+    "team": "STL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8476892.png",
     "height": 78,
@@ -737,6 +1013,9 @@
   },
   "8480990": {
     "playerId": 8480990,
+    "name": "Declan Chisholm",
+    "team": "WSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480990.png",
     "height": 73,
@@ -745,6 +1024,9 @@
   },
   "8476897": {
     "playerId": 8476897,
+    "name": "Oskar Sundqvist",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8476897.png",
     "height": 75,
@@ -753,6 +1035,9 @@
   },
   "8480995": {
     "playerId": 8480995,
+    "name": "Pontus Holmberg",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8480995.png",
     "height": 72,
@@ -761,6 +1046,9 @@
   },
   "8476902": {
     "playerId": 8476902,
+    "name": "Esa Lindell",
+    "team": "DAL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8476902.png",
     "height": 75,
@@ -769,6 +1057,9 @@
   },
   "8476905": {
     "playerId": 8476905,
+    "name": "Chandler Stephenson",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8476905.png",
     "height": 72,
@@ -777,6 +1068,9 @@
   },
   "8476906": {
     "playerId": 8476906,
+    "name": "Shayne Gostisbehere",
+    "team": "CAR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476906.png",
     "height": 71,
@@ -785,6 +1079,9 @@
   },
   "8481006": {
     "playerId": 8481006,
+    "name": "Tyler Tucker",
+    "team": "STL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8481006.png",
     "height": 73,
@@ -793,6 +1090,9 @@
   },
   "8476913": {
     "playerId": 8476913,
+    "name": "Devin Shore",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8476913.png",
     "height": 73,
@@ -801,6 +1101,9 @@
   },
   "8481013": {
     "playerId": 8481013,
+    "name": "Jonatan Berggren",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8481013.png",
     "height": 71,
@@ -809,6 +1112,9 @@
   },
   "8476918": {
     "playerId": 8476918,
+    "name": "Jimmy Vesey",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8476918.png",
     "height": 74,
@@ -817,6 +1123,9 @@
   },
   "8476917": {
     "playerId": 8476917,
+    "name": "Adam Pelech",
+    "team": "NYI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8476917.png",
     "height": 75,
@@ -825,6 +1134,9 @@
   },
   "8481014": {
     "playerId": 8481014,
+    "name": "Alexander Romanov",
+    "team": "NYI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8481014.png",
     "height": 73,
@@ -833,6 +1145,9 @@
   },
   "8476921": {
     "playerId": 8476921,
+    "name": "Jordan Martinook",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476921.png",
     "height": 73,
@@ -841,6 +1156,9 @@
   },
   "8478970": {
     "playerId": 8478970,
+    "name": "Jalen Chatfield",
+    "team": "CAR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8478970.png",
     "height": 73,
@@ -849,6 +1167,9 @@
   },
   "8481019": {
     "playerId": 8481019,
+    "name": "David Gustafsson",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8481019.png",
     "height": 74,
@@ -857,6 +1178,9 @@
   },
   "8476923": {
     "playerId": 8476923,
+    "name": "Damon Severson",
+    "team": "CBJ",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8476923.png",
     "height": 74,
@@ -865,6 +1189,9 @@
   },
   "8476925": {
     "playerId": 8476925,
+    "name": "Colton Sissons",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476925.png",
     "height": 73,
@@ -873,6 +1200,9 @@
   },
   "8476919": {
     "playerId": 8476919,
+    "name": "Chris Tierney",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8476919.png",
     "height": 73,
@@ -881,6 +1211,9 @@
   },
   "8478975": {
     "playerId": 8478975,
+    "name": "Mason Marchment",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8478975.png",
     "height": 77,
@@ -889,6 +1222,9 @@
   },
   "8476927": {
     "playerId": 8476927,
+    "name": "Teddy Blueger",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8476927.png",
     "height": 72,
@@ -897,6 +1233,9 @@
   },
   "8476931": {
     "playerId": 8476931,
+    "name": "Jake McCabe",
+    "team": "TOR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476931.png",
     "height": 73,
@@ -905,6 +1244,9 @@
   },
   "8481028": {
     "playerId": 8481028,
+    "name": "Martin Pospisil",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8481028.png",
     "height": 74,
@@ -913,6 +1255,9 @@
   },
   "8474884": {
     "playerId": 8474884,
+    "name": "Mike Hoffman",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474884.png",
     "height": 72,
@@ -921,6 +1266,9 @@
   },
   "8481032": {
     "playerId": 8481032,
+    "name": "Paul Cotter",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8481032.png",
     "height": 74,
@@ -929,6 +1277,9 @@
   },
   "8470794": {
     "playerId": 8470794,
+    "name": "Joe Pavelski",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8470794.png",
     "height": 73,
@@ -937,6 +1288,9 @@
   },
   "8481043": {
     "playerId": 8481043,
+    "name": "Cole Koepke",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8481043.png",
     "height": 73,
@@ -945,6 +1299,9 @@
   },
   "8476958": {
     "playerId": 8476958,
+    "name": "Jaccob Slavin",
+    "team": "CAR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476958.png",
     "height": 75,
@@ -953,6 +1310,9 @@
   },
   "8481058": {
     "playerId": 8481058,
+    "name": "Jesse Ylonen",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8481058.png",
     "height": 74,
@@ -961,6 +1321,9 @@
   },
   "8481059": {
     "playerId": 8481059,
+    "name": "Scott Perunovich",
+    "team": "UTA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8481059.png",
     "height": 70,
@@ -969,6 +1332,9 @@
   },
   "8476967": {
     "playerId": 8476967,
+    "name": "Brett Kulak",
+    "team": "EDM",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8476967.png",
     "height": 74,
@@ -977,6 +1343,9 @@
   },
   "8481068": {
     "playerId": 8481068,
+    "name": "Yegor Sharangovich",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8481068.png",
     "height": 74,
@@ -985,6 +1354,9 @@
   },
   "8479026": {
     "playerId": 8479026,
+    "name": "Philippe Myers",
+    "team": "TOR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479026.png",
     "height": 77,
@@ -993,6 +1365,9 @@
   },
   "8476979": {
     "playerId": 8476979,
+    "name": "Erik Gustafsson",
+    "team": "DET",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8476979.png",
     "height": 73,
@@ -1001,6 +1376,9 @@
   },
   "8476981": {
     "playerId": 8476981,
+    "name": "Josh Anderson",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8476981.png",
     "height": 75,
@@ -1009,6 +1387,9 @@
   },
   "8481093": {
     "playerId": 8481093,
+    "name": "Rafael Harvey-Pinard",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481093.png",
     "height": 69,
@@ -1017,6 +1398,9 @@
   },
   "8477015": {
     "playerId": 8477015,
+    "name": "Connor Brown",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8477015.png",
     "height": 72,
@@ -1025,6 +1409,9 @@
   },
   "8479066": {
     "playerId": 8479066,
+    "name": "Ryan Lomberg",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8479066.png",
     "height": 69,
@@ -1033,6 +1420,9 @@
   },
   "8477018": {
     "playerId": 8477018,
+    "name": "Ben Hutton",
+    "team": "VGK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477018.png",
     "height": 75,
@@ -1041,6 +1431,9 @@
   },
   "8477021": {
     "playerId": 8477021,
+    "name": "Alexander Kerfoot",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8477021.png",
     "height": 71,
@@ -1049,6 +1442,9 @@
   },
   "8481122": {
     "playerId": 8481122,
+    "name": "Simon Benoit",
+    "team": "TOR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481122.png",
     "height": 76,
@@ -1057,6 +1453,9 @@
   },
   "8477034": {
     "playerId": 8477034,
+    "name": "Jaycob Megna",
+    "team": "VGK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477034.png",
     "height": 78,
@@ -1065,6 +1464,9 @@
   },
   "8481147": {
     "playerId": 8481147,
+    "name": "Reese Johnson",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8481147.png",
     "height": 73,
@@ -1073,6 +1475,9 @@
   },
   "8481161": {
     "playerId": 8481161,
+    "name": "Jake Christiansen",
+    "team": "CBJ",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8481161.png",
     "height": 72,
@@ -1081,6 +1486,9 @@
   },
   "8481167": {
     "playerId": 8481167,
+    "name": "Brayden Pachal",
+    "team": "CGY",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8481167.png",
     "height": 74,
@@ -1089,6 +1497,9 @@
   },
   "8481178": {
     "playerId": 8481178,
+    "name": "Egor Zamula",
+    "team": "PHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8481178.png",
     "height": 75,
@@ -1097,6 +1508,9 @@
   },
   "8481186": {
     "playerId": 8481186,
+    "name": "Logan O'Connor",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8481186.png",
     "height": 72,
@@ -1105,6 +1519,9 @@
   },
   "8470966": {
     "playerId": 8470966,
+    "name": "Mark Giordano",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8470966.png",
     "height": 72,
@@ -1113,6 +1530,9 @@
   },
   "8481206": {
     "playerId": 8481206,
+    "name": "John Ludvig",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8481206.png",
     "height": 73,
@@ -1121,6 +1541,9 @@
   },
   "8481237": {
     "playerId": 8481237,
+    "name": "Kyle MacLean",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8481237.png",
     "height": 73,
@@ -1129,6 +1552,9 @@
   },
   "8475149": {
     "playerId": 8475149,
+    "name": "Marcus Johansson",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475149.png",
     "height": 73,
@@ -1137,6 +1563,9 @@
   },
   "8475151": {
     "playerId": 8475151,
+    "name": "Kyle Palmieri",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8475151.png",
     "height": 71,
@@ -1145,6 +1574,9 @@
   },
   "8475158": {
     "playerId": 8475158,
+    "name": "Ryan O'Reilly",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8475158.png",
     "height": 73,
@@ -1153,6 +1585,9 @@
   },
   "8475164": {
     "playerId": 8475164,
+    "name": "Jakob Silfverberg",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475164.png",
     "height": 73,
@@ -1161,6 +1596,9 @@
   },
   "8475166": {
     "playerId": 8475166,
+    "name": "John Tavares",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475166.png",
     "height": 73,
@@ -1169,6 +1607,9 @@
   },
   "8475167": {
     "playerId": 8475167,
+    "name": "Victor Hedman",
+    "team": "TBL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8475167.png",
     "height": 79,
@@ -1177,6 +1618,9 @@
   },
   "8475168": {
     "playerId": 8475168,
+    "name": "Matt Duchene",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8475168.png",
     "height": 71,
@@ -1185,6 +1629,9 @@
   },
   "8475169": {
     "playerId": 8475169,
+    "name": "Evander Kane",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8475169.png",
     "height": 74,
@@ -1193,6 +1640,9 @@
   },
   "8475170": {
     "playerId": 8475170,
+    "name": "Brayden Schenn",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8475170.png",
     "height": 73,
@@ -1201,6 +1651,9 @@
   },
   "8475171": {
     "playerId": 8475171,
+    "name": "Oliver Ekman-Larsson",
+    "team": "TOR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475171.png",
     "height": 74,
@@ -1209,6 +1662,9 @@
   },
   "8477220": {
     "playerId": 8477220,
+    "name": "Nate Schmidt",
+    "team": "UTA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8477220.png",
     "height": 72,
@@ -1217,6 +1673,9 @@
   },
   "8475172": {
     "playerId": 8475172,
+    "name": "Nazem Kadri",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8475172.png",
     "height": 72,
@@ -1225,6 +1684,9 @@
   },
   "8475177": {
     "playerId": 8475177,
+    "name": "Calvin de Haan",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475177.png",
     "height": 73,
@@ -1233,6 +1695,9 @@
   },
   "8475179": {
     "playerId": 8475179,
+    "name": "Dmitry Kulikov",
+    "team": "FLA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8475179.png",
     "height": 73,
@@ -1241,6 +1706,9 @@
   },
   "8475181": {
     "playerId": 8475181,
+    "name": "Nick Leddy",
+    "team": "SJS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8475181.png",
     "height": 72,
@@ -1249,6 +1717,9 @@
   },
   "8475184": {
     "playerId": 8475184,
+    "name": "Chris Kreider",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8475184.png",
     "height": 75,
@@ -1257,6 +1728,9 @@
   },
   "8475188": {
     "playerId": 8475188,
+    "name": "Brayden McNabb",
+    "team": "VGK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475188.png",
     "height": 76,
@@ -1265,6 +1739,9 @@
   },
   "8475191": {
     "playerId": 8475191,
+    "name": "Reilly Smith",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475191.png",
     "height": 73,
@@ -1273,6 +1750,9 @@
   },
   "8475193": {
     "playerId": 8475193,
+    "name": "Tomas Tatar",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475193.png",
     "height": 70,
@@ -1281,6 +1761,9 @@
   },
   "8479291": {
     "playerId": 8479291,
+    "name": "Kevin Rooney",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8479291.png",
     "height": 74,
@@ -1289,6 +1772,9 @@
   },
   "8477244": {
     "playerId": 8477244,
+    "name": "Chad Ruhwedel",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8477244.png",
     "height": 71,
@@ -1297,6 +1783,9 @@
   },
   "8479293": {
     "playerId": 8479293,
+    "name": "Brandon Tanev",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479293.png",
     "height": 72,
@@ -1305,6 +1794,9 @@
   },
   "8475197": {
     "playerId": 8475197,
+    "name": "Tyson Barrie",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475197.png",
     "height": 71,
@@ -1313,6 +1805,9 @@
   },
   "8475200": {
     "playerId": 8475200,
+    "name": "Dmitry Orlov",
+    "team": "SJS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8475200.png",
     "height": 71,
@@ -1321,6 +1816,9 @@
   },
   "8475208": {
     "playerId": 8475208,
+    "name": "Brian Dumoulin",
+    "team": "LAK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8475208.png",
     "height": 76,
@@ -1329,6 +1827,9 @@
   },
   "8475218": {
     "playerId": 8475218,
+    "name": "Mattias Ekholm",
+    "team": "EDM",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8475218.png",
     "height": 77,
@@ -1337,6 +1838,9 @@
   },
   "8479314": {
     "playerId": 8479314,
+    "name": "Matthew Tkachuk",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479314.png",
     "height": 74,
@@ -1345,6 +1849,9 @@
   },
   "8475220": {
     "playerId": 8475220,
+    "name": "Marcus Foligno",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475220.png",
     "height": 75,
@@ -1353,6 +1860,9 @@
   },
   "8479316": {
     "playerId": 8479316,
+    "name": "Luke Kunin",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479316.png",
     "height": 72,
@@ -1361,14 +1871,20 @@
   },
   "8479318": {
     "playerId": 8479318,
+    "name": "Auston Matthews",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479318.png",
     "height": 75,
     "weight": 217,
-    "age": 27
+    "age": 28
   },
   "8479315": {
     "playerId": 8479315,
+    "name": "Joey Anderson",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8479315.png",
     "height": 72,
@@ -1377,6 +1893,9 @@
   },
   "8475225": {
     "playerId": 8475225,
+    "name": "Craig Smith",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475225.png",
     "height": 73,
@@ -1385,6 +1904,9 @@
   },
   "8479323": {
     "playerId": 8479323,
+    "name": "Adam Fox",
+    "team": "NYR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8479323.png",
     "height": 71,
@@ -1393,6 +1915,9 @@
   },
   "8479324": {
     "playerId": 8479324,
+    "name": "Ryan Lindgren",
+    "team": "SEA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8479324.png",
     "height": 72,
@@ -1401,6 +1926,9 @@
   },
   "8479325": {
     "playerId": 8479325,
+    "name": "Charlie McAvoy",
+    "team": "BOS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479325.png",
     "height": 73,
@@ -1409,6 +1937,9 @@
   },
   "8475231": {
     "playerId": 8475231,
+    "name": "Casey Cizikas",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8475231.png",
     "height": 71,
@@ -1417,6 +1948,9 @@
   },
   "8483425": {
     "playerId": 8483425,
+    "name": "Lian Bichsel",
+    "team": "DAL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8483425.png",
     "height": 79,
@@ -1425,6 +1959,9 @@
   },
   "8475233": {
     "playerId": 8475233,
+    "name": "David Savard",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475233.png",
     "height": 73,
@@ -1433,6 +1970,9 @@
   },
   "8475235": {
     "playerId": 8475235,
+    "name": "Nicolas Deslauriers",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8475235.png",
     "height": 73,
@@ -1441,6 +1981,9 @@
   },
   "8474618": {
     "playerId": 8474618,
+    "name": "Marco Scandella",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474618.png",
     "height": 75,
@@ -1449,6 +1992,9 @@
   },
   "8483431": {
     "playerId": 8483431,
+    "name": "Logan Cooley",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8483431.png",
     "height": 72,
@@ -1457,6 +2003,9 @@
   },
   "8479336": {
     "playerId": 8479336,
+    "name": "Carl Grundstrom",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8479336.png",
     "height": 72,
@@ -1465,6 +2014,9 @@
   },
   "8479337": {
     "playerId": 8479337,
+    "name": "Alex DeBrincat",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8479337.png",
     "height": 68,
@@ -1473,6 +2025,9 @@
   },
   "8479339": {
     "playerId": 8479339,
+    "name": "Patrik Laine",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8479339.png",
     "height": 76,
@@ -1481,6 +2036,9 @@
   },
   "8479343": {
     "playerId": 8479343,
+    "name": "Clayton Keller",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479343.png",
     "height": 70,
@@ -1489,6 +2047,9 @@
   },
   "8479345": {
     "playerId": 8479345,
+    "name": "Jakob Chychrun",
+    "team": "WSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479345.png",
     "height": 74,
@@ -1497,6 +2058,9 @@
   },
   "8479346": {
     "playerId": 8479346,
+    "name": "Dillon Dube",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8479346.png",
     "height": 71,
@@ -1505,6 +2069,9 @@
   },
   "8483445": {
     "playerId": 8483445,
+    "name": "Cutter Gauthier",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8483445.png",
     "height": 74,
@@ -1513,6 +2080,9 @@
   },
   "8479351": {
     "playerId": 8479351,
+    "name": "Sam Steel",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8479351.png",
     "height": 72,
@@ -1521,6 +2091,9 @@
   },
   "8483447": {
     "playerId": 8483447,
+    "name": "Conor Geekie",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8483447.png",
     "height": 76,
@@ -1529,6 +2102,9 @@
   },
   "8479353": {
     "playerId": 8479353,
+    "name": "Brett Howden",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8479353.png",
     "height": 74,
@@ -1537,6 +2113,9 @@
   },
   "8483448": {
     "playerId": 8483448,
+    "name": "Isaiah George",
+    "team": "NYI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8483448.png",
     "height": 73,
@@ -1545,6 +2124,9 @@
   },
   "8479359": {
     "playerId": 8479359,
+    "name": "Beck Malenstyn",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8479359.png",
     "height": 75,
@@ -1553,6 +2135,9 @@
   },
   "8483457": {
     "playerId": 8483457,
+    "name": "Lane Hutson",
+    "team": "MTL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8483457.png",
     "height": 69,
@@ -1561,6 +2146,9 @@
   },
   "8483460": {
     "playerId": 8483460,
+    "name": "David Jiricek",
+    "team": "MIN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8483460.png",
     "height": 76,
@@ -1569,6 +2157,9 @@
   },
   "8479365": {
     "playerId": 8479365,
+    "name": "Trent Frederic",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8479365.png",
     "height": 75,
@@ -1577,6 +2168,9 @@
   },
   "8483464": {
     "playerId": 8483464,
+    "name": "Marco Kasper",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8483464.png",
     "height": 73,
@@ -1585,6 +2179,9 @@
   },
   "8479369": {
     "playerId": 8479369,
+    "name": "Andrew Peeke",
+    "team": "BOS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479369.png",
     "height": 75,
@@ -1593,6 +2190,9 @@
   },
   "8479370": {
     "playerId": 8479370,
+    "name": "Tyson Jost",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8479370.png",
     "height": 71,
@@ -1601,6 +2201,9 @@
   },
   "8479371": {
     "playerId": 8479371,
+    "name": "Dante Fabbro",
+    "team": "CBJ",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8479371.png",
     "height": 72,
@@ -1609,6 +2212,9 @@
   },
   "8483468": {
     "playerId": 8483468,
+    "name": "Jiri Kulich",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8483468.png",
     "height": 73,
@@ -1617,6 +2223,9 @@
   },
   "8479372": {
     "playerId": 8479372,
+    "name": "Joshua Mahura",
+    "team": "SEA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8479372.png",
     "height": 72,
@@ -1625,6 +2234,9 @@
   },
   "8479368": {
     "playerId": 8479368,
+    "name": "Max Jones",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8479368.png",
     "height": 75,
@@ -1633,6 +2245,9 @@
   },
   "8475279": {
     "playerId": 8475279,
+    "name": "Ben Chiarot",
+    "team": "DET",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8475279.png",
     "height": 75,
@@ -1641,6 +2256,9 @@
   },
   "8483466": {
     "playerId": 8483466,
+    "name": "Kevin Korchinski",
+    "team": "CHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8483466.png",
     "height": 73,
@@ -1649,6 +2267,9 @@
   },
   "8481422": {
     "playerId": 8481422,
+    "name": "Jake Lucchini",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8481422.png",
     "height": 72,
@@ -1657,6 +2278,9 @@
   },
   "8479378": {
     "playerId": 8479378,
+    "name": "Logan Stanley",
+    "team": "WPG",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8479378.png",
     "height": 79,
@@ -1665,6 +2289,9 @@
   },
   "8477330": {
     "playerId": 8477330,
+    "name": "Dominik Kubalik",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8477330.png",
     "height": 74,
@@ -1673,6 +2300,9 @@
   },
   "8479379": {
     "playerId": 8479379,
+    "name": "Givani Smith",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8479379.png",
     "height": 74,
@@ -1681,6 +2311,9 @@
   },
   "8477335": {
     "playerId": 8477335,
+    "name": "Kyle Burroughs",
+    "team": "LAK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477335.png",
     "height": 72,
@@ -1689,6 +2322,9 @@
   },
   "8475287": {
     "playerId": 8475287,
+    "name": "Erik Haula",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8475287.png",
     "height": 71,
@@ -1697,6 +2333,9 @@
   },
   "8479385": {
     "playerId": 8479385,
+    "name": "Jordan Kyrou",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8479385.png",
     "height": 73,
@@ -1705,6 +2344,9 @@
   },
   "8479383": {
     "playerId": 8479383,
+    "name": "Boris Katchouk",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8479383.png",
     "height": 74,
@@ -1713,6 +2355,9 @@
   },
   "8479387": {
     "playerId": 8479387,
+    "name": "Keaton Middleton",
+    "team": "COL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479387.png",
     "height": 78,
@@ -1721,6 +2366,9 @@
   },
   "8483485": {
     "playerId": 8483485,
+    "name": "Denton Mateychuk",
+    "team": "CBJ",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8483485.png",
     "height": 71,
@@ -1729,6 +2377,9 @@
   },
   "8479390": {
     "playerId": 8479390,
+    "name": "Taylor Raddysh",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8479390.png",
     "height": 75,
@@ -1737,6 +2388,9 @@
   },
   "8479393": {
     "playerId": 8479393,
+    "name": "Noah Gregor",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8479393.png",
     "height": 72,
@@ -1745,6 +2399,9 @@
   },
   "8477346": {
     "playerId": 8477346,
+    "name": "MacKenzie Weegar",
+    "team": "CGY",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8477346.png",
     "height": 72,
@@ -1753,6 +2410,9 @@
   },
   "8479395": {
     "playerId": 8479395,
+    "name": "Dennis Cholowski",
+    "team": "NJD",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8479395.png",
     "height": 74,
@@ -1761,6 +2421,9 @@
   },
   "8483490": {
     "playerId": 8483490,
+    "name": "Pavel Mintyukov",
+    "team": "ANA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8483490.png",
     "height": 73,
@@ -1769,6 +2432,9 @@
   },
   "8483493": {
     "playerId": 8483493,
+    "name": "Frank Nazar",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8483493.png",
     "height": 70,
@@ -1777,6 +2443,9 @@
   },
   "8479398": {
     "playerId": 8479398,
+    "name": "Samuel Girard",
+    "team": "COL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479398.png",
     "height": 70,
@@ -1785,6 +2454,9 @@
   },
   "8483495": {
     "playerId": 8483495,
+    "name": "Simon Nemec",
+    "team": "NJD",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8483495.png",
     "height": 73,
@@ -1793,6 +2465,9 @@
   },
   "8479400": {
     "playerId": 8479400,
+    "name": "Pierre-Luc Dubois",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479400.png",
     "height": 76,
@@ -1801,6 +2476,9 @@
   },
   "8477353": {
     "playerId": 8477353,
+    "name": "Tyler Motte",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8477353.png",
     "height": 70,
@@ -1809,6 +2487,9 @@
   },
   "8479402": {
     "playerId": 8479402,
+    "name": "Jake Bean",
+    "team": "CGY",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8479402.png",
     "height": 73,
@@ -1817,6 +2498,9 @@
   },
   "8478021": {
     "playerId": 8478021,
+    "name": "William Lagesson",
+    "team": "DET",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8478021.png",
     "height": 74,
@@ -1825,14 +2509,20 @@
   },
   "8471214": {
     "playerId": 8471214,
+    "name": "Alex Ovechkin",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8471214.png",
     "height": 75,
     "weight": 238,
-    "age": 39
+    "age": 40
   },
   "8479407": {
     "playerId": 8479407,
+    "name": "Jesper Bratt",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8479407.png",
     "height": 70,
@@ -1841,6 +2531,9 @@
   },
   "8471215": {
     "playerId": 8471215,
+    "name": "Evgeni Malkin",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8471215.png",
     "height": 77,
@@ -1849,6 +2542,9 @@
   },
   "8483505": {
     "playerId": 8483505,
+    "name": "Matthew Poitras",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8483505.png",
     "height": 71,
@@ -1857,6 +2553,9 @@
   },
   "8479410": {
     "playerId": 8479410,
+    "name": "Mikhail Sergachev",
+    "team": "UTA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479410.png",
     "height": 75,
@@ -1865,6 +2564,9 @@
   },
   "8475314": {
     "playerId": 8475314,
+    "name": "Anders Lee",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8475314.png",
     "height": 75,
@@ -1873,6 +2575,9 @@
   },
   "8471218": {
     "playerId": 8471218,
+    "name": "Blake Wheeler",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8471218.png",
     "height": 77,
@@ -1881,6 +2586,9 @@
   },
   "8477365": {
     "playerId": 8477365,
+    "name": "Connor Clifton",
+    "team": "PIT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8477365.png",
     "height": 71,
@@ -1889,6 +2597,9 @@
   },
   "8479414": {
     "playerId": 8479414,
+    "name": "Nathan Bastian",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8479414.png",
     "height": 76,
@@ -1897,6 +2608,9 @@
   },
   "8479415": {
     "playerId": 8479415,
+    "name": "Michael McLeod",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8479415.png",
     "height": 74,
@@ -1905,6 +2619,9 @@
   },
   "8477369": {
     "playerId": 8477369,
+    "name": "Carson Soucy",
+    "team": "NYR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8477369.png",
     "height": 77,
@@ -1913,6 +2630,9 @@
   },
   "8483515": {
     "playerId": 8483515,
+    "name": "Juraj Slafkovsk\u00fd",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8483515.png",
     "height": 75,
@@ -1921,6 +2641,9 @@
   },
   "8475324": {
     "playerId": 8475324,
+    "name": "Nick Jensen",
+    "team": "OTT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8475324.png",
     "height": 72,
@@ -1929,6 +2652,9 @@
   },
   "8479421": {
     "playerId": 8479421,
+    "name": "Jacob Moverare",
+    "team": "LAK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8479421.png",
     "height": 75,
@@ -1937,6 +2663,9 @@
   },
   "8479420": {
     "playerId": 8479420,
+    "name": "Tage Thompson",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8479420.png",
     "height": 78,
@@ -1945,6 +2674,9 @@
   },
   "8479425": {
     "playerId": 8479425,
+    "name": "Filip Hronek",
+    "team": "VAN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8479425.png",
     "height": 72,
@@ -1953,6 +2685,9 @@
   },
   "8477380": {
     "playerId": 8477380,
+    "name": "Jonny Brodzinski",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8477380.png",
     "height": 72,
@@ -1961,6 +2696,9 @@
   },
   "8483524": {
     "playerId": 8483524,
+    "name": "Shane Wright",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8483524.png",
     "height": 72,
@@ -1969,6 +2707,9 @@
   },
   "8481477": {
     "playerId": 8481477,
+    "name": "Nico Sturm",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8481477.png",
     "height": 75,
@@ -1977,6 +2718,9 @@
   },
   "8481481": {
     "playerId": 8481481,
+    "name": "Blake Lizotte",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481481.png",
     "height": 69,
@@ -1985,6 +2729,9 @@
   },
   "8475343": {
     "playerId": 8475343,
+    "name": "Nic Dowd",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8475343.png",
     "height": 74,
@@ -1993,6 +2740,9 @@
   },
   "8477392": {
     "playerId": 8477392,
+    "name": "Hudson Fasching",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8477392.png",
     "height": 75,
@@ -2001,6 +2751,9 @@
   },
   "8479439": {
     "playerId": 8479439,
+    "name": "Jacob MacDonald",
+    "team": "COL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479439.png",
     "height": 72,
@@ -2009,6 +2762,9 @@
   },
   "8479442": {
     "playerId": 8479442,
+    "name": "Troy Stecher",
+    "team": "EDM",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8479442.png",
     "height": 70,
@@ -2017,6 +2773,9 @@
   },
   "8477402": {
     "playerId": 8477402,
+    "name": "Pavel Buchnevich",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8477402.png",
     "height": 73,
@@ -2025,6 +2784,9 @@
   },
   "8477404": {
     "playerId": 8477404,
+    "name": "Jake Guentzel",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477404.png",
     "height": 71,
@@ -2033,6 +2795,9 @@
   },
   "8477406": {
     "playerId": 8477406,
+    "name": "Mattias Janmark",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477406.png",
     "height": 74,
@@ -2041,6 +2806,9 @@
   },
   "8477407": {
     "playerId": 8477407,
+    "name": "Anthony Duclair",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477407.png",
     "height": 72,
@@ -2049,6 +2817,9 @@
   },
   "8477409": {
     "playerId": 8477409,
+    "name": "Carter Verhaeghe",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477409.png",
     "height": 74,
@@ -2057,6 +2828,9 @@
   },
   "8483553": {
     "playerId": 8483553,
+    "name": "Marc Gatcomb",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8483553.png",
     "height": 74,
@@ -2065,6 +2839,9 @@
   },
   "8479458": {
     "playerId": 8479458,
+    "name": "Nikita Zaitsev",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8479458.png",
     "height": 74,
@@ -2073,6 +2850,9 @@
   },
   "8477416": {
     "playerId": 8477416,
+    "name": "Oliver Bjorkstrand",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477416.png",
     "height": 72,
@@ -2081,6 +2861,9 @@
   },
   "8471274": {
     "playerId": 8471274,
+    "name": "Alex Goligoski",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8471274.png",
     "height": 71,
@@ -2089,6 +2872,9 @@
   },
   "8481517": {
     "playerId": 8481517,
+    "name": "Brett Leason",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8481517.png",
     "height": 77,
@@ -2097,6 +2883,9 @@
   },
   "8483565": {
     "playerId": 8483565,
+    "name": "Nick Blankenburg",
+    "team": "NSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8483565.png",
     "height": 69,
@@ -2105,6 +2894,9 @@
   },
   "8477425": {
     "playerId": 8477425,
+    "name": "Miles Wood",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8477425.png",
     "height": 74,
@@ -2113,6 +2905,9 @@
   },
   "8481522": {
     "playerId": 8481522,
+    "name": "Peyton Krebs",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481522.png",
     "height": 72,
@@ -2121,6 +2916,9 @@
   },
   "8477426": {
     "playerId": 8477426,
+    "name": "Nick Paul",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477426.png",
     "height": 76,
@@ -2129,6 +2927,9 @@
   },
   "8481524": {
     "playerId": 8481524,
+    "name": "Bowen Byram",
+    "team": "BUF",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481524.png",
     "height": 73,
@@ -2137,6 +2938,9 @@
   },
   "8481523": {
     "playerId": 8481523,
+    "name": "Kirby Dach",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481523.png",
     "height": 76,
@@ -2145,6 +2949,9 @@
   },
   "8477429": {
     "playerId": 8477429,
+    "name": "Andrew Copp",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8477429.png",
     "height": 73,
@@ -2153,6 +2960,9 @@
   },
   "8481527": {
     "playerId": 8481527,
+    "name": "Kaedan Korczak",
+    "team": "VGK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481527.png",
     "height": 75,
@@ -2161,6 +2971,9 @@
   },
   "8481528": {
     "playerId": 8481528,
+    "name": "Dylan Cozens",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481528.png",
     "height": 75,
@@ -2169,6 +2982,9 @@
   },
   "8477435": {
     "playerId": 8477435,
+    "name": "Ryan Graves",
+    "team": "PIT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8477435.png",
     "height": 77,
@@ -2177,6 +2993,9 @@
   },
   "8481532": {
     "playerId": 8481532,
+    "name": "Alex Turcotte",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8481532.png",
     "height": 71,
@@ -2185,6 +3004,9 @@
   },
   "8481533": {
     "playerId": 8481533,
+    "name": "Trevor Zegras",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8481533.png",
     "height": 72,
@@ -2193,6 +3015,9 @@
   },
   "8481535": {
     "playerId": 8481535,
+    "name": "Nils Hoglander",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8481535.png",
     "height": 69,
@@ -2201,6 +3026,9 @@
   },
   "8481537": {
     "playerId": 8481537,
+    "name": "Nikita Okhotiuk",
+    "team": "CGY",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8481537.png",
     "height": 73,
@@ -2209,6 +3037,9 @@
   },
   "8481540": {
     "playerId": 8481540,
+    "name": "Cole Caufield",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481540.png",
     "height": 68,
@@ -2217,6 +3048,9 @@
   },
   "8477444": {
     "playerId": 8477444,
+    "name": "Andre Burakovsky",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8477444.png",
     "height": 75,
@@ -2225,6 +3059,9 @@
   },
   "8481542": {
     "playerId": 8481542,
+    "name": "Moritz Seider",
+    "team": "DET",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8481542.png",
     "height": 75,
@@ -2233,6 +3070,9 @@
   },
   "8477447": {
     "playerId": 8477447,
+    "name": "Shea Theodore",
+    "team": "VGK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477447.png",
     "height": 74,
@@ -2241,6 +3081,9 @@
   },
   "8477446": {
     "playerId": 8477446,
+    "name": "Michael McCarron",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8477446.png",
     "height": 78,
@@ -2249,6 +3092,9 @@
   },
   "8477500": {
     "playerId": 8477500,
+    "name": "Bo Horvat",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477500.png",
     "height": 73,
@@ -2257,6 +3103,9 @@
   },
   "8481546": {
     "playerId": 8481546,
+    "name": "Cam York",
+    "team": "PHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8481546.png",
     "height": 72,
@@ -2265,6 +3114,9 @@
   },
   "8477451": {
     "playerId": 8477451,
+    "name": "Ryan Hartman",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8477451.png",
     "height": 72,
@@ -2273,6 +3125,9 @@
   },
   "8477450": {
     "playerId": 8477450,
+    "name": "Jason Dickinson",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8477450.png",
     "height": 74,
@@ -2281,6 +3136,9 @@
   },
   "8481541": {
     "playerId": 8481541,
+    "name": "Samuel Bolduc",
+    "team": "LAK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8481541.png",
     "height": 76,
@@ -2289,6 +3147,9 @@
   },
   "8477456": {
     "playerId": 8477456,
+    "name": "J.T. Compher",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8477456.png",
     "height": 72,
@@ -2297,6 +3158,9 @@
   },
   "8481553": {
     "playerId": 8481553,
+    "name": "Bobby Brink",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8481553.png",
     "height": 68,
@@ -2305,6 +3169,9 @@
   },
   "8481554": {
     "playerId": 8481554,
+    "name": "Kaapo Kakko",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8481554.png",
     "height": 73,
@@ -2313,6 +3180,9 @@
   },
   "8481556": {
     "playerId": 8481556,
+    "name": "John Beecher",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8481556.png",
     "height": 75,
@@ -2321,6 +3191,9 @@
   },
   "8481557": {
     "playerId": 8481557,
+    "name": "Matt Boldy",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8481557.png",
     "height": 74,
@@ -2329,6 +3202,9 @@
   },
   "8475413": {
     "playerId": 8475413,
+    "name": "Justin Dowling",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8475413.png",
     "height": 70,
@@ -2337,6 +3213,9 @@
   },
   "8481559": {
     "playerId": 8481559,
+    "name": "Jack Hughes",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8481559.png",
     "height": 71,
@@ -2345,6 +3224,9 @@
   },
   "8481560": {
     "playerId": 8481560,
+    "name": "Arthur Kaliyev",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481560.png",
     "height": 74,
@@ -2353,6 +3235,9 @@
   },
   "8483609": {
     "playerId": 8483609,
+    "name": "Adam Klapka",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8483609.png",
     "height": 80,
@@ -2361,6 +3246,9 @@
   },
   "8481563": {
     "playerId": 8481563,
+    "name": "Drew Helleson",
+    "team": "ANA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8481563.png",
     "height": 75,
@@ -2369,6 +3257,9 @@
   },
   "8481564": {
     "playerId": 8481564,
+    "name": "Ryan Johnson",
+    "team": "BUF",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481564.png",
     "height": 73,
@@ -2377,6 +3268,9 @@
   },
   "8481567": {
     "playerId": 8481567,
+    "name": "Henry Thrun",
+    "team": "TOR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481567.png",
     "height": 74,
@@ -2385,6 +3279,9 @@
   },
   "8479520": {
     "playerId": 8479520,
+    "name": "Brandon Duhaime",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479520.png",
     "height": 74,
@@ -2393,6 +3290,9 @@
   },
   "8481568": {
     "playerId": 8481568,
+    "name": "Alex Vlasic",
+    "team": "CHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8481568.png",
     "height": 78,
@@ -2401,6 +3301,9 @@
   },
   "8477473": {
     "playerId": 8477473,
+    "name": "Justin Bailey",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8477473.png",
     "height": 76,
@@ -2409,6 +3312,9 @@
   },
   "8477476": {
     "playerId": 8477476,
+    "name": "Artturi Lehkonen",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8477476.png",
     "height": 71,
@@ -2417,6 +3323,9 @@
   },
   "8479525": {
     "playerId": 8479525,
+    "name": "Ross Colton",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479525.png",
     "height": 72,
@@ -2425,6 +3334,9 @@
   },
   "8477478": {
     "playerId": 8477478,
+    "name": "William Carrier",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8477478.png",
     "height": 74,
@@ -2433,6 +3345,9 @@
   },
   "8477479": {
     "playerId": 8477479,
+    "name": "Tyler Bertuzzi",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8477479.png",
     "height": 74,
@@ -2441,6 +3356,9 @@
   },
   "8481577": {
     "playerId": 8481577,
+    "name": "Philip Tomasino",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481577.png",
     "height": 72,
@@ -2449,6 +3367,9 @@
   },
   "8481580": {
     "playerId": 8481580,
+    "name": "Connor McMichael",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8481580.png",
     "height": 72,
@@ -2457,6 +3378,9 @@
   },
   "8481581": {
     "playerId": 8481581,
+    "name": "Thomas Harley",
+    "team": "DAL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8481581.png",
     "height": 75,
@@ -2465,6 +3389,9 @@
   },
   "8481582": {
     "playerId": 8481582,
+    "name": "Nicholas Robertson",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481582.png",
     "height": 69,
@@ -2473,6 +3400,9 @@
   },
   "8479543": {
     "playerId": 8479543,
+    "name": "Michael Pezzetta",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479543.png",
     "height": 73,
@@ -2481,6 +3411,9 @@
   },
   "8477488": {
     "playerId": 8477488,
+    "name": "Brett Pesce",
+    "team": "NJD",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8477488.png",
     "height": 75,
@@ -2489,6 +3422,9 @@
   },
   "8477492": {
     "playerId": 8477492,
+    "name": "Nathan MacKinnon",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8477492.png",
     "height": 72,
@@ -2497,6 +3433,9 @@
   },
   "8477493": {
     "playerId": 8477493,
+    "name": "Aleksander Barkov",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477493.png",
     "height": 75,
@@ -2505,6 +3444,9 @@
   },
   "8479542": {
     "playerId": 8479542,
+    "name": "Brandon Hagel",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8479542.png",
     "height": 74,
@@ -2513,6 +3455,9 @@
   },
   "8477495": {
     "playerId": 8477495,
+    "name": "Seth Jones",
+    "team": "FLA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477495.png",
     "height": 76,
@@ -2521,6 +3466,9 @@
   },
   "8477494": {
     "playerId": 8477494,
+    "name": "Jonathan Drouin",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477494.png",
     "height": 71,
@@ -2529,6 +3477,9 @@
   },
   "8477496": {
     "playerId": 8477496,
+    "name": "Elias Lindholm",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8477496.png",
     "height": 73,
@@ -2537,6 +3488,9 @@
   },
   "8481593": {
     "playerId": 8481593,
+    "name": "Jayden Struble",
+    "team": "MTL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481593.png",
     "height": 72,
@@ -2545,6 +3499,9 @@
   },
   "8477499": {
     "playerId": 8477499,
+    "name": "Rasmus Ristolainen",
+    "team": "PHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8477499.png",
     "height": 76,
@@ -2553,6 +3510,9 @@
   },
   "8477498": {
     "playerId": 8477498,
+    "name": "Darnell Nurse",
+    "team": "EDM",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477498.png",
     "height": 76,
@@ -2561,6 +3521,9 @@
   },
   "8477497": {
     "playerId": 8477497,
+    "name": "Sean Monahan",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8477497.png",
     "height": 74,
@@ -2569,6 +3532,9 @@
   },
   "8481596": {
     "playerId": 8481596,
+    "name": "Shane Pinto",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481596.png",
     "height": 75,
@@ -2577,6 +3543,9 @@
   },
   "8477501": {
     "playerId": 8477501,
+    "name": "Valeri Nichushkin",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8477501.png",
     "height": 76,
@@ -2585,6 +3554,9 @@
   },
   "8481598": {
     "playerId": 8481598,
+    "name": "Philip Broberg",
+    "team": "STL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8481598.png",
     "height": 76,
@@ -2593,6 +3565,9 @@
   },
   "8477505": {
     "playerId": 8477505,
+    "name": "Alexander Wennberg",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8477505.png",
     "height": 74,
@@ -2601,6 +3576,9 @@
   },
   "8477506": {
     "playerId": 8477506,
+    "name": "Ryan Pulock",
+    "team": "NYI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477506.png",
     "height": 74,
@@ -2609,6 +3587,9 @@
   },
   "8477507": {
     "playerId": 8477507,
+    "name": "Nikita Zadorov",
+    "team": "BOS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8477507.png",
     "height": 78,
@@ -2617,6 +3598,9 @@
   },
   "8477503": {
     "playerId": 8477503,
+    "name": "Max Domi",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8477503.png",
     "height": 70,
@@ -2625,6 +3609,9 @@
   },
   "8477504": {
     "playerId": 8477504,
+    "name": "Josh Morrissey",
+    "team": "WPG",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8477504.png",
     "height": 72,
@@ -2633,6 +3620,9 @@
   },
   "8475455": {
     "playerId": 8475455,
+    "name": "Brenden Dillon",
+    "team": "NJD",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8475455.png",
     "height": 76,
@@ -2641,6 +3631,9 @@
   },
   "8481601": {
     "playerId": 8481601,
+    "name": "Simon Holmstrom",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8481601.png",
     "height": 74,
@@ -2649,6 +3642,9 @@
   },
   "8481604": {
     "playerId": 8481604,
+    "name": "Pavel Dorofeyev",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481604.png",
     "height": 73,
@@ -2657,6 +3653,9 @@
   },
   "8477508": {
     "playerId": 8477508,
+    "name": "Curtis Lazar",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477508.png",
     "height": 72,
@@ -2665,6 +3664,9 @@
   },
   "8481606": {
     "playerId": 8481606,
+    "name": "Jordan Spence",
+    "team": "OTT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481606.png",
     "height": 71,
@@ -2673,6 +3675,9 @@
   },
   "8481607": {
     "playerId": 8481607,
+    "name": "Albert Johansson",
+    "team": "DET",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8481607.png",
     "height": 72,
@@ -2681,6 +3686,9 @@
   },
   "8481605": {
     "playerId": 8481605,
+    "name": "Jackson LaCombe",
+    "team": "ANA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8481605.png",
     "height": 74,
@@ -2689,6 +3697,9 @@
   },
   "8475462": {
     "playerId": 8475462,
+    "name": "Radko Gudas",
+    "team": "ANA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8475462.png",
     "height": 72,
@@ -2697,6 +3708,9 @@
   },
   "8473419": {
     "playerId": 8473419,
+    "name": "Brad Marchand",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8473419.png",
     "height": 69,
@@ -2705,6 +3719,9 @@
   },
   "8473422": {
     "playerId": 8473422,
+    "name": "Nick Foligno",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8473422.png",
     "height": 72,
@@ -2713,6 +3730,9 @@
   },
   "8477511": {
     "playerId": 8477511,
+    "name": "Anthony Mantha",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8477511.png",
     "height": 77,
@@ -2721,6 +3741,9 @@
   },
   "8481617": {
     "playerId": 8481617,
+    "name": "Vasily Podkolzin",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8481617.png",
     "height": 73,
@@ -2729,6 +3752,9 @@
   },
   "8481618": {
     "playerId": 8481618,
+    "name": "Alex Newhook",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481618.png",
     "height": 71,
@@ -2737,6 +3763,9 @@
   },
   "8477527": {
     "playerId": 8477527,
+    "name": "Ross Johnston",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8477527.png",
     "height": 77,
@@ -2745,6 +3774,9 @@
   },
   "8479576": {
     "playerId": 8479576,
+    "name": "Vincent Desharnais",
+    "team": "SJS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8479576.png",
     "height": 79,
@@ -2753,6 +3785,9 @@
   },
   "8481624": {
     "playerId": 8481624,
+    "name": "Ilya Mikheyev",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8481624.png",
     "height": 74,
@@ -2761,6 +3796,9 @@
   },
   "8477541": {
     "playerId": 8477541,
+    "name": "Dakota Mermis",
+    "team": "TOR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8477541.png",
     "height": 72,
@@ -2769,6 +3807,9 @@
   },
   "8473446": {
     "playerId": 8473446,
+    "name": "Erik Johnson",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8473446.png",
     "height": 76,
@@ -2777,6 +3818,9 @@
   },
   "8479591": {
     "playerId": 8479591,
+    "name": "Michael Eyssimont",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479591.png",
     "height": 72,
@@ -2785,6 +3829,9 @@
   },
   "8481641": {
     "playerId": 8481641,
+    "name": "Joel Kiviranta",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8481641.png",
     "height": 71,
@@ -2793,6 +3840,9 @@
   },
   "8473449": {
     "playerId": 8473449,
+    "name": "Kyle Okposo",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8473449.png",
     "height": 72,
@@ -2801,6 +3851,9 @@
   },
   "8473453": {
     "playerId": 8473453,
+    "name": "Trevor Lewis",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8473453.png",
     "height": 73,
@@ -2809,6 +3862,9 @@
   },
   "8481655": {
     "playerId": 8481655,
+    "name": "Cole Schwindt",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481655.png",
     "height": 74,
@@ -2817,6 +3873,9 @@
   },
   "8481656": {
     "playerId": 8481656,
+    "name": "Aliaksei Protas",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8481656.png",
     "height": 78,
@@ -2825,6 +3884,9 @@
   },
   "8479619": {
     "playerId": 8479619,
+    "name": "Michael Carcone",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479619.png",
     "height": 69,
@@ -2833,6 +3895,9 @@
   },
   "8477573": {
     "playerId": 8477573,
+    "name": "Nathan Walker",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8477573.png",
     "height": 69,
@@ -2841,6 +3906,9 @@
   },
   "8479638": {
     "playerId": 8479638,
+    "name": "Justin Brazeau",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8479638.png",
     "height": 78,
@@ -2849,6 +3917,9 @@
   },
   "8473504": {
     "playerId": 8473504,
+    "name": "Cal Clutterbuck",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8473504.png",
     "height": 71,
@@ -2857,6 +3928,9 @@
   },
   "8473507": {
     "playerId": 8473507,
+    "name": "Jeff Petry",
+    "team": "FLA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8473507.png",
     "height": 75,
@@ -2865,6 +3939,9 @@
   },
   "8481703": {
     "playerId": 8481703,
+    "name": "Valtteri Puustinen",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8481703.png",
     "height": 70,
@@ -2873,6 +3950,9 @@
   },
   "8473512": {
     "playerId": 8473512,
+    "name": "Claude Giroux",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8473512.png",
     "height": 71,
@@ -2881,6 +3961,9 @@
   },
   "8481704": {
     "playerId": 8481704,
+    "name": "Juuso Parssinen",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8481704.png",
     "height": 75,
@@ -2889,6 +3972,9 @@
   },
   "8481708": {
     "playerId": 8481708,
+    "name": "Zac Jones",
+    "team": "BUF",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8481708.png",
     "height": 71,
@@ -2897,6 +3983,9 @@
   },
   "8479661": {
     "playerId": 8479661,
+    "name": "Tanner Jeannot",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479661.png",
     "height": 74,
@@ -2905,6 +3994,9 @@
   },
   "8481711": {
     "playerId": 8481711,
+    "name": "Matias Maccelli",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481711.png",
     "height": 71,
@@ -2913,6 +4005,9 @@
   },
   "8481716": {
     "playerId": 8481716,
+    "name": "Dmitri Voronkov",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8481716.png",
     "height": 77,
@@ -2921,6 +4016,9 @@
   },
   "8479671": {
     "playerId": 8479671,
+    "name": "Mathieu Olivier",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8479671.png",
     "height": 73,
@@ -2929,6 +4027,9 @@
   },
   "8479675": {
     "playerId": 8479675,
+    "name": "Trevor Moore",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8479675.png",
     "height": 71,
@@ -2937,6 +4038,9 @@
   },
   "8473533": {
     "playerId": 8473533,
+    "name": "Jordan Staal",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8473533.png",
     "height": 76,
@@ -2945,6 +4049,9 @@
   },
   "8481726": {
     "playerId": 8481726,
+    "name": "Adam Edstrom",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8481726.png",
     "height": 79,
@@ -2953,6 +4060,9 @@
   },
   "8481743": {
     "playerId": 8481743,
+    "name": "Marc Del Gaizo",
+    "team": "MTL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8481743.png",
     "height": 71,
@@ -2961,6 +4071,9 @@
   },
   "8477947": {
     "playerId": 8477947,
+    "name": "Sonny Milano",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8477947.png",
     "height": 72,
@@ -2969,6 +4082,9 @@
   },
   "8483808": {
     "playerId": 8483808,
+    "name": "Andrei Kuzmenko",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8483808.png",
     "height": 71,
@@ -2977,6 +4093,9 @@
   },
   "8479718": {
     "playerId": 8479718,
+    "name": "Alex Barr\u00e9-Boulet",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8479718.png",
     "height": 70,
@@ -2985,6 +4104,9 @@
   },
   "8477955": {
     "playerId": 8477955,
+    "name": "Jared McCann",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8477955.png",
     "height": 73,
@@ -2993,6 +4115,9 @@
   },
   "8481789": {
     "playerId": 8481789,
+    "name": "Tye Kartye",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8481789.png",
     "height": 71,
@@ -3001,6 +4126,9 @@
   },
   "8481806": {
     "playerId": 8481806,
+    "name": "Louis Crevier",
+    "team": "CHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8481806.png",
     "height": 80,
@@ -3009,6 +4137,9 @@
   },
   "8477962": {
     "playerId": 8477962,
+    "name": "Brendan Lemieux",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8477962.png",
     "height": 73,
@@ -3017,6 +4148,9 @@
   },
   "8479772": {
     "playerId": 8479772,
+    "name": "Zack MacEwen",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8479772.png",
     "height": 76,
@@ -3025,6 +4159,9 @@
   },
   "8475690": {
     "playerId": 8475690,
+    "name": "Chris Tanev",
+    "team": "TOR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475690.png",
     "height": 75,
@@ -3033,6 +4170,9 @@
   },
   "8475692": {
     "playerId": 8475692,
+    "name": "Mats Zuccarello",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475692.png",
     "height": 68,
@@ -3041,6 +4181,9 @@
   },
   "8475714": {
     "playerId": 8475714,
+    "name": "Calle Jarnkrok",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475714.png",
     "height": 72,
@@ -3049,6 +4192,9 @@
   },
   "8475718": {
     "playerId": 8475718,
+    "name": "Justin Holl",
+    "team": "DET",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8475718.png",
     "height": 76,
@@ -3057,6 +4203,9 @@
   },
   "8475722": {
     "playerId": 8475722,
+    "name": "Jason Zucker",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8475722.png",
     "height": 71,
@@ -3065,6 +4214,9 @@
   },
   "8475726": {
     "playerId": 8475726,
+    "name": "Tyler Toffoli",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8475726.png",
     "height": 72,
@@ -3073,6 +4225,9 @@
   },
   "8480008": {
     "playerId": 8480008,
+    "name": "Adam Ruzicka",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8480008.png",
     "height": 76,
@@ -3081,6 +4236,9 @@
   },
   "8483930": {
     "playerId": 8483930,
+    "name": "Ivan Ivan",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8483930.png",
     "height": 72,
@@ -3089,6 +4247,9 @@
   },
   "8480011": {
     "playerId": 8480011,
+    "name": "Klim Kostin",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8480011.png",
     "height": 76,
@@ -3097,6 +4258,9 @@
   },
   "8475745": {
     "playerId": 8475745,
+    "name": "Charlie Coyle",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8475745.png",
     "height": 75,
@@ -3105,6 +4269,9 @@
   },
   "8475744": {
     "playerId": 8475744,
+    "name": "Evgeny Kuznetsov",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475744.png",
     "height": 74,
@@ -3113,6 +4280,9 @@
   },
   "8475750": {
     "playerId": 8475750,
+    "name": "Jon Merrill",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475750.png",
     "height": 75,
@@ -3121,6 +4291,9 @@
   },
   "8475752": {
     "playerId": 8475752,
+    "name": "Tyler Pitlick",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475752.png",
     "height": 74,
@@ -3129,6 +4302,9 @@
   },
   "8475753": {
     "playerId": 8475753,
+    "name": "Justin Faulk",
+    "team": "STL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8475753.png",
     "height": 72,
@@ -3137,6 +4313,9 @@
   },
   "8475754": {
     "playerId": 8475754,
+    "name": "Brock Nelson",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8475754.png",
     "height": 76,
@@ -3145,6 +4324,9 @@
   },
   "8475760": {
     "playerId": 8475760,
+    "name": "Nick Bjugstad",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8475760.png",
     "height": 77,
@@ -3153,6 +4335,9 @@
   },
   "8477810": {
     "playerId": 8477810,
+    "name": "Joel Hanley",
+    "team": "CGY",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8477810.png",
     "height": 71,
@@ -3161,6 +4346,9 @@
   },
   "8475762": {
     "playerId": 8475762,
+    "name": "Derek Forbort",
+    "team": "VAN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8475762.png",
     "height": 76,
@@ -3169,6 +4357,9 @@
   },
   "8475764": {
     "playerId": 8475764,
+    "name": "Cam Fowler",
+    "team": "STL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8475764.png",
     "height": 74,
@@ -3177,6 +4368,9 @@
   },
   "8475765": {
     "playerId": 8475765,
+    "name": "Vladimir Tarasenko",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8475765.png",
     "height": 73,
@@ -3185,6 +4379,9 @@
   },
   "8475763": {
     "playerId": 8475763,
+    "name": "Kevin Hayes",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8475763.png",
     "height": 77,
@@ -3193,6 +4390,9 @@
   },
   "8475766": {
     "playerId": 8475766,
+    "name": "Austin Watson",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8475766.png",
     "height": 76,
@@ -3201,6 +4401,9 @@
   },
   "8475768": {
     "playerId": 8475768,
+    "name": "Jaden Schwartz",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8475768.png",
     "height": 70,
@@ -3209,6 +4412,9 @@
   },
   "8471675": {
     "playerId": 8471675,
+    "name": "Sidney Crosby",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8471675.png",
     "height": 71,
@@ -3217,6 +4423,9 @@
   },
   "8471677": {
     "playerId": 8471677,
+    "name": "Jack Johnson",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8471677.png",
     "height": 74,
@@ -3225,6 +4434,9 @@
   },
   "8471685": {
     "playerId": 8471685,
+    "name": "Anze Kopitar",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8471685.png",
     "height": 75,
@@ -3233,6 +4445,9 @@
   },
   "8471686": {
     "playerId": 8471686,
+    "name": "Marc Staal",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8471686.png",
     "height": 76,
@@ -3241,6 +4456,9 @@
   },
   "8475784": {
     "playerId": 8475784,
+    "name": "Jeff Skinner",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8475784.png",
     "height": 71,
@@ -3249,6 +4467,9 @@
   },
   "8475786": {
     "playerId": 8475786,
+    "name": "Zach Hyman",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8475786.png",
     "height": 73,
@@ -3257,6 +4478,9 @@
   },
   "8475790": {
     "playerId": 8475790,
+    "name": "Erik Gudbranson",
+    "team": "CBJ",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8475790.png",
     "height": 77,
@@ -3265,6 +4489,9 @@
   },
   "8475791": {
     "playerId": 8475791,
+    "name": "Taylor Hall",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8475791.png",
     "height": 73,
@@ -3273,6 +4500,9 @@
   },
   "8477839": {
     "playerId": 8477839,
+    "name": "Conor Sheary",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8477839.png",
     "height": 68,
@@ -3281,6 +4511,9 @@
   },
   "8475793": {
     "playerId": 8475793,
+    "name": "Ryan Johansen",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475793.png",
     "height": 75,
@@ -3289,6 +4522,9 @@
   },
   "8471698": {
     "playerId": 8471698,
+    "name": "T.J. Oshie",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8471698.png",
     "height": 72,
@@ -3297,6 +4533,9 @@
   },
   "8475794": {
     "playerId": 8475794,
+    "name": "Tyler Seguin",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8475794.png",
     "height": 74,
@@ -3305,6 +4544,9 @@
   },
   "8471699": {
     "playerId": 8471699,
+    "name": "Andrew Cogliano",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8471699.png",
     "height": 70,
@@ -3313,6 +4555,9 @@
   },
   "8477845": {
     "playerId": 8477845,
+    "name": "Trevor van Riemsdyk",
+    "team": "WSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8477845.png",
     "height": 75,
@@ -3321,6 +4566,9 @@
   },
   "8475798": {
     "playerId": 8475798,
+    "name": "Mikael Granlund",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8475798.png",
     "height": 70,
@@ -3329,6 +4577,9 @@
   },
   "8475799": {
     "playerId": 8475799,
+    "name": "Nino Niederreiter",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8475799.png",
     "height": 74,
@@ -3337,6 +4588,9 @@
   },
   "8475797": {
     "playerId": 8475797,
+    "name": "Jarred Tinordi",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475797.png",
     "height": 78,
@@ -3345,6 +4599,9 @@
   },
   "8477846": {
     "playerId": 8477846,
+    "name": "Ryan Carpenter",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8477846.png",
     "height": 73,
@@ -3353,6 +4610,9 @@
   },
   "8471709": {
     "playerId": 8471709,
+    "name": "Marc-Edouard Vlasic",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8471709.png",
     "height": 73,
@@ -3361,6 +4621,9 @@
   },
   "8475810": {
     "playerId": 8475810,
+    "name": "Bryan Rust",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8475810.png",
     "height": 71,
@@ -3369,6 +4632,9 @@
   },
   "8471724": {
     "playerId": 8471724,
+    "name": "Kris Letang",
+    "team": "PIT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8471724.png",
     "height": 72,
@@ -3377,6 +4643,9 @@
   },
   "8475825": {
     "playerId": 8475825,
+    "name": "Jani Hakanp\u00e4\u00e4",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475825.png",
     "height": 79,
@@ -3385,6 +4654,9 @@
   },
   "8475842": {
     "playerId": 8475842,
+    "name": "Sam Carrick",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8475842.png",
     "height": 72,
@@ -3393,6 +4665,9 @@
   },
   "8479941": {
     "playerId": 8479941,
+    "name": "Justin Danforth",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8479941.png",
     "height": 68,
@@ -3401,6 +4676,9 @@
   },
   "8475848": {
     "playerId": 8475848,
+    "name": "Brendan Gallagher",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8475848.png",
     "height": 69,
@@ -3409,6 +4687,9 @@
   },
   "8479944": {
     "playerId": 8479944,
+    "name": "Zachary Aston-Reese",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8479944.png",
     "height": 73,
@@ -3417,6 +4698,9 @@
   },
   "8477903": {
     "playerId": 8477903,
+    "name": "Garnet Hathaway",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8477903.png",
     "height": 74,
@@ -3425,6 +4709,9 @@
   },
   "8475855": {
     "playerId": 8475855,
+    "name": "Jesper Fast",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8475855.png",
     "height": 73,
@@ -3433,6 +4720,9 @@
   },
   "8477919": {
     "playerId": 8477919,
+    "name": "Frederick Gaudreau",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8477919.png",
     "height": 72,
@@ -3441,6 +4731,9 @@
   },
   "8479968": {
     "playerId": 8479968,
+    "name": "Vinni Lettieri",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479968.png",
     "height": 70,
@@ -3449,6 +4742,9 @@
   },
   "8479976": {
     "playerId": 8479976,
+    "name": "Juuso V\u00e4lim\u00e4ki",
+    "team": "UTA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479976.png",
     "height": 74,
@@ -3457,6 +4753,9 @@
   },
   "8479977": {
     "playerId": 8479977,
+    "name": "Kailer Yamamoto",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8479977.png",
     "height": 69,
@@ -3465,6 +4764,9 @@
   },
   "8477930": {
     "playerId": 8477930,
+    "name": "Pierre-Edouard Bellemare",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8477930.png",
     "height": 71,
@@ -3473,6 +4775,9 @@
   },
   "8477931": {
     "playerId": 8477931,
+    "name": "Tomas Nosek",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477931.png",
     "height": 75,
@@ -3481,6 +4786,9 @@
   },
   "8479980": {
     "playerId": 8479980,
+    "name": "Nicolas Hague",
+    "team": "NSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8479980.png",
     "height": 78,
@@ -3489,6 +4797,9 @@
   },
   "8477933": {
     "playerId": 8477933,
+    "name": "Sam Reinhart",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477933.png",
     "height": 73,
@@ -3497,6 +4808,9 @@
   },
   "8479982": {
     "playerId": 8479982,
+    "name": "Conor Timmins",
+    "team": "BUF",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8479982.png",
     "height": 75,
@@ -3505,14 +4819,20 @@
   },
   "8479983": {
     "playerId": 8479983,
+    "name": "Mario Ferraro",
+    "team": "SJS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8479983.png",
     "height": 72,
     "weight": 209,
-    "age": 26
+    "age": 27
   },
   "8477934": {
     "playerId": 8477934,
+    "name": "Leon Draisaitl",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477934.png",
     "height": 74,
@@ -3521,6 +4841,9 @@
   },
   "8477935": {
     "playerId": 8477935,
+    "name": "Sam Bennett",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477935.png",
     "height": 73,
@@ -3529,6 +4852,9 @@
   },
   "8477932": {
     "playerId": 8477932,
+    "name": "Aaron Ekblad",
+    "team": "FLA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477932.png",
     "height": 76,
@@ -3537,6 +4863,9 @@
   },
   "8477938": {
     "playerId": 8477938,
+    "name": "Haydn Fleury",
+    "team": "WPG",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8477938.png",
     "height": 76,
@@ -3545,6 +4874,9 @@
   },
   "8477939": {
     "playerId": 8477939,
+    "name": "William Nylander",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8477939.png",
     "height": 72,
@@ -3553,6 +4885,9 @@
   },
   "8477940": {
     "playerId": 8477940,
+    "name": "Nikolaj Ehlers",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8477940.png",
     "height": 72,
@@ -3561,6 +4896,9 @@
   },
   "8479981": {
     "playerId": 8479981,
+    "name": "Jonah Gadjovich",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479981.png",
     "height": 75,
@@ -3569,6 +4907,9 @@
   },
   "8477942": {
     "playerId": 8477942,
+    "name": "Kevin Fiala",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477942.png",
     "height": 72,
@@ -3577,6 +4918,9 @@
   },
   "8479987": {
     "playerId": 8479987,
+    "name": "Morgan Geekie",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479987.png",
     "height": 75,
@@ -3585,6 +4929,9 @@
   },
   "8479992": {
     "playerId": 8479992,
+    "name": "Michael Rasmussen",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8479992.png",
     "height": 78,
@@ -3593,6 +4940,9 @@
   },
   "8477946": {
     "playerId": 8477946,
+    "name": "Dylan Larkin",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8477946.png",
     "height": 73,
@@ -3601,6 +4951,9 @@
   },
   "8479994": {
     "playerId": 8479994,
+    "name": "Jaret Anderson-Dolan",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8479994.png",
     "height": 71,
@@ -3609,6 +4962,9 @@
   },
   "8477948": {
     "playerId": 8477948,
+    "name": "Travis Sanheim",
+    "team": "PHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8477948.png",
     "height": 76,
@@ -3617,6 +4973,9 @@
   },
   "8479996": {
     "playerId": 8479996,
+    "name": "Cody Glass",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8479996.png",
     "height": 75,
@@ -3625,6 +4984,9 @@
   },
   "8477949": {
     "playerId": 8477949,
+    "name": "Alex Tuch",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8477949.png",
     "height": 76,
@@ -3633,6 +4995,9 @@
   },
   "8479998": {
     "playerId": 8479998,
+    "name": "Mikey Anderson",
+    "team": "LAK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8479998.png",
     "height": 72,
@@ -3641,6 +5006,9 @@
   },
   "8479999": {
     "playerId": 8479999,
+    "name": "Casey Mittelstadt",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8479999.png",
     "height": 73,
@@ -3649,6 +5017,9 @@
   },
   "8477951": {
     "playerId": 8477951,
+    "name": "Nick Schmaltz",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8477951.png",
     "height": 72,
@@ -3657,6 +5028,9 @@
   },
   "8477953": {
     "playerId": 8477953,
+    "name": "Kasperi Kapanen",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477953.png",
     "height": 73,
@@ -3665,6 +5039,9 @@
   },
   "8480002": {
     "playerId": 8480002,
+    "name": "Nico Hischier",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8480002.png",
     "height": 73,
@@ -3673,6 +5050,9 @@
   },
   "8477956": {
     "playerId": 8477956,
+    "name": "David Pastrnak",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8477956.png",
     "height": 72,
@@ -3681,6 +5061,9 @@
   },
   "8480003": {
     "playerId": 8480003,
+    "name": "Jesper Boqvist",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480003.png",
     "height": 73,
@@ -3689,6 +5072,9 @@
   },
   "8480001": {
     "playerId": 8480001,
+    "name": "Urho Vaakanainen",
+    "team": "NYR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8480001.png",
     "height": 74,
@@ -3697,6 +5083,9 @@
   },
   "8477950": {
     "playerId": 8477950,
+    "name": "Tony DeAngelo",
+    "team": "NYI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8477950.png",
     "height": 71,
@@ -3705,6 +5094,9 @@
   },
   "8477952": {
     "playerId": 8477952,
+    "name": "Robby Fabbri",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8477952.png",
     "height": 71,
@@ -3713,6 +5105,9 @@
   },
   "8482055": {
     "playerId": 8482055,
+    "name": "Drew O'Connor",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8482055.png",
     "height": 76,
@@ -3721,6 +5116,9 @@
   },
   "8477960": {
     "playerId": 8477960,
+    "name": "Adrian Kempe",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477960.png",
     "height": 74,
@@ -3729,6 +5127,9 @@
   },
   "8475913": {
     "playerId": 8475913,
+    "name": "Mark Stone",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475913.png",
     "height": 75,
@@ -3737,6 +5138,9 @@
   },
   "8471817": {
     "playerId": 8471817,
+    "name": "Ryan Reaves",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8471817.png",
     "height": 74,
@@ -3745,6 +5149,9 @@
   },
   "8477964": {
     "playerId": 8477964,
+    "name": "Ivan Barbashev",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477964.png",
     "height": 72,
@@ -3753,6 +5160,9 @@
   },
   "8480012": {
     "playerId": 8480012,
+    "name": "Elias Pettersson",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480012.png",
     "height": 74,
@@ -3761,6 +5171,9 @@
   },
   "8480014": {
     "playerId": 8480014,
+    "name": "Gabriel Vilardi",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480014.png",
     "height": 75,
@@ -3769,6 +5182,9 @@
   },
   "8480009": {
     "playerId": 8480009,
+    "name": "Eeli Tolvanen",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8480009.png",
     "height": 70,
@@ -3777,6 +5193,9 @@
   },
   "8480015": {
     "playerId": 8480015,
+    "name": "Owen Tippett",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8480015.png",
     "height": 73,
@@ -3785,6 +5204,9 @@
   },
   "8477969": {
     "playerId": 8477969,
+    "name": "Marcus Pettersson",
+    "team": "VAN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8477969.png",
     "height": 77,
@@ -3793,6 +5215,9 @@
   },
   "8480018": {
     "playerId": 8480018,
+    "name": "Nick Suzuki",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8480018.png",
     "height": 71,
@@ -3801,6 +5226,9 @@
   },
   "8482062": {
     "playerId": 8482062,
+    "name": "Cole Smith",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482062.png",
     "height": 75,
@@ -3809,6 +5237,9 @@
   },
   "8477971": {
     "playerId": 8477971,
+    "name": "Andreas Englund",
+    "team": "NSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8477971.png",
     "height": 76,
@@ -3817,6 +5248,9 @@
   },
   "8482070": {
     "playerId": 8482070,
+    "name": "Mitchell Chaffee",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8482070.png",
     "height": 73,
@@ -3825,6 +5259,9 @@
   },
   "8480023": {
     "playerId": 8480023,
+    "name": "Robert Thomas",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8480023.png",
     "height": 72,
@@ -3833,6 +5270,9 @@
   },
   "8482073": {
     "playerId": 8482073,
+    "name": "Braden Schneider",
+    "team": "NYR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482073.png",
     "height": 76,
@@ -3841,6 +5281,9 @@
   },
   "8482074": {
     "playerId": 8482074,
+    "name": "Connor Zary",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8482074.png",
     "height": 72,
@@ -3849,6 +5292,9 @@
   },
   "8480027": {
     "playerId": 8480027,
+    "name": "Jason Robertson",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480027.png",
     "height": 75,
@@ -3857,6 +5303,9 @@
   },
   "8480028": {
     "playerId": 8480028,
+    "name": "Morgan Frost",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8480028.png",
     "height": 72,
@@ -3865,6 +5314,9 @@
   },
   "8482077": {
     "playerId": 8482077,
+    "name": "Dylan Holloway",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8482077.png",
     "height": 73,
@@ -3873,6 +5325,9 @@
   },
   "8482078": {
     "playerId": 8482078,
+    "name": "Lucas Raymond",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8482078.png",
     "height": 71,
@@ -3881,6 +5336,9 @@
   },
   "8482079": {
     "playerId": 8482079,
+    "name": "Marco Rossi",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8482079.png",
     "height": 69,
@@ -3889,6 +5347,9 @@
   },
   "8477979": {
     "playerId": 8477979,
+    "name": "Nicolas Aube-Kubel",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8477979.png",
     "height": 72,
@@ -3897,6 +5358,9 @@
   },
   "8480025": {
     "playerId": 8480025,
+    "name": "MacKenzie Entwistle",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480025.png",
     "height": 75,
@@ -3905,6 +5369,9 @@
   },
   "8477986": {
     "playerId": 8477986,
+    "name": "Brandon Montour",
+    "team": "SEA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8477986.png",
     "height": 72,
@@ -3913,6 +5380,9 @@
   },
   "8480035": {
     "playerId": 8480035,
+    "name": "Henri Jokiharju",
+    "team": "BOS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8480035.png",
     "height": 72,
@@ -3921,6 +5391,9 @@
   },
   "8480036": {
     "playerId": 8480036,
+    "name": "Miro Heiskanen",
+    "team": "DAL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8480036.png",
     "height": 74,
@@ -3929,6 +5402,9 @@
   },
   "8477989": {
     "playerId": 8477989,
+    "name": "Christian Dvorak",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8477989.png",
     "height": 73,
@@ -3937,6 +5413,9 @@
   },
   "8477987": {
     "playerId": 8477987,
+    "name": "Ryan Donato",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8477987.png",
     "height": 72,
@@ -3945,6 +5424,9 @@
   },
   "8480039": {
     "playerId": 8480039,
+    "name": "Martin Necas",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480039.png",
     "height": 75,
@@ -3953,6 +5435,9 @@
   },
   "8482087": {
     "playerId": 8482087,
+    "name": "Kaiden Guhle",
+    "team": "MTL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8482087.png",
     "height": 75,
@@ -3961,6 +5446,9 @@
   },
   "8482089": {
     "playerId": 8482089,
+    "name": "Jake Neighbours",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8482089.png",
     "height": 72,
@@ -3969,6 +5457,9 @@
   },
   "8480043": {
     "playerId": 8480043,
+    "name": "Timothy Liljegren",
+    "team": "SJS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8480043.png",
     "height": 73,
@@ -3977,6 +5468,9 @@
   },
   "8482092": {
     "playerId": 8482092,
+    "name": "Ridly Greig",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482092.png",
     "height": 72,
@@ -3985,6 +5479,9 @@
   },
   "8482093": {
     "playerId": 8482093,
+    "name": "Seth Jarvis",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482093.png",
     "height": 70,
@@ -3993,6 +5490,9 @@
   },
   "8477998": {
     "playerId": 8477998,
+    "name": "Warren Foegele",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477998.png",
     "height": 74,
@@ -4001,6 +5501,9 @@
   },
   "8482095": {
     "playerId": 8482095,
+    "name": "Tyler Kleven",
+    "team": "OTT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482095.png",
     "height": 77,
@@ -4009,6 +5512,9 @@
   },
   "8484144": {
     "playerId": 8484144,
+    "name": "Connor Bedard",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8484144.png",
     "height": 70,
@@ -4017,6 +5523,9 @@
   },
   "8480049": {
     "playerId": 8480049,
+    "name": "Dylan Samberg",
+    "team": "WPG",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480049.png",
     "height": 76,
@@ -4025,6 +5534,9 @@
   },
   "8482097": {
     "playerId": 8482097,
+    "name": "Jack Quinn",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8482097.png",
     "height": 73,
@@ -4033,6 +5545,9 @@
   },
   "8484145": {
     "playerId": 8484145,
+    "name": "Zach Benson",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8484145.png",
     "height": 70,
@@ -4041,6 +5556,9 @@
   },
   "8482105": {
     "playerId": 8482105,
+    "name": "Jake Sanderson",
+    "team": "OTT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482105.png",
     "height": 74,
@@ -4049,6 +5567,9 @@
   },
   "8478010": {
     "playerId": 8478010,
+    "name": "Brayden Point",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8478010.png",
     "height": 71,
@@ -4057,6 +5578,9 @@
   },
   "8484153": {
     "playerId": 8484153,
+    "name": "Leo Carlsson",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8484153.png",
     "height": 75,
@@ -4065,6 +5589,9 @@
   },
   "8480058": {
     "playerId": 8480058,
+    "name": "P.O Joseph",
+    "team": "VAN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480058.png",
     "height": 74,
@@ -4073,6 +5600,9 @@
   },
   "8482109": {
     "playerId": 8482109,
+    "name": "Alexis Lafreni\u00e8re",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482109.png",
     "height": 74,
@@ -4081,6 +5611,9 @@
   },
   "8482110": {
     "playerId": 8482110,
+    "name": "Dawson Mercer",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8482110.png",
     "height": 72,
@@ -4089,6 +5622,9 @@
   },
   "8482111": {
     "playerId": 8482111,
+    "name": "Justin Barron",
+    "team": "NSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482111.png",
     "height": 74,
@@ -4097,6 +5633,9 @@
   },
   "8480064": {
     "playerId": 8480064,
+    "name": "Josh Norris",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480064.png",
     "height": 74,
@@ -4105,6 +5644,9 @@
   },
   "8482113": {
     "playerId": 8482113,
+    "name": "Anton Lundell",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8482113.png",
     "height": 73,
@@ -4113,6 +5655,9 @@
   },
   "8478013": {
     "playerId": 8478013,
+    "name": "Jake Walman",
+    "team": "EDM",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8478013.png",
     "height": 73,
@@ -4121,6 +5666,9 @@
   },
   "8482116": {
     "playerId": 8482116,
+    "name": "Tim St\u00fctzle",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482116.png",
     "height": 72,
@@ -4129,6 +5677,9 @@
   },
   "8480069": {
     "playerId": 8480069,
+    "name": "Cale Makar",
+    "team": "COL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480069.png",
     "height": 72,
@@ -4137,6 +5688,9 @@
   },
   "8478020": {
     "playerId": 8478020,
+    "name": "Michael Amadio",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8478020.png",
     "height": 73,
@@ -4145,6 +5699,9 @@
   },
   "8484166": {
     "playerId": 8484166,
+    "name": "Adam Fantilli",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8484166.png",
     "height": 74,
@@ -4153,6 +5710,9 @@
   },
   "8482118": {
     "playerId": 8482118,
+    "name": "Sam Colangelo",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8482118.png",
     "height": 74,
@@ -4161,6 +5721,9 @@
   },
   "8480068": {
     "playerId": 8480068,
+    "name": "Ryan Poehling",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8480068.png",
     "height": 74,
@@ -4169,6 +5732,9 @@
   },
   "8482122": {
     "playerId": 8482122,
+    "name": "Brock Faber",
+    "team": "MIN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8482122.png",
     "height": 73,
@@ -4177,6 +5743,9 @@
   },
   "8480074": {
     "playerId": 8480074,
+    "name": "Alexandre Texier",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8480074.png",
     "height": 73,
@@ -4185,6 +5754,9 @@
   },
   "8482124": {
     "playerId": 8482124,
+    "name": "Quinton Byfield",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482124.png",
     "height": 77,
@@ -4193,6 +5765,9 @@
   },
   "8482125": {
     "playerId": 8482125,
+    "name": "Alexander Holtz",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8482125.png",
     "height": 72,
@@ -4201,6 +5776,9 @@
   },
   "8480078": {
     "playerId": 8480078,
+    "name": "Filip Chytil",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480078.png",
     "height": 74,
@@ -4209,6 +5787,9 @@
   },
   "8482126": {
     "playerId": 8482126,
+    "name": "Emil Andrae",
+    "team": "PHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8482126.png",
     "height": 69,
@@ -4217,6 +5798,9 @@
   },
   "8480073": {
     "playerId": 8480073,
+    "name": "Erik Brannstrom",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8480073.png",
     "height": 70,
@@ -4225,6 +5809,9 @@
   },
   "8478028": {
     "playerId": 8478028,
+    "name": "Fredrik Olofsson",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8478028.png",
     "height": 74,
@@ -4233,6 +5820,9 @@
   },
   "8482132": {
     "playerId": 8482132,
+    "name": "Brett Berard",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482132.png",
     "height": 69,
@@ -4241,6 +5831,9 @@
   },
   "8478038": {
     "playerId": 8478038,
+    "name": "Devon Toews",
+    "team": "COL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8478038.png",
     "height": 73,
@@ -4249,6 +5842,9 @@
   },
   "8478042": {
     "playerId": 8478042,
+    "name": "Viktor Arvidsson",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8478042.png",
     "height": 70,
@@ -4257,6 +5853,9 @@
   },
   "8478043": {
     "playerId": 8478043,
+    "name": "Sam Lafferty",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8478043.png",
     "height": 74,
@@ -4265,6 +5864,9 @@
   },
   "8478046": {
     "playerId": 8478046,
+    "name": "Danton Heinen",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478046.png",
     "height": 74,
@@ -4273,14 +5875,20 @@
   },
   "8478047": {
     "playerId": 8478047,
+    "name": "Michael Bunting",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8478047.png",
     "height": 72,
     "weight": 186,
-    "age": 29
+    "age": 30
   },
   "8482142": {
     "playerId": 8482142,
+    "name": "Jamie Drysdale",
+    "team": "PHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8482142.png",
     "height": 71,
@@ -4289,6 +5897,9 @@
   },
   "8482145": {
     "playerId": 8482145,
+    "name": "Mavrik Bourque",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8482145.png",
     "height": 71,
@@ -4297,6 +5908,9 @@
   },
   "8482146": {
     "playerId": 8482146,
+    "name": "Luke Evangelista",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482146.png",
     "height": 72,
@@ -4305,6 +5919,9 @@
   },
   "8482144": {
     "playerId": 8482144,
+    "name": "Jack Thompson",
+    "team": "SJS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8482144.png",
     "height": 73,
@@ -4313,6 +5930,9 @@
   },
   "8482148": {
     "playerId": 8482148,
+    "name": "Hendrix Lapierre",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8482148.png",
     "height": 72,
@@ -4321,6 +5941,9 @@
   },
   "8482149": {
     "playerId": 8482149,
+    "name": "Cole Perfetti",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8482149.png",
     "height": 71,
@@ -4329,6 +5952,9 @@
   },
   "8478055": {
     "playerId": 8478055,
+    "name": "Gustav Forsling",
+    "team": "FLA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478055.png",
     "height": 73,
@@ -4337,6 +5963,9 @@
   },
   "8478057": {
     "playerId": 8478057,
+    "name": "Dakota Joshua",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478057.png",
     "height": 75,
@@ -4345,6 +5974,9 @@
   },
   "8482155": {
     "playerId": 8482155,
+    "name": "Alex Laferriere",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482155.png",
     "height": 73,
@@ -4353,6 +5985,9 @@
   },
   "8482157": {
     "playerId": 8482157,
+    "name": "Will Cuylle",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482157.png",
     "height": 75,
@@ -4361,6 +5996,9 @@
   },
   "8482159": {
     "playerId": 8482159,
+    "name": "Tyson Foerster",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8482159.png",
     "height": 74,
@@ -4369,6 +6007,9 @@
   },
   "8480113": {
     "playerId": 8480113,
+    "name": "Alex Iafallo",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480113.png",
     "height": 72,
@@ -4377,6 +6018,9 @@
   },
   "8482166": {
     "playerId": 8482166,
+    "name": "Shakir Mukhamadullin",
+    "team": "SJS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8482166.png",
     "height": 76,
@@ -4385,6 +6029,9 @@
   },
   "8482172": {
     "playerId": 8482172,
+    "name": "Landon Slaggert",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8482172.png",
     "height": 72,
@@ -4393,6 +6040,9 @@
   },
   "8478078": {
     "playerId": 8478078,
+    "name": "Rourke Chartier",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8478078.png",
     "height": 72,
@@ -4401,6 +6051,9 @@
   },
   "8482175": {
     "playerId": 8482175,
+    "name": "JJ Peterka",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8482175.png",
     "height": 72,
@@ -4409,6 +6062,9 @@
   },
   "8482176": {
     "playerId": 8482176,
+    "name": "Wyatt Kaiser",
+    "team": "CHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8482176.png",
     "height": 72,
@@ -4417,6 +6073,9 @@
   },
   "8482177": {
     "playerId": 8482177,
+    "name": "Marat Khusnutdinov",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8482177.png",
     "height": 71,
@@ -4425,6 +6084,9 @@
   },
   "8473986": {
     "playerId": 8473986,
+    "name": "Alex Killorn",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8473986.png",
     "height": 73,
@@ -4433,6 +6095,9 @@
   },
   "8484227": {
     "playerId": 8484227,
+    "name": "Will Smith",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8484227.png",
     "height": 72,
@@ -4441,6 +6106,9 @@
   },
   "8473994": {
     "playerId": 8473994,
+    "name": "Jamie Benn",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8473994.png",
     "height": 75,
@@ -4449,6 +6117,9 @@
   },
   "8480144": {
     "playerId": 8480144,
+    "name": "David Kampf",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8480144.png",
     "height": 74,
@@ -4457,6 +6128,9 @@
   },
   "8480145": {
     "playerId": 8480145,
+    "name": "Neal Pionk",
+    "team": "WPG",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480145.png",
     "height": 72,
@@ -4465,6 +6139,9 @@
   },
   "8482192": {
     "playerId": 8482192,
+    "name": "Isaak Phillips",
+    "team": "WPG",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8482192.png",
     "height": 75,
@@ -4473,6 +6150,9 @@
   },
   "8478099": {
     "playerId": 8478099,
+    "name": "Kevin Labanc",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8478099.png",
     "height": 71,
@@ -4481,6 +6161,9 @@
   },
   "8478104": {
     "playerId": 8478104,
+    "name": "Sammy Blais",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8478104.png",
     "height": 74,
@@ -4489,6 +6172,9 @@
   },
   "8482201": {
     "playerId": 8482201,
+    "name": "Gage Goncalves",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8482201.png",
     "height": 73,
@@ -4497,6 +6183,9 @@
   },
   "8474009": {
     "playerId": 8474009,
+    "name": "Nick Bonino",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474009.png",
     "height": 73,
@@ -4505,6 +6194,9 @@
   },
   "8478109": {
     "playerId": 8478109,
+    "name": "Victor Olofsson",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8478109.png",
     "height": 71,
@@ -4513,6 +6205,9 @@
   },
   "8474013": {
     "playerId": 8474013,
+    "name": "Ian Cole",
+    "team": "UTA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8474013.png",
     "height": 73,
@@ -4521,6 +6216,9 @@
   },
   "8484258": {
     "playerId": 8484258,
+    "name": "Sam Malinski",
+    "team": "COL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8484258.png",
     "height": 71,
@@ -4529,6 +6227,9 @@
   },
   "8478115": {
     "playerId": 8478115,
+    "name": "Pierre Engvall",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8478115.png",
     "height": 77,
@@ -4537,6 +6238,9 @@
   },
   "8480172": {
     "playerId": 8480172,
+    "name": "Jan Rutta",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8480172.png",
     "height": 75,
@@ -4545,6 +6249,9 @@
   },
   "8482222": {
     "playerId": 8482222,
+    "name": "Alexander Barabanov",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8482222.png",
     "height": 70,
@@ -4553,6 +6260,9 @@
   },
   "8474031": {
     "playerId": 8474031,
+    "name": "Kevin Shattenkirk",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474031.png",
     "height": 72,
@@ -4561,6 +6271,9 @@
   },
   "8474034": {
     "playerId": 8474034,
+    "name": "Patrick Maroon",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474034.png",
     "height": 75,
@@ -4569,6 +6282,9 @@
   },
   "8478133": {
     "playerId": 8478133,
+    "name": "Jake Evans",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8478133.png",
     "height": 72,
@@ -4577,6 +6293,9 @@
   },
   "8474037": {
     "playerId": 8474037,
+    "name": "James van Riemsdyk",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8474037.png",
     "height": 75,
@@ -4585,6 +6304,9 @@
   },
   "8478136": {
     "playerId": 8478136,
+    "name": "Jake Middleton",
+    "team": "MIN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478136.png",
     "height": 75,
@@ -4593,6 +6315,9 @@
   },
   "8480185": {
     "playerId": 8480185,
+    "name": "Eetu Luostarinen",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480185.png",
     "height": 75,
@@ -4601,6 +6326,9 @@
   },
   "8480184": {
     "playerId": 8480184,
+    "name": "Gustav Lindstrom",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8480184.png",
     "height": 74,
@@ -4609,6 +6337,9 @@
   },
   "8480188": {
     "playerId": 8480188,
+    "name": "Fabian Zetterlund",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480188.png",
     "height": 71,
@@ -4617,6 +6348,9 @@
   },
   "8480192": {
     "playerId": 8480192,
+    "name": "Johnathan Kovacevic",
+    "team": "NJD",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8480192.png",
     "height": 77,
@@ -4625,6 +6359,9 @@
   },
   "8482241": {
     "playerId": 8482241,
+    "name": "Radim Zohorna",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8482241.png",
     "height": 78,
@@ -4633,6 +6370,9 @@
   },
   "8478146": {
     "playerId": 8478146,
+    "name": "Matthew Highmore",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8478146.png",
     "height": 71,
@@ -4641,6 +6381,9 @@
   },
   "8480196": {
     "playerId": 8480196,
+    "name": "Jacob Bryson",
+    "team": "BUF",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8480196.png",
     "height": 69,
@@ -4649,6 +6392,9 @@
   },
   "8482245": {
     "playerId": 8482245,
+    "name": "Artem Zub",
+    "team": "OTT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482245.png",
     "height": 75,
@@ -4657,6 +6403,9 @@
   },
   "8482117": {
     "playerId": 8482117,
+    "name": "Lukas Reichel",
+    "team": "CHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8482117.png",
     "height": 72,
@@ -4665,6 +6414,9 @@
   },
   "8480205": {
     "playerId": 8480205,
+    "name": "Emil Bemstrom",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8480205.png",
     "height": 72,
@@ -4673,6 +6425,9 @@
   },
   "8484304": {
     "playerId": 8484304,
+    "name": "Uvis Balinskis",
+    "team": "FLA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8484304.png",
     "height": 72,
@@ -4681,6 +6436,9 @@
   },
   "8480208": {
     "playerId": 8480208,
+    "name": "Drake Batherson",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480208.png",
     "height": 75,
@@ -4689,6 +6447,9 @@
   },
   "8482259": {
     "playerId": 8482259,
+    "name": "Bobby McMann",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8482259.png",
     "height": 74,
@@ -4697,6 +6458,9 @@
   },
   "8480220": {
     "playerId": 8480220,
+    "name": "Noah Cates",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8480220.png",
     "height": 74,
@@ -4705,6 +6469,9 @@
   },
   "8480222": {
     "playerId": 8480222,
+    "name": "Sebastian Aho",
+    "team": "PIT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8480222.png",
     "height": 70,
@@ -4713,6 +6480,9 @@
   },
   "8484321": {
     "playerId": 8484321,
+    "name": "Nikolas Matinpalo",
+    "team": "OTT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8484321.png",
     "height": 75,
@@ -4721,6 +6491,9 @@
   },
   "8478178": {
     "playerId": 8478178,
+    "name": "Darren Raddysh",
+    "team": "TBL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8478178.png",
     "height": 73,
@@ -4729,6 +6502,9 @@
   },
   "8474090": {
     "playerId": 8474090,
+    "name": "Brendan Smith",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474090.png",
     "height": 74,
@@ -4737,6 +6513,9 @@
   },
   "8480246": {
     "playerId": 8480246,
+    "name": "Nick Perbix",
+    "team": "NSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8480246.png",
     "height": 76,
@@ -4745,6 +6524,9 @@
   },
   "8474102": {
     "playerId": 8474102,
+    "name": "David Perron",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8474102.png",
     "height": 72,
@@ -4753,6 +6535,9 @@
   },
   "8478233": {
     "playerId": 8478233,
+    "name": "Andrew Mangiapane",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8478233.png",
     "height": 70,
@@ -4761,6 +6546,9 @@
   },
   "8480281": {
     "playerId": 8480281,
+    "name": "Alexey Toropchenko",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8480281.png",
     "height": 78,
@@ -4769,6 +6557,9 @@
   },
   "8474141": {
     "playerId": 8474141,
+    "name": "Patrick Kane",
+    "team": "DET",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8474141.png",
     "height": 70,
@@ -4777,6 +6568,9 @@
   },
   "8480289": {
     "playerId": 8480289,
+    "name": "Morgan Barron",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8480289.png",
     "height": 76,
@@ -4785,6 +6579,9 @@
   },
   "8484387": {
     "playerId": 8484387,
+    "name": "Matvei Michkov",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8484387.png",
     "height": 70,
@@ -4793,6 +6590,9 @@
   },
   "8474149": {
     "playerId": 8474149,
+    "name": "Evgenii Dadonov",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8474149.png",
     "height": 71,
@@ -4801,6 +6601,9 @@
   },
   "8474150": {
     "playerId": 8474150,
+    "name": "Mikael Backlund",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8474150.png",
     "height": 72,
@@ -4809,6 +6612,9 @@
   },
   "8474151": {
     "playerId": 8474151,
+    "name": "Ryan McDonagh",
+    "team": "TBL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8474151.png",
     "height": 74,
@@ -4817,6 +6623,9 @@
   },
   "8474157": {
     "playerId": 8474157,
+    "name": "Max Pacioretty",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474157.png",
     "height": 74,
@@ -4825,6 +6634,9 @@
   },
   "8474166": {
     "playerId": 8474166,
+    "name": "Alec Martinez",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474166.png",
     "height": 73,
@@ -4833,6 +6645,9 @@
   },
   "8474189": {
     "playerId": 8474189,
+    "name": "Lars Eller",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8474189.png",
     "height": 74,
@@ -4841,6 +6656,9 @@
   },
   "8480336": {
     "playerId": 8480336,
+    "name": "Sean Walker",
+    "team": "CAR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480336.png",
     "height": 71,
@@ -4849,6 +6667,9 @@
   },
   "8480355": {
     "playerId": 8480355,
+    "name": "Mark Kastelic",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8480355.png",
     "height": 76,
@@ -4857,6 +6678,9 @@
   },
   "8476278": {
     "playerId": 8476278,
+    "name": "Colin Blackwell",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8476278.png",
     "height": 68,
@@ -4865,6 +6689,9 @@
   },
   "8476292": {
     "playerId": 8476292,
+    "name": "Ondrej Palat",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8476292.png",
     "height": 72,
@@ -4873,6 +6700,9 @@
   },
   "8482451": {
     "playerId": 8482451,
+    "name": "Mikael Pyyhtia",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8482451.png",
     "height": 72,
@@ -4881,6 +6711,9 @@
   },
   "8476312": {
     "playerId": 8476312,
+    "name": "Josh Manson",
+    "team": "COL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8476312.png",
     "height": 75,
@@ -4889,6 +6722,9 @@
   },
   "8482460": {
     "playerId": 8482460,
+    "name": "Matt Rempe",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8482460.png",
     "height": 81,
@@ -4897,6 +6733,9 @@
   },
   "8478366": {
     "playerId": 8478366,
+    "name": "Frank Vatrano",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8478366.png",
     "height": 71,
@@ -4905,6 +6744,9 @@
   },
   "8476331": {
     "playerId": 8476331,
+    "name": "Dylan DeMelo",
+    "team": "WPG",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476331.png",
     "height": 73,
@@ -4913,6 +6755,9 @@
   },
   "8482476": {
     "playerId": 8482476,
+    "name": "Emil Heineman",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8482476.png",
     "height": 74,
@@ -4921,6 +6766,9 @@
   },
   "8482475": {
     "playerId": 8482475,
+    "name": "Yegor Chinakhov",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8482475.png",
     "height": 73,
@@ -4929,6 +6777,9 @@
   },
   "8480434": {
     "playerId": 8480434,
+    "name": "Sean Durzi",
+    "team": "UTA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8480434.png",
     "height": 73,
@@ -4937,6 +6788,9 @@
   },
   "8476346": {
     "playerId": 8476346,
+    "name": "Johnny Gaudreau",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8476346.png",
     "height": 69,
@@ -4945,6 +6799,9 @@
   },
   "8478396": {
     "playerId": 8478396,
+    "name": "Noah Hanifin",
+    "team": "VGK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478396.png",
     "height": 75,
@@ -4953,6 +6810,9 @@
   },
   "8478397": {
     "playerId": 8478397,
+    "name": "Rasmus Andersson",
+    "team": "CGY",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8478397.png",
     "height": 73,
@@ -4961,6 +6821,9 @@
   },
   "8478398": {
     "playerId": 8478398,
+    "name": "Kyle Connor",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8478398.png",
     "height": 73,
@@ -4969,6 +6832,9 @@
   },
   "8478399": {
     "playerId": 8478399,
+    "name": "Jonas Siegenthaler",
+    "team": "NJD",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8478399.png",
     "height": 74,
@@ -4977,6 +6843,9 @@
   },
   "8480448": {
     "playerId": 8480448,
+    "name": "Parker Kelly",
+    "team": "COL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/COL/8480448.png",
     "height": 73,
@@ -4985,6 +6854,9 @@
   },
   "8478401": {
     "playerId": 8478401,
+    "name": "Pavel Zacha",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8478401.png",
     "height": 75,
@@ -4993,6 +6865,9 @@
   },
   "8478402": {
     "playerId": 8478402,
+    "name": "Connor McDavid",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8478402.png",
     "height": 73,
@@ -5001,6 +6876,9 @@
   },
   "8478403": {
     "playerId": 8478403,
+    "name": "Jack Eichel",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478403.png",
     "height": 74,
@@ -5009,6 +6887,9 @@
   },
   "8482496": {
     "playerId": 8482496,
+    "name": "Nils Aman",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8482496.png",
     "height": 74,
@@ -5017,6 +6898,9 @@
   },
   "8478407": {
     "playerId": 8478407,
+    "name": "Vince Dunn",
+    "team": "SEA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8478407.png",
     "height": 72,
@@ -5025,6 +6909,9 @@
   },
   "8480459": {
     "playerId": 8480459,
+    "name": "Pius Suter",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8480459.png",
     "height": 71,
@@ -5033,6 +6920,9 @@
   },
   "8478413": {
     "playerId": 8478413,
+    "name": "Jordan Greenway",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8478413.png",
     "height": 78,
@@ -5041,6 +6931,9 @@
   },
   "8478414": {
     "playerId": 8478414,
+    "name": "Timo Meier",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8478414.png",
     "height": 73,
@@ -5049,6 +6942,9 @@
   },
   "8482511": {
     "playerId": 8482511,
+    "name": "Mason Lohrei",
+    "team": "BOS",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8482511.png",
     "height": 77,
@@ -5057,6 +6953,9 @@
   },
   "8478416": {
     "playerId": 8478416,
+    "name": "Erik Cernak",
+    "team": "TBL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8478416.png",
     "height": 76,
@@ -5065,6 +6964,9 @@
   },
   "8478420": {
     "playerId": 8478420,
+    "name": "Mikko Rantanen",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8478420.png",
     "height": 76,
@@ -5073,6 +6975,9 @@
   },
   "8478421": {
     "playerId": 8478421,
+    "name": "A.J. Greer",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478421.png",
     "height": 75,
@@ -5081,6 +6986,9 @@
   },
   "8476374": {
     "playerId": 8476374,
+    "name": "Sean Kuraly",
+    "team": "BOS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BOS/8476374.png",
     "height": 74,
@@ -5089,6 +6997,9 @@
   },
   "8476372": {
     "playerId": 8476372,
+    "name": "Nick Seeler",
+    "team": "PHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8476372.png",
     "height": 75,
@@ -5097,6 +7008,9 @@
   },
   "8478424": {
     "playerId": 8478424,
+    "name": "Jansen Harkins",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8478424.png",
     "height": 73,
@@ -5105,6 +7019,9 @@
   },
   "8480468": {
     "playerId": 8480468,
+    "name": "James Hamblin",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8480468.png",
     "height": 70,
@@ -5113,6 +7030,9 @@
   },
   "8482516": {
     "playerId": 8482516,
+    "name": "Matthew Kessel",
+    "team": "STL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8482516.png",
     "height": 74,
@@ -5121,6 +7041,9 @@
   },
   "8478427": {
     "playerId": 8478427,
+    "name": "Sebastian Aho",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8478427.png",
     "height": 72,
@@ -5129,6 +7052,9 @@
   },
   "8478430": {
     "playerId": 8478430,
+    "name": "Oliver Kylington",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8478430.png",
     "height": 72,
@@ -5137,6 +7063,9 @@
   },
   "8478432": {
     "playerId": 8478432,
+    "name": "Christian Fischer",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8478432.png",
     "height": 74,
@@ -5145,6 +7074,9 @@
   },
   "8478434": {
     "playerId": 8478434,
+    "name": "Keegan Kolesar",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478434.png",
     "height": 74,
@@ -5153,6 +7085,9 @@
   },
   "8476389": {
     "playerId": 8476389,
+    "name": "Vincent Trocheck",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8476389.png",
     "height": 71,
@@ -5161,6 +7096,9 @@
   },
   "8478438": {
     "playerId": 8478438,
+    "name": "Tommy Novak",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478438.png",
     "height": 73,
@@ -5169,6 +7107,9 @@
   },
   "8478439": {
     "playerId": 8478439,
+    "name": "Travis Konecny",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8478439.png",
     "height": 70,
@@ -5177,6 +7118,9 @@
   },
   "8476392": {
     "playerId": 8476392,
+    "name": "Adam Lowry",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476392.png",
     "height": 77,
@@ -5185,6 +7129,9 @@
   },
   "8478440": {
     "playerId": 8478440,
+    "name": "Dylan Strome",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8478440.png",
     "height": 75,
@@ -5193,6 +7140,9 @@
   },
   "8476393": {
     "playerId": 8476393,
+    "name": "Nick Cousins",
+    "team": "OTT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8476393.png",
     "height": 71,
@@ -5201,6 +7151,9 @@
   },
   "8478443": {
     "playerId": 8478443,
+    "name": "Brandon Carlo",
+    "team": "TOR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478443.png",
     "height": 77,
@@ -5209,6 +7162,9 @@
   },
   "8478444": {
     "playerId": 8478444,
+    "name": "Brock Boeser",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8478444.png",
     "height": 73,
@@ -5217,6 +7173,9 @@
   },
   "8478445": {
     "playerId": 8478445,
+    "name": "Mathew Barzal",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8478445.png",
     "height": 73,
@@ -5225,6 +7184,9 @@
   },
   "8476399": {
     "playerId": 8476399,
+    "name": "Blake Coleman",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8476399.png",
     "height": 71,
@@ -5233,6 +7195,9 @@
   },
   "8478449": {
     "playerId": 8478449,
+    "name": "Roope Hintz",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8478449.png",
     "height": 75,
@@ -5241,6 +7206,9 @@
   },
   "8478450": {
     "playerId": 8478450,
+    "name": "Parker Wotherspoon",
+    "team": "PIT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478450.png",
     "height": 73,
@@ -5249,6 +7217,9 @@
   },
   "8478454": {
     "playerId": 8478454,
+    "name": "Noah Juulsen",
+    "team": "PHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8478454.png",
     "height": 74,
@@ -5257,6 +7228,9 @@
   },
   "8478458": {
     "playerId": 8478458,
+    "name": "Jack Roslovic",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8478458.png",
     "height": 73,
@@ -5265,6 +7239,9 @@
   },
   "8478460": {
     "playerId": 8478460,
+    "name": "Zach Werenski",
+    "team": "CBJ",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8478460.png",
     "height": 74,
@@ -5273,6 +7250,9 @@
   },
   "8478462": {
     "playerId": 8478462,
+    "name": "Nicolas Roy",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478462.png",
     "height": 76,
@@ -5281,6 +7261,9 @@
   },
   "8478463": {
     "playerId": 8478463,
+    "name": "Anthony Beauvillier",
+    "team": "WSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8478463.png",
     "height": 71,
@@ -5289,6 +7272,9 @@
   },
   "8478466": {
     "playerId": 8478466,
+    "name": "Daniel Sprong",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8478466.png",
     "height": 72,
@@ -5297,6 +7283,9 @@
   },
   "8476419": {
     "playerId": 8476419,
+    "name": "Jean-Gabriel Pageau",
+    "team": "NYI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8476419.png",
     "height": 71,
@@ -5305,6 +7294,9 @@
   },
   "8478468": {
     "playerId": 8478468,
+    "name": "Jeremy Lauzon",
+    "team": "VGK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478468.png",
     "height": 75,
@@ -5313,6 +7305,9 @@
   },
   "8478469": {
     "playerId": 8478469,
+    "name": "Thomas Chabot",
+    "team": "OTT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8478469.png",
     "height": 73,
@@ -5321,6 +7316,9 @@
   },
   "8476422": {
     "playerId": 8476422,
+    "name": "Mike Reilly",
+    "team": "CAR",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8476422.png",
     "height": 74,
@@ -5329,6 +7327,9 @@
   },
   "8478472": {
     "playerId": 8478472,
+    "name": "Mathieu Joseph",
+    "team": "STL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/STL/8478472.png",
     "height": 73,
@@ -5337,6 +7338,9 @@
   },
   "8478474": {
     "playerId": 8478474,
+    "name": "Lawson Crouse",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8478474.png",
     "height": 76,
@@ -5345,6 +7349,9 @@
   },
   "8476429": {
     "playerId": 8476429,
+    "name": "Scott Mayfield",
+    "team": "NYI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYI/8476429.png",
     "height": 77,
@@ -5353,6 +7360,9 @@
   },
   "8476432": {
     "playerId": 8476432,
+    "name": "Boone Jenner",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8476432.png",
     "height": 74,
@@ -5361,6 +7371,9 @@
   },
   "8478483": {
     "playerId": 8478483,
+    "name": "Mitch Marner",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478483.png",
     "height": 72,
@@ -5369,6 +7382,9 @@
   },
   "8476438": {
     "playerId": 8476438,
+    "name": "Brandon Saad",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476438.png",
     "height": 73,
@@ -5377,6 +7393,9 @@
   },
   "8476441": {
     "playerId": 8476441,
+    "name": "Joel Edmundson",
+    "team": "LAK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476441.png",
     "height": 77,
@@ -5385,6 +7404,9 @@
   },
   "8476442": {
     "playerId": 8476442,
+    "name": "Matt Nieto",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8476442.png",
     "height": 71,
@@ -5393,6 +7415,9 @@
   },
   "8478493": {
     "playerId": 8478493,
+    "name": "Joel Eriksson Ek",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478493.png",
     "height": 75,
@@ -5401,6 +7426,9 @@
   },
   "8476448": {
     "playerId": 8476448,
+    "name": "William Karlsson",
+    "team": "VGK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476448.png",
     "height": 72,
@@ -5409,6 +7437,9 @@
   },
   "8478498": {
     "playerId": 8478498,
+    "name": "Jake DeBrusk",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8478498.png",
     "height": 73,
@@ -5417,6 +7448,9 @@
   },
   "8478500": {
     "playerId": 8478500,
+    "name": "Ivan Provorov",
+    "team": "CBJ",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8478500.png",
     "height": 73,
@@ -5425,6 +7459,9 @@
   },
   "8476453": {
     "playerId": 8476453,
+    "name": "Nikita Kucherov",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8476453.png",
     "height": 72,
@@ -5433,6 +7470,9 @@
   },
   "8476454": {
     "playerId": 8476454,
+    "name": "Ryan Nugent-Hopkins",
+    "team": "EDM",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8476454.png",
     "height": 73,
@@ -5441,6 +7481,9 @@
   },
   "8478502": {
     "playerId": 8478502,
+    "name": "Dennis Gilbert",
+    "team": "PHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8478502.png",
     "height": 74,
@@ -5449,6 +7492,9 @@
   },
   "8476456": {
     "playerId": 8476456,
+    "name": "Jonathan Huberdeau",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8476456.png",
     "height": 73,
@@ -5457,6 +7503,9 @@
   },
   "8476457": {
     "playerId": 8476457,
+    "name": "Adam Larsson",
+    "team": "SEA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8476457.png",
     "height": 75,
@@ -5465,6 +7514,9 @@
   },
   "8476458": {
     "playerId": 8476458,
+    "name": "Ryan Strome",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8476458.png",
     "height": 73,
@@ -5473,6 +7525,9 @@
   },
   "8478507": {
     "playerId": 8478507,
+    "name": "John Marino",
+    "team": "UTA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8478507.png",
     "height": 73,
@@ -5481,6 +7536,9 @@
   },
   "8478508": {
     "playerId": 8478508,
+    "name": "Yakov Trenin",
+    "team": "MIN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8478508.png",
     "height": 74,
@@ -5489,6 +7547,9 @@
   },
   "8476460": {
     "playerId": 8476460,
+    "name": "Mark Scheifele",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476460.png",
     "height": 75,
@@ -5497,6 +7558,9 @@
   },
   "8476462": {
     "playerId": 8476462,
+    "name": "Dougie Hamilton",
+    "team": "NJD",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8476462.png",
     "height": 78,
@@ -5505,6 +7569,9 @@
   },
   "8476463": {
     "playerId": 8476463,
+    "name": "Jonas Brodin",
+    "team": "MIN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8476463.png",
     "height": 74,
@@ -5513,6 +7580,9 @@
   },
   "8476459": {
     "playerId": 8476459,
+    "name": "Mika Zibanejad",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8476459.png",
     "height": 74,
@@ -5521,6 +7591,9 @@
   },
   "8476461": {
     "playerId": 8476461,
+    "name": "Sean Couturier",
+    "team": "PHI",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PHI/8476461.png",
     "height": 76,
@@ -5529,6 +7602,9 @@
   },
   "8478512": {
     "playerId": 8478512,
+    "name": "Austin Czarnik",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8478512.png",
     "height": 69,
@@ -5537,6 +7613,9 @@
   },
   "8476467": {
     "playerId": 8476467,
+    "name": "Jamie Oleksiak",
+    "team": "SEA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8476467.png",
     "height": 79,
@@ -5545,6 +7624,9 @@
   },
   "8476468": {
     "playerId": 8476468,
+    "name": "J.T. Miller",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8476468.png",
     "height": 73,
@@ -5553,6 +7635,9 @@
   },
   "8476469": {
     "playerId": 8476469,
+    "name": "Joel Armia",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476469.png",
     "height": 75,
@@ -5561,6 +7646,9 @@
   },
   "8478519": {
     "playerId": 8478519,
+    "name": "Anthony Cirelli",
+    "team": "TBL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8478519.png",
     "height": 73,
@@ -5569,6 +7657,9 @@
   },
   "8476473": {
     "playerId": 8476473,
+    "name": "Connor Murphy",
+    "team": "CHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8476473.png",
     "height": 76,
@@ -5577,6 +7668,9 @@
   },
   "8476474": {
     "playerId": 8476474,
+    "name": "Stefan Noesen",
+    "team": "NJD",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8476474.png",
     "height": 73,
@@ -5585,6 +7679,9 @@
   },
   "8476479": {
     "playerId": 8476479,
+    "name": "Phillip Danault",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476479.png",
     "height": 73,
@@ -5593,6 +7690,9 @@
   },
   "8476480": {
     "playerId": 8476480,
+    "name": "Vladislav Namestnikov",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476480.png",
     "height": 72,
@@ -5601,6 +7701,9 @@
   },
   "8482624": {
     "playerId": 8482624,
+    "name": "Daniil Miromanov",
+    "team": "CGY",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8482624.png",
     "height": 76,
@@ -5609,6 +7712,9 @@
   },
   "8476483": {
     "playerId": 8476483,
+    "name": "Rickard Rakell",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8476483.png",
     "height": 73,
@@ -5617,6 +7723,9 @@
   },
   "8478542": {
     "playerId": 8478542,
+    "name": "Evan Rodrigues",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478542.png",
     "height": 71,
@@ -5625,6 +7734,9 @@
   },
   "8478550": {
     "playerId": 8478550,
+    "name": "Artemi Panarin",
+    "team": "NYR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NYR/8478550.png",
     "height": 72,
@@ -5633,6 +7745,9 @@
   },
   "8474870": {
     "playerId": 8474870,
+    "name": "Tyler Johnson",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474870.png",
     "height": 68,
@@ -5641,6 +7756,9 @@
   },
   "8482652": {
     "playerId": 8482652,
+    "name": "Walker Duehr",
+    "team": "WPG",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8482652.png",
     "height": 74,
@@ -5649,6 +7767,9 @@
   },
   "8482655": {
     "playerId": 8482655,
+    "name": "J.J. Moser",
+    "team": "TBL",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8482655.png",
     "height": 74,
@@ -5657,6 +7778,9 @@
   },
   "8482659": {
     "playerId": 8482659,
+    "name": "Josh Doan",
+    "team": "BUF",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8482659.png",
     "height": 74,
@@ -5665,6 +7789,9 @@
   },
   "8482660": {
     "playerId": 8482660,
+    "name": "Kent Johnson",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8482660.png",
     "height": 72,
@@ -5673,6 +7800,9 @@
   },
   "8478569": {
     "playerId": 8478569,
+    "name": "Noel Acciari",
+    "team": "PIT",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478569.png",
     "height": 71,
@@ -5681,6 +7811,9 @@
   },
   "8482665": {
     "playerId": 8482665,
+    "name": "Matty Beniers",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8482665.png",
     "height": 74,
@@ -5689,6 +7822,9 @@
   },
   "8482667": {
     "playerId": 8482667,
+    "name": "William Eklund",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8482667.png",
     "height": 71,
@@ -5697,6 +7833,9 @@
   },
   "8476525": {
     "playerId": 8476525,
+    "name": "Colin Miller",
+    "team": "WPG",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476525.png",
     "height": 73,
@@ -5705,6 +7844,9 @@
   },
   "8482671": {
     "playerId": 8482671,
+    "name": "Owen Power",
+    "team": "BUF",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/BUF/8482671.png",
     "height": 78,
@@ -5713,6 +7855,9 @@
   },
   "8482679": {
     "playerId": 8482679,
+    "name": "Matt Coronato",
+    "team": "CGY",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8482679.png",
     "height": 70,
@@ -5721,6 +7866,9 @@
   },
   "8478585": {
     "playerId": 8478585,
+    "name": "Derek Ryan",
+    "team": "NaN",
+    "position": "F",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8478585.png",
     "height": 70,
@@ -5729,6 +7877,9 @@
   },
   "8476539": {
     "playerId": 8476539,
+    "name": "Jonathan Marchessault",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8476539.png",
     "height": 69,
@@ -5737,6 +7888,9 @@
   },
   "8482684": {
     "playerId": 8482684,
+    "name": "Luke Hughes",
+    "team": "NJD",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8482684.png",
     "height": 74,
@@ -5745,6 +7899,9 @@
   },
   "8482691": {
     "playerId": 8482691,
+    "name": "Aatu Raty",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8482691.png",
     "height": 74,
@@ -5753,6 +7910,9 @@
   },
   "8482699": {
     "playerId": 8482699,
+    "name": "Dylan Guenther",
+    "team": "UTA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/UTA/8482699.png",
     "height": 73,
@@ -5761,6 +7921,9 @@
   },
   "8482700": {
     "playerId": 8482700,
+    "name": "Nolan Allan",
+    "team": "CHI",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CHI/8482700.png",
     "height": 74,
@@ -5769,6 +7932,9 @@
   },
   "8482702": {
     "playerId": 8482702,
+    "name": "Logan Stankoven",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482702.png",
     "height": 68,
@@ -5777,6 +7943,9 @@
   },
   "8482705": {
     "playerId": 8482705,
+    "name": "Cole Sillinger",
+    "team": "CBJ",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CBJ/8482705.png",
     "height": 73,
@@ -5785,6 +7954,9 @@
   },
   "8482713": {
     "playerId": 8482713,
+    "name": "Mackie Samoskevich",
+    "team": "FLA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8482713.png",
     "height": 71,
@@ -5793,6 +7965,9 @@
   },
   "8482720": {
     "playerId": 8482720,
+    "name": "Matthew Knies",
+    "team": "TOR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8482720.png",
     "height": 75,
@@ -5801,6 +7976,9 @@
   },
   "8482726": {
     "playerId": 8482726,
+    "name": "Samuel Helenius",
+    "team": "LAK",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482726.png",
     "height": 78,
@@ -5809,6 +7987,9 @@
   },
   "8482730": {
     "playerId": 8482730,
+    "name": "Brandt Clarke",
+    "team": "LAK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482730.png",
     "height": 74,
@@ -5817,6 +7998,9 @@
   },
   "8482737": {
     "playerId": 8482737,
+    "name": "Zack Bolduc",
+    "team": "MTL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MTL/8482737.png",
     "height": 72,
@@ -5825,6 +8009,9 @@
   },
   "8482740": {
     "playerId": 8482740,
+    "name": "Wyatt Johnston",
+    "team": "DAL",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8482740.png",
     "height": 73,
@@ -5833,6 +8020,9 @@
   },
   "8482742": {
     "playerId": 8482742,
+    "name": "Zachary L'Heureux",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482742.png",
     "height": 71,
@@ -5841,6 +8031,9 @@
   },
   "8482745": {
     "playerId": 8482745,
+    "name": "Mason McTavish",
+    "team": "ANA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8482745.png",
     "height": 73,
@@ -5849,6 +8042,9 @@
   },
   "8484801": {
     "playerId": 8484801,
+    "name": "Macklin Celebrini",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8484801.png",
     "height": 72,
@@ -5857,6 +8053,9 @@
   },
   "8474563": {
     "playerId": 8474563,
+    "name": "Drew Doughty",
+    "team": "LAK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8474563.png",
     "height": 73,
@@ -5865,6 +8064,9 @@
   },
   "8474564": {
     "playerId": 8474564,
+    "name": "Steven Stamkos",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8474564.png",
     "height": 73,
@@ -5873,6 +8075,9 @@
   },
   "8474565": {
     "playerId": 8474565,
+    "name": "Alex Pietrangelo",
+    "team": "VGK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8474565.png",
     "height": 75,
@@ -5881,6 +8086,9 @@
   },
   "8474567": {
     "playerId": 8474567,
+    "name": "Zach Bogosian",
+    "team": "MIN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8474567.png",
     "height": 75,
@@ -5889,6 +8097,9 @@
   },
   "8474568": {
     "playerId": 8474568,
+    "name": "Luke Schenn",
+    "team": "WPG",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8474568.png",
     "height": 74,
@@ -5897,6 +8108,9 @@
   },
   "8482762": {
     "playerId": 8482762,
+    "name": "Simon Edvinsson",
+    "team": "DET",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8482762.png",
     "height": 78,
@@ -5905,6 +8119,9 @@
   },
   "8474574": {
     "playerId": 8474574,
+    "name": "Tyler Myers",
+    "team": "VAN",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8474574.png",
     "height": 80,
@@ -5913,6 +8130,9 @@
   },
   "8482768": {
     "playerId": 8482768,
+    "name": "Fedor Svechkov",
+    "team": "NSH",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8482768.png",
     "height": 72,
@@ -5921,6 +8141,9 @@
   },
   "8476624": {
     "playerId": 8476624,
+    "name": "Barclay Goodrow",
+    "team": "SJS",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SJS/8476624.png",
     "height": 74,
@@ -5929,6 +8152,9 @@
   },
   "8474578": {
     "playerId": 8474578,
+    "name": "Erik Karlsson",
+    "team": "PIT",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8474578.png",
     "height": 72,
@@ -5937,6 +8163,9 @@
   },
   "8480727": {
     "playerId": 8480727,
+    "name": "Zach Whitecloud",
+    "team": "VGK",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8480727.png",
     "height": 74,
@@ -5945,6 +8174,9 @@
   },
   "8474586": {
     "playerId": 8474586,
+    "name": "Jordan Eberle",
+    "team": "SEA",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/SEA/8474586.png",
     "height": 71,
@@ -5953,6 +8185,9 @@
   },
   "8474590": {
     "playerId": 8474590,
+    "name": "John Carlson",
+    "team": "WSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8474590.png",
     "height": 75,
@@ -5961,6 +8196,9 @@
   },
   "8474600": {
     "playerId": 8474600,
+    "name": "Roman Josi",
+    "team": "NSH",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8474600.png",
     "height": 73,
@@ -5969,6 +8207,9 @@
   },
   "8474602": {
     "playerId": 8474602,
+    "name": "Justin Schultz",
+    "team": "NaN",
+    "position": "D",
     "active": false,
     "image": "https://assets.nhle.com/mugs/nhl/latest/8474602.png",
     "height": 74,
@@ -5977,6 +8218,9 @@
   },
   "8480748": {
     "playerId": 8480748,
+    "name": "Kiefer Sherwood",
+    "team": "VAN",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8480748.png",
     "height": 72,
@@ -5985,6 +8229,9 @@
   },
   "8482803": {
     "playerId": 8482803,
+    "name": "Olen Zellweger",
+    "team": "ANA",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8482803.png",
     "height": 70,
@@ -5993,6 +8240,9 @@
   },
   "8474612": {
     "playerId": 8474612,
+    "name": "Travis Hamonic",
+    "team": "DET",
+    "position": "D",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/DET/8474612.png",
     "height": 72,
@@ -6001,6 +8251,9 @@
   },
   "8482809": {
     "playerId": 8482809,
+    "name": "Jackson Blake",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8482809.png",
     "height": 71,
@@ -6009,6 +8262,9 @@
   },
   "8480762": {
     "playerId": 8480762,
+    "name": "Eric Robinson",
+    "team": "CAR",
+    "position": "F",
     "active": true,
     "image": "https://assets.nhle.com/mugs/nhl/20252026/CAR/8480762.png",
     "height": 74,

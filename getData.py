@@ -40,6 +40,9 @@ def get_player_gamelog(player_id, season_id, game_type, summary):
         return []
     
     output = {}
+
+    
+
     output['playerId'] = player_id
     output['points_sd'] = 0
     output['plusMinus_sd'] = 0
@@ -121,6 +124,10 @@ def get_full_data_set(season):
         new_dict = {**player, **additional[player['playerId']], **ratios[player['playerId']]}
         new_dict['faceoff_ratio'] = float(additional[player['playerId']]['faceoff_avg']/(additional[player['playerId']]['faceoff_sd']+1))
         new_dict['fights_ratio'] = float(additional[player['playerId']]['fights']/player['gamesPlayed'])
+        new_dict['faceoff'] = additional[player['playerId']]['faceoffWins']
+        new_dict['shg'] = player['shGoals']
+        new_dict['blocks'] = player['blockedShots']
+        new_dict['pim'] =  player['penaltyMinutes']
         output[player['playerId']] = new_dict
     
     return output
@@ -161,7 +168,7 @@ def parse_player_data(data=None):
 
         with open(f'data/csv/{season}_full.csv', 'w', newline='') as f:
             full = get_full_data_set(season)
-            writer = csv.DictWriter(f, fieldnames=full['8474578'].keys())
+            writer = csv.DictWriter(f, fieldnames=full['8478402'].keys())
             writer.writeheader()
             writer.writerows(full.values())
 
@@ -221,11 +228,15 @@ def request_player_bios():
         career_stats = client.stats.player_career_stats(player_id=player)
         data = {
             'playerId' : career_stats['playerId'],
+            'name': career_stats['firstName']['default'] + ' ' + career_stats['lastName']['default'],
+            'team': career_stats.get('currentTeamAbbrev','NaN'),
+            'position': career_stats['position'] if career_stats['position'] == 'D' else 'F',
             'active': career_stats['isActive'],
             'image': career_stats['headshot'],
             'height': career_stats['heightInInches'],
             'weight': career_stats['weightInPounds'],
             'age': calculate_age(career_stats['birthDate'])
+
         }
         out[player] = data
     

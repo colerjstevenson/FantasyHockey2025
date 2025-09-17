@@ -6,6 +6,8 @@ Command line script for ranking hockey players.
 import argparse
 import json
 
+seasons = ['20222023', '20232024', '20242025']
+
 stats_weights = {
     'points': 0.2,
     'plusMinus': 0.4,
@@ -40,9 +42,7 @@ def load_player_list(filename):
         return [line.strip() for line in f if line.strip()]
 
 
-def get_ratings():
-    seasons = ['20222023', '20232024', '20242025']
-    
+def get_ratings(): 
     players = []
     stats = {}
     player_list = load_player_list('player_list.txt')
@@ -52,31 +52,34 @@ def get_ratings():
         stats[season] = season_data
 
     for player_id in player_list:
-        rating = 0
-        for season in seasons:
-            season_rating = 0
-            if player_id not in stats[season]:
-                continue
-        
-            season_rating += (stats[season][player_id]['points_ratio'] * stats_weights['points'])
-            season_rating += (stats[season][player_id]['plusMinus_ratio'] * stats_weights['plusMinus'])
-            season_rating += (stats[season][player_id]['shg_ratio'] * stats_weights['shg'])
-            season_rating += (stats[season][player_id]['faceoff_ratio'] * stats_weights['faceoff'])
-            season_rating += (stats[season][player_id]['blocks_ratio'] * stats_weights['blocks'])
-            season_rating += (stats[season][player_id]['hits_ratio'] * stats_weights['hits'])
-            season_rating += (stats[season][player_id]['pim_ratio'] * stats_weights['pim'])
-            season_rating += (stats[season][player_id]['fights_ratio'] * stats_weights['fights'])
-            season_rating += ((stats[season][player_id]['gp'] / 82) * stats_weights['gp'])
-            rating += (season_rating * year_weights[season])
-
-        player = {
-             'playerId': player_id,
-             'rating': rating
-        }
+        player = get_rating(player_id)
         players.append(player)
         
     return players
 
+def get_rating(player_id):
+    rating = 0
+    for season in seasons:
+        season_rating = 0
+        if player_id not in stats[season]:
+            continue
+    
+        season_rating += (stats[season][player_id]['points_ratio'] * stats_weights['points'])
+        season_rating += (stats[season][player_id]['plusMinus_ratio'] * stats_weights['plusMinus'])
+        season_rating += (stats[season][player_id]['shg_ratio'] * stats_weights['shg'])
+        season_rating += (stats[season][player_id]['faceoff_ratio'] * stats_weights['faceoff'])
+        season_rating += (stats[season][player_id]['blocks_ratio'] * stats_weights['blocks'])
+        season_rating += (stats[season][player_id]['hits_ratio'] * stats_weights['hits'])
+        season_rating += (stats[season][player_id]['pim_ratio'] * stats_weights['pim'])
+        season_rating += (stats[season][player_id]['fights_ratio'] * stats_weights['fights'])
+        season_rating += ((stats[season][player_id]['gp'] / 82) * stats_weights['gp'])
+        rating += (season_rating * year_weights[season])
+
+    player = {
+            'playerId': player_id,
+            'rating': rating
+    }
+     
 
 def display_rankings(ratings, top_n=100):
     extra_data = load_file('20242025')

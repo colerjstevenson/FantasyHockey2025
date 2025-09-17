@@ -1,47 +1,23 @@
 import streamlit as st
 import pandas as pd
 
-from DataManager import DataManager
+from DataManager import DataManager 
 
 
 st.title("📊 Interactive Data Viewer")
 
 showing_type = "Ratios"
+season = '20242025'
 
-def detect_encoding(file):
-    import chardet
-    raw_data = file.read(50000)
-    file.seek(0)
-    result = chardet.detect(raw_data)
-    return result["encoding"]
+dm = DataManager()
 
-if uploaded_file is not None:
-    # --- Read file ---
-    if uploaded_file.name.endswith(".csv"):
-        encoding = detect_encoding(uploaded_file)
-        df = pd.read_csv(uploaded_file, encoding=encoding)
-    else:
-        df = pd.read_excel(uploaded_file)
+df = dm.toCVS(dm.get_fullset(season)).sort_values(by='Rating', ascending=False)
 
-    # --- Initialize crossed-out state ---
-    if "crossed" not in st.session_state or len(st.session_state.crossed) != len(df):
-        st.session_state.crossed = [False] * len(df)
 
-    st.subheader("Data Table (click column headers to sort)")
 
-    # Display table (sortable via built-in header click)
-    st.dataframe(df, use_container_width=True, height=700)
 
-    # Display checkboxes on the left side
-    st.subheader("Cross Out Rows")
-    for i, row in df.iterrows():
-        cols = st.columns([0.1, 0.9])  # narrow column for checkbox, wide for row
-        # Checkbox
-        crossed = cols[0].checkbox("", value=st.session_state.crossed[i], key=f"cross_{i}")
-        st.session_state.crossed[i] = crossed
-        # Display row with strike-through if crossed
-        row_text = " | ".join([f"~~{v}~~" if crossed else str(v) for v in row])
-        cols[1].markdown(row_text)
+st.subheader("Data Table (click column headers to sort)")
 
-else:
-    st.info("👈 Please upload a CSV or Excel file to get started.")
+# Display table (sortable via built-in header click)
+st.dataframe(df, use_container_width=True, height=900)
+

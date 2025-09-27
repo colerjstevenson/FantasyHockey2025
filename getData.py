@@ -146,10 +146,10 @@ def parse_player_data(data=None):
 
 
     for season, data in flipped_data.items():
-        with open(f"data/json/{season}_main_raw.json", "w") as f:
+        with open(f"data/json/{season}_main.json", "w") as f:
             json.dump(data, f, indent=2)
 
-        with open(f'data/csv/{season}_main_raw.csv', 'w', newline='') as f:
+        with open(f'data/csv/{season}_main.csv', 'w', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=data[0].keys())
             writer.writeheader()
             writer.writerows(data)

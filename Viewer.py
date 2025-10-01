@@ -9,7 +9,7 @@ st.set_page_config(layout="wide")
 # --- Dropdown menus ---
 seasons = ["20222023", "20232024", "20242025"]  # add all available seasons here
 data_types = ['Full', "Ratios", "Totals", "Means", "Deviations"]   # adjust to match what DataManager supports
-
+positions = ["ALL", "F", "D"]
 
 if "page" not in st.session_state:
     st.session_state.page = "main"
@@ -30,12 +30,14 @@ dm = st.session_state.dm
 
 if st.session_state.page == "main":
 
-    col1, col2 = st.columns([1, 2]) 
+    col1, col2, col3 = st.columns([1, 2, 3]) 
 
     with col1:
        showing_type = st.selectbox("Select Data Type", data_types, index=data_types.index("Full"))
     with col2:
         season = st.selectbox("Select Season", seasons, index=seasons.index("20242025"))
+    with col3:
+        pos_type = st.selectbox("Position", positions, index=0)
     
 
     if showing_type == 'Full':
@@ -54,6 +56,9 @@ if st.session_state.page == "main":
         df['Picked'] = False
     
     df['Notes'] = df['ID'].map(lambda pid: dm.meta[pid]['note'])
+    
+    if pos_type != "ALL":
+        df = df[df['Pos'] == pos_type]
 
 
     # Sort so picked players are at the bottom
@@ -61,7 +66,7 @@ if st.session_state.page == "main":
 
     for col in df.columns:
         if col not in ['Name', 'Notes', 'Pos', 'Team', 'Picked', 'ID']:
-            df[col] = df[col].map(lambda v: float(v))
+            df[col] = df[col].map(lambda v: round(float(v), 3))
 
     search_query = st.text_input("Search for player name...")
 

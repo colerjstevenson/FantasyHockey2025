@@ -109,7 +109,7 @@ def get_player_stats(player_id):
 
 
 def main():
-    parse_player_data()
+    request_player_bios()
 
 
 
@@ -132,8 +132,22 @@ def get_full_data_set(season):
     
     return output
 
+def get_team_data():
+    seasons = ['20222023', '20232024', '20242025']
+    teams = client.teams.teams()
+    team_arb = [team['abbr'].upper() for team in teams]
 
 
+    for season in seasons:
+        data = []
+        for team in team_arb:
+            if int(season) <= 20222023 and team == 'UTA':
+                team = 'ARI'
+            team_stats = client.stats.full_team_data(season, team)
+            data.append(team_stats)
+
+        with open(f"data/json/{season}_team.json", "w") as f:
+                json.dump(data, f, indent=2)
 
 def parse_player_data(data=None):
     if data is None:
@@ -230,6 +244,7 @@ def request_player_bios():
             'playerId' : career_stats['playerId'],
             'name': career_stats['firstName']['default'] + ' ' + career_stats['lastName']['default'],
             'team': career_stats.get('currentTeamAbbrev','NaN'),
+            'pos': career_stats['position'],
             'position': career_stats['position'] if career_stats['position'] == 'D' else 'F',
             'active': career_stats['isActive'],
             'image': career_stats['headshot'],

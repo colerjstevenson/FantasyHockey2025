@@ -158,6 +158,24 @@ class Stats:
         return data.get("gameLog", [])
     
 
+    def full_team_data(self, season: str, team: str, game_type: int = 2) -> List[dict]:
+        """Fetches comprehensive team statistics for a specified season and game type.
+
+        Retrieves detailed statistics for all NHL teams during a given season and game type.
+
+        Args:
+            season (str): The season in YYYYYYYY format (e.g., "20222023", "20232024").
+            game_type (int, optional): The type of games to include:
+                2: Regular season (default)
+                3: Playoffs
+                1: Preseason"""
+        
+        data = self.client.get(
+            endpoint=Endpoint.API_WEB_V1, resource=f"club-stats/{team}/{season}/{game_type}"
+        ).json()
+
+        return data
+
     def team_summary(
         self,
         start_season: str,

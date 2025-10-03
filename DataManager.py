@@ -1,7 +1,9 @@
+
 """
 DataManager.py
-Basic template for managing fantasy hockey data.
+Fantasy Hockey Data Management Module
 """
+
 
 import sys
 import os
@@ -10,10 +12,15 @@ import json
 import pandas as pd
 import numpy as np
 
+# --- Utility Functions ---
+def is_season_type(filename):
+	pattern = r'^\d{8}_[a-zA-Z0-9]+'
+	return re.match(pattern, filename) is not None
 
-
-
+# --- DataManager Class ---
 class DataManager:
+		
+	# --- Initialization & Loading ---
 	def __init__(self):
 		self.stats = [
 			'points',
@@ -24,38 +31,76 @@ class DataManager:
 			'hits',
 			'pim',
 			'fights',
-			'age' 
+			'age'
 		]
-
 		self.stats_weights = {
-			'points': 0.1,
-			'plusMinus': 0.2,
-			'shg': 0.2,
-			'faceoff': 0.4,
-			'blocks': 0.6,
-			'hits': 0.9,
-			'pim': 0.6,
-			'gp': 0.5,
-			'fights': 0.8,
-			'age': 0.4
+			'points':    0.10,
+			'plusMinus': 0.25,
+			'shg':       0.20,
+			'faceoff':   0.45,
+			'blocks':    0.65,
+			'hits':      0.90,
+			'pim':       0.65,
+			'gp':        0.50,
+			'fights':    0.80,
+			'age':       0.50,
+			'fr':        1.00,
+			'team':      0.20
 		}
-
 		self.year_weights = {
 			'20222023': 0.3,
-			'20232024': 0.6,
-			'20242025': 0.8
+			'20232024': 0.5,
+			'20242025': 0.9
 		}
 
-
-
+		self.team_weights = {
+			"ARI": 0.99,
+			"ANA": 1.01,
+			"BOS": 1.09,
+			"BUF": 1.02,
+			"CGY": 1.05,
+			"CAR": 0.99,
+			"CBJ": 1.06,
+			"CHI": 0.94,
+			"COL": 0.93,
+			"DAL": 0.91,
+			"DET": 1.01,
+			"EDM": 0.90,
+			"FLA": 1.10,
+			"LAK": 0.98,
+			"MIN": 0.92,
+			"MTL": 1.07,
+			"NSH": 1.03,
+			"NJD": 1.04,
+			"NYI": 1.01,
+			"NYR": 1.06,
+			"OTT": 1.07,
+			"PHI": 1.02,
+			"PIT": 0.99,
+			"SJS": 0.95,
+			"SEA": 0.98,
+			"STL": 1.02,
+			"TBL": 0.94,
+			"TOR": 1.06,
+			"VAN": 1.09,
+			"VGK": 0.98,
+			"WPG": 1.04
+		}
+  
 		self.data = {}
 		self.bios = json.load(open('data/json/player_bios.json'))
 		self.players = self.load_player_list()
 		self.seasons = ['20222023', '20232024', '20242025']
 		self.meta = self.load_meta()
 		self.base = {}
+		self._load_bulk_data()
+		self._add_ratios_to_data()
+		self._store_normalized_ratios()
+		self._store_player_data()
+		self._store_team_fantasy_scores()
+		self._store_fantasy_norms()
 
-		#load bulk of data
+	def _load_bulk_data(self):
 		json_dir = os.path.join('data', 'json')
 		for filename in os.listdir(json_dir):
 			if filename.endswith('.json') and is_season_type(filename):
@@ -67,7 +112,7 @@ class DataManager:
 					self.data[type] = {}
 					self.data[type][season] = self.load_file(type,season)
 
-		#add fights and faceoffs to ratios
+	def _add_ratios_to_data(self):
 		for player in self.players:
 			for season in self.seasons:
 				if player in self.data['full'][season]:
@@ -75,14 +120,12 @@ class DataManager:
 					self.data['ratios'][season][player]['fights_ratio'] = self.data['full'][season][player]['fights_ratio']
 					self.data['ratios'][season][player]['age_ratio'] = self.get_age_ratio(player)
 
-		#store normalized versions of ratios
+	def _store_normalized_ratios(self):
 		self.data['norms'] = {}
 		for season in self.seasons:
 			self.data['norms'][season] = self.normalize_ratios(season)
 
-
-
-		# store player data
+	def _store_player_data(self):
 		for player in self.players:
 			self.base[player] = {
 				'Team': self.bios[player]['team'],
@@ -91,6 +134,18 @@ class DataManager:
 				'Pos': self.bios[player]['position'],
 				'Age': self.bios[player]['age']
 			}
+
+	def _store_team_fantasy_scores(self):
+		self.team_fantasy_scores = {}
+		for season in self.seasons:
+			self.team_fantasy_scores[season] = self.get_team_fantasy_scores(season)
+
+	def _store_fantasy_norms(self):
+		self.fantasy_norms = {}
+		for season in self.seasons:
+			self.fantasy_norms[season] = self.get_normalized_fantasy_points(season)
+
+	# --- Data Transformation & Normalization ---
 
 
 	def normalize_ratios(self, season):
@@ -111,6 +166,67 @@ class DataManager:
 		return out
 
 
+	def get_normalized_fantasy_points(self, season):
+		out = {}
+		values = [self.get_fantasy_points(pid, season) for pid in self.players if pid in self.data['full'][season]]
+		min_val, max_val = min(values), max(values)
+
+		for player in self.players:
+			if player not in self.data['full'][season]:
+				continue
+
+			out[player] = (self.get_fantasy_points(player, season) - min_val) / (max_val - min_val) if max_val > min_val else 0
+		
+		return out
+
+	def get_fantasy_ratio(self, player, season):
+		values = {
+			'points': 0.5,
+			'plusMinus': 2,
+			'faceoff': 1,
+			'shg': 2,
+			'blocks': 3,
+			'pim': 5,
+			'hits': 7
+		}
+
+		if player not in self.data['full'][season]:
+			return 0
+
+		fp = 0.0
+		for v in values.keys():
+			fp += self.data['full'][season][player][v+'_ratio'] * values[v]
+
+		return fp / float(self.data['full'][season][player]['gp'])
+
+
+	def get_team_fantasy_scores(self, season):
+		teams = {}
+		games_played = {}
+		for player in self.players:
+			if player not in self.data['full'][season]:
+				continue
+
+			team = self.bios[player]['team']
+			if team not in teams:
+				teams[team] = 0
+				games_played[team] = 0
+
+			games_played[team] += self.data['full'][season][player]['gp']
+			teams[team] += self.get_fantasy_ratio(player, season)
+
+		for team in teams:
+			if team in games_played and games_played[team] > 0:
+				teams[team] /= games_played[team]
+
+		normalized_teams = {}
+		min_val = min(teams.values())
+		max_val = max(teams.values())
+		for team in teams:
+			normalized_teams[team] = (teams[team] - min_val) / (max_val - min_val) if max_val > min_val else 0
+		return normalized_teams
+
+
 	def get_fantasy_points(self, player, season):
 		values = {
 			'points': 0.5,
@@ -122,11 +238,11 @@ class DataManager:
 			'hits': 7
 		}
 
-		fp = 0
+		fp = 0.0
 		for v in values.keys():
 			fp += self.data['full'][season][player][v] * values[v]
 		
-		return fp / self.data['full'][season][player]['gp']
+		return fp / float(self.data['full'][season][player]['gp'])
 
 
 	def get_age_ratio(self, player, peak=30, alpha=0.0025, minf=0.8, maxf=1.2):
@@ -265,10 +381,12 @@ class DataManager:
 			season_rating += (self.data['ratios'][season][player_id]['hits_ratio'] * self.stats_weights['hits'])
 			season_rating += (self.data['ratios'][season][player_id]['pim_ratio'] * self.stats_weights['pim'])
 			season_rating += (self.data['ratios'][season][player_id]['fights_ratio'] * self.stats_weights['fights'])
+			season_rating += (self.fantasy_norms[season][player_id] * self.stats_weights['fr'])
+			# season_rating += (self.team_fantasy_scores[season].get(self.bios[player_id]['team'], 0) * self.stats_weights['team'])
 			season_rating += ((self.data['full'][season][player_id]['gp'] / 82) * self.stats_weights['gp'])
 			rating += (season_rating * self.year_weights[season])
 
-		return rating * self.get_age_ratio(player_id)
+		return rating * self.get_age_ratio(player_id) * self.team_weights.get(self.bios[player_id]['team'], 1.0)
 
 	def set_pick(self, player, pick):
 		self.meta[player]['picked'] = pick

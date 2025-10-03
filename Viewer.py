@@ -114,8 +114,9 @@ if st.session_state.page == "main":
 
     grid_options = gb.build()
 
+    available = df[df['Picked'] == 0]
     grid_response = AgGrid(
-        df,
+        available,
         gridOptions=grid_options,
         update_mode=GridUpdateMode.VALUE_CHANGED,
         height=2000,
@@ -124,8 +125,8 @@ if st.session_state.page == "main":
         enable_enterprise_modules=True,
     )
 
-    temp = df[df['Notes'].str.contains('[DB]')]
-    board = temp[temp['Picked'] == 0]
+    board = df[df["Picked"] == 1]
+    # board = temp[temp['Picked'] == 0]
     st.header("Draft Board")
     draft_board = AgGrid(
         board,
@@ -170,6 +171,7 @@ elif st.session_state.page == "player":
     with col2:
         st.header(f"{player_info['name']}")
         st.write(f'Rating: {dm.get_rating(player)}')
+        st.write(f'Position: {player_info.get("pos", "N/A")}')
         st.write(f"Height: {player_info.get('height', 'N/A')} inches")
         st.write(f"Weight: {player_info.get('weight', 'N/A')} lbs")
         st.write(f"Age: {player_info.get('age', 'N/A')}")
@@ -194,4 +196,43 @@ elif st.session_state.page == "player":
     selected_stat = st.selectbox("Select stat to graph over time", stat_options, width=500)
 
     # Plot the stat over seasons
-    st.line_chart(player_data.set_index('season')[selected_stat], width=500, use_container_width=False)
+    col_chart, col_rating = st.columns([2, 3])
+    with col_chart:
+        st.line_chart(player_data.set_index('season')[selected_stat], width=500, use_container_width=False)
+
+    # Rating components formula
+    with col_rating:
+        st.subheader("Rating Formula")
+        # Use current season
+        current_season = '20242025'
+        if player in dm.data['ratios'][current_season]:
+            stat_weights = dm.stats_weights
+            stat_ratios = dm.data['ratios'][current_season][player]
+            formula_lines = []
+            # Prepare aligned formula lines
+            formula_lines = []
+            stat_names = ['Points', 'PlusMinus', 'SHG', 'Faceoff', 'Blocks', 'Hits', 'PIM', 'Fights']
+            stat_keys = ['points', 'plusMinus', 'shg', 'faceoff', 'blocks', 'hits', 'pim', 'fights']
+            # Set column widths for perfect alignment
+            col1 = 12  # stat name
+            col2 = 9   # ratio
+            col3 = 7   # times symbol
+            col4 = 7   # weight
+            col5 = 3   # equals
+            col6 = 9   # product
+            header = f"{'Stat':<{col1}} {'Ratio':>{col2}}   {'×':^{col3}} {'Weight':>{col4}}   {'=':^{col5}} {'Product':>{col6}}"
+            formula_lines.append(header)
+            formula_lines.append('-' * len(header))
+            for name, stat in zip(stat_names, stat_keys):
+                ratio_val = stat_ratios.get(f"{stat}_ratio", 0)
+                weight_val = stat_weights.get(stat, 0)
+                product = ratio_val * weight_val
+                formula_lines.append(f"{name:<{col1}} {ratio_val:>{col2}.3f}   {'×':^{col3}} {weight_val:>{col4}.3f}   {'=':^{col5}} {product:>{col6}.3f}")
+            # Age ratio
+            age_ratio = dm.get_age_ratio(player)
+            formula_lines.append(f"{'Age Ratio':<{col1}} {age_ratio:>{col2}.3f}")
+            # Final rating
+            final_rating = dm.get_rating(player)
+            formula_lines.append(f"{'Final Rating':<{col1}} {final_rating:>{col6}.3f}")
+            # Use Markdown code block for better spacing in Streamlit
+            st.markdown("```\n" + "\n".join(formula_lines) + "\n```")

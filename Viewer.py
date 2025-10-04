@@ -62,7 +62,7 @@ if st.session_state.page == "main":
 
 
     # Sort so picked players are at the bottom
-    df = df.sort_values(by='Picked')
+    df = df.sort_values(by='Rating', ascending=False)
 
     for col in df.columns:
         if col not in ['Name', 'Notes', 'Pos', 'Team', 'Picked', 'ID']:
